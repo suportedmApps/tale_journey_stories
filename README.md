@@ -4,7 +4,7 @@ Este repositório armazena todo o conteúdo remoto utilizado pelo aplicativo Tal
 
 ## Estrutura
 
-- stories → histórias curtas
+- stories → histórias completas com capítulos
 - chapters → capítulos de séries
 - quick_reads → leituras rápidas
 
@@ -23,3 +23,9 @@ Este repositório armazena todo o conteúdo remoto utilizado pelo aplicativo Tal
 - evitar textos muito longos em quick_reads
 - manter consistência de level
 - nunca alterar IDs existentes
+- levels padronizados:
+  - Beginner
+  - Basic
+  - Intermediate
+  - Advanced
+  - Fluent

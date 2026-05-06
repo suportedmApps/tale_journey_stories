@@ -1,5 +1,18 @@
 {
-  "title": "Un paseo en el parque",
-  "level": "Principiante",
-  "content": "Emma camina al parque cada mañana. Le gusta el aire fresco y el sonido de los pájaros. Hoy ve un pequeño perro jugando con una pelota roja. Ella sonríe y se sienta en un banco para leer su libro."
+  "id": "story_01",
+  "title": "El Viaje a Tokio",
+  "level": "Intermediate",
+  "description": "Lucas comienza su aventura en Japón y descubre un mundo completamente nuevo.",
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "El Comienzo",
+      "content": "Lucas siempre había soñado con viajar por el mundo. Un día compró un boleto de ida a Japón. Preparó su mochila, se despidió de su familia y comenzó la mayor aventura de su vida."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Llegada a Tokio",
+      "content": "Cuando Lucas llegó a Tokio, todo parecía diferente. Las calles estaban llenas, los carteles estaban en japonés y las luces de la ciudad brillaban más que nunca."
+    }
+  ]
 }
