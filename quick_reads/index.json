@@ -1,12 +1,14 @@
 [
   {
+    "id": "read_01",
     "title": "Morning Routine",
     "level": "Basic",
-    "time": "3 min"
+    "content": "I wake up at 6 AM every day. Then I brush my teeth and prepare breakfast..."
   },
   {
+    "id": "read_02",
     "title": "Travel Tips",
     "level": "Intermediate",
-    "time": "5 min"
+    "content": "Traveling helps people understand new cultures and improve communication..."
   }
 ]
