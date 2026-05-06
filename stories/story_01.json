@@ -1,11 +1,18 @@
 {
+  "id": "story_01",
   "title": "The Lost Kingdom",
   "level": "Intermediate",
   "language": "en",
   "chapters": [
     {
+      "id": "chapter_01",
       "title": "Chapter 1",
-      "content": "Once upon a time..."
+      "content": "Once upon a time, in a forgotten kingdom, there lived a young explorer who dreamed about discovering hidden secrets..."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Chapter 2",
+      "content": "The next morning, she followed an ancient map that led her deep into the enchanted forest..."
     }
   ]
 }
