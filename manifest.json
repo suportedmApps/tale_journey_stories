@@ -1,0 +1,43 @@
+{
+  "featured_story": "story_01",
+
+  "daily_recommended_quick_reads": [
+    "qr_001",
+    "qr_002",
+    "qr_003"
+  ],
+
+  "stories_order": [
+    "story_01",
+    "story_02",
+    "story_03"
+  ],
+
+  "levels": {
+    "story_01": "Beginner",
+    "story_02": "Intermediate",
+    "story_03": "Advanced"
+  },
+
+  "categories": {
+    "story_01": "Travel",
+    "story_02": "Daily Life",
+    "story_03": "Business English"
+  },
+
+  "premium_content": [
+    "story_03"
+  ],
+
+  "onboarding_recommended": {
+    "beginner": [
+      "story_01"
+    ],
+    "intermediate": [
+      "story_02"
+    ],
+    "advanced": [
+      "story_03"
+    ]
+  }
+}
