@@ -1,0 +1,20 @@
+[
+  {
+    "id": "qr_001",
+    "title": "Morning Coffee",
+    "level": "Beginner",
+    "content": "Sarah drinks coffee every morning before work. She likes it hot and strong. Sometimes she reads the news while drinking it."
+  },
+  {
+    "id": "qr_002",
+    "title": "At the Supermarket",
+    "level": "Beginner",
+    "content": "Tom goes to the supermarket every Saturday. He buys fruits, vegetables, milk, and bread. Today he also buys chocolate."
+  },
+  {
+    "id": "qr_003",
+    "title": "Rainy Day",
+    "level": "Basic",
+    "content": "It is raining outside. Anna stays home and watches a movie. She also makes tea and listens to music."
+  }
+]
