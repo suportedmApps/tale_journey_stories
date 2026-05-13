@@ -1,0 +1,24 @@
+[
+  {
+    "id": "book_001",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "category": "Classic Literature",
+    "level": "Intermediate",
+    "cover_url": "https://...",
+    "chapters": 61,
+    "word_count": 122000,
+    "version": 1
+  },
+  {
+    "id": "book_002",
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "category": "Fantasy",
+    "level": "Beginner",
+    "cover_url": "https://...",
+    "chapters": 12,
+    "word_count": 27000,
+    "version": 1
+  }
+]
