@@ -1,0 +1,26 @@
+{
+  "id": "story_23",
+  "title": "The Hidden Map",
+  "category": "Adventure",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Old Bookstore",
+      "order": 1,
+      "content": "While exploring an old bookstore, Clara found a dusty map hidden inside a forgotten adventure novel. Strange symbols were drawn across the paper."
+    },
+    {
+      "id": "chapter_02",
+      "title": "The First Clue",
+      "order": 2,
+      "content": "The map pointed to a forest outside the city. Curious and excited, Clara packed a flashlight, water, and followed the mysterious directions."
+    },
+    {
+      "id": "chapter_03",
+      "title": "Something Buried",
+      "order": 3,
+      "content": "Near an ancient tree, she found a small wooden box buried under the roots. Her adventure had only just begun."
+    }
+  ]
+}

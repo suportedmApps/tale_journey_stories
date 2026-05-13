@@ -1,0 +1,26 @@
+{
+  "id": "story_46",
+  "title": "Italian Dinner",
+  "category": "Food",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "The Reservation",
+      "order": 1,
+      "content": "Emma booked a table at a small Italian restaurant hidden in a quiet street downtown. Everyone said it served the best pasta in the city."
+    },
+    {
+      "id": "chapter_02",
+      "title": "The Perfect Dish",
+      "order": 2,
+      "content": "She ordered handmade ravioli with fresh tomato sauce. The first bite was enough to understand why people loved the place so much."
+    },
+    {
+      "id": "chapter_03",
+      "title": "Dessert Decision",
+      "order": 3,
+      "content": "Even though she was already full, Emma could not leave without trying the tiramisu. Some decisions are simply correct."
+    }
+  ]
+}

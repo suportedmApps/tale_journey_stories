@@ -1,0 +1,26 @@
+{
+  "id": "story_33",
+  "title": "Last Train Home",
+  "category": "Mystery",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Empty Platform",
+      "order": 1,
+      "content": "Marcus missed the earlier train and waited alone for the last one home. The station was almost empty, except for one silent passenger."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Unfamiliar Face",
+      "order": 2,
+      "content": "During the ride, the stranger sat across from him without saying a word. Yet Marcus felt strangely certain he had seen that face before."
+    },
+    {
+      "id": "chapter_03",
+      "title": "The Old Photograph",
+      "order": 3,
+      "content": "When he arrived home, Marcus found an old family photograph. The same stranger was standing there, taken more than thirty years ago."
+    }
+  ]
+}

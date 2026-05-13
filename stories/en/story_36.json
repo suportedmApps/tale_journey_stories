@@ -1,0 +1,26 @@
+{
+  "id": "story_36",
+  "title": "Unexpected Message",
+  "category": "Romance",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Late Night Notification",
+      "order": 1,
+      "content": "At midnight, Sofia received a message from someone she had not spoken to in years. It was simple: 'I was thinking about you today.'"
+    },
+    {
+      "id": "chapter_02",
+      "title": "Old Memories",
+      "order": 2,
+      "content": "She stared at the screen, remembering old conversations, unfinished plans, and the silence that had followed them for so long."
+    },
+    {
+      "id": "chapter_03",
+      "title": "A Second Chance",
+      "order": 3,
+      "content": "After a long pause, Sofia replied. Sometimes life offers a second chance, but only if we are brave enough to answer."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "story_17",
+  "title": "The Startup Meeting",
+  "category": "Business English",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Monday Pitch",
+      "order": 1,
+      "content": "Sophia arrived early for the startup meeting. Today, she would present her idea to investors for the first time, and she wanted everything to be perfect."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Presentation Time",
+      "order": 2,
+      "content": "She explained the project clearly: a language learning app with immersive stories and AI support. The investors listened carefully and asked important questions."
+    },
+    {
+      "id": "chapter_03",
+      "title": "A New Opportunity",
+      "order": 3,
+      "content": "After the meeting, one investor asked for a second conversation. Sophia smiled—this could be the beginning of something much bigger."
+    }
+  ]
+}

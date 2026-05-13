@@ -1,0 +1,26 @@
+{
+  "id": "story_19",
+  "title": "First Day at Work",
+  "category": "Business English",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "New Office",
+      "order": 1,
+      "content": "Maya arrived at her new office early. She wore her best clothes and carried a notebook, ready to make a good first impression."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Meeting the Team",
+      "order": 2,
+      "content": "Her manager introduced her to the team. Everyone was friendly, and her desk was already prepared with a welcome note."
+    },
+    {
+      "id": "chapter_03",
+      "title": "Learning Fast",
+      "order": 3,
+      "content": "The first day was full of new names, passwords, and meetings. Maya felt tired but excited for everything ahead."
+    }
+  ]
+}

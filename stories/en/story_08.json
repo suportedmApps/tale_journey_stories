@@ -1,0 +1,26 @@
+{
+  "id": "story_08",
+  "title": "Backpacking Thailand",
+  "category": "Travel",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Bangkok Streets",
+      "order": 1,
+      "content": "Ryan started his trip in Bangkok. The streets were noisy, colorful, and full of delicious food smells from every corner."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Night Market",
+      "order": 2,
+      "content": "At night, he visited a busy market where he tried spicy noodles and talked to travelers from all around the world."
+    },
+    {
+      "id": "chapter_03",
+      "title": "Island Dreams",
+      "order": 3,
+      "content": "The next morning, Ryan took a boat to the islands. Clear water and quiet beaches were waiting for him there."
+    }
+  ]
+}

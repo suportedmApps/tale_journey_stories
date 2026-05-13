@@ -1,0 +1,26 @@
+{
+  "id": "story_06",
+  "title": "Airport in London",
+  "category": "Travel",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Early Flight",
+      "order": 1,
+      "content": "Noah arrived at Heathrow Airport before sunrise. His flight to New York was early, and the airport was already full of travelers."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Security Check",
+      "order": 2,
+      "content": "He placed his backpack on the scanner and waited nervously. Traveling always made him excited, but also a little anxious."
+    },
+    {
+      "id": "chapter_03",
+      "title": "Boarding Time",
+      "order": 3,
+      "content": "When the gate opened, Noah smiled. Another journey was about to begin, and he was ready for the adventure ahead."
+    }
+  ]
+}

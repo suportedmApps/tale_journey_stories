@@ -3,25 +3,24 @@
   "title": "The Tokyo Journey",
   "category": "Travel",
   "version": 1,
-
   "chapters": [
     {
       "id": "chapter_01",
       "title": "The Beginning",
       "order": 1,
-      "content": "Lucas had always dreamed of traveling the world. One day, he bought a one-way ticket to Japan..."
+      "content": "Lucas had always dreamed of traveling the world. One day, he bought a one-way ticket to Japan. He packed his backpack, said goodbye to his family, and started the greatest adventure of his life."
     },
     {
       "id": "chapter_02",
       "title": "Arrival in Tokyo",
       "order": 2,
-      "content": "When Lucas arrived in Tokyo, everything felt different..."
+      "content": "When Lucas arrived in Tokyo, everything felt different. The streets were busy, the signs were in Japanese, and the city lights were brighter than he had ever seen before."
     },
     {
       "id": "chapter_03",
       "title": "First Friends",
       "order": 3,
-      "content": "At a small café near Shibuya, Lucas met Aiko..."
+      "content": "At a small café near Shibuya, Lucas met Aiko, a university student who spoke English fluently. She offered to help him understand the city better."
     }
   ]
 }

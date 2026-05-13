@@ -1,0 +1,26 @@
+{
+  "id": "story_30",
+  "title": "Room 204",
+  "category": "Mystery",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "The Hotel Key",
+      "order": 1,
+      "content": "When Julia checked into the old hotel, the receptionist hesitated before handing her the key to room 204. Something about his expression made her curious."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Strange Noises",
+      "order": 2,
+      "content": "That night, she heard soft footsteps in the hallway and a quiet knock on her door. But when she opened it, nobody was there."
+    },
+    {
+      "id": "chapter_03",
+      "title": "The Hidden Diary",
+      "order": 3,
+      "content": "Inside the bedside table, Julia found an old diary left by a previous guest. Its final page ended with a warning about room 204."
+    }
+  ]
+}

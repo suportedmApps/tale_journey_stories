@@ -1,0 +1,26 @@
+{
+  "id": "story_42",
+  "title": "Deadline Friday",
+  "category": "Work",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Too Many Tasks",
+      "order": 1,
+      "content": "Friday morning started with ten unread emails and three urgent tasks. Oliver knew it would be a very long day."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Unexpected Delay",
+      "order": 2,
+      "content": "Just before lunch, a key client requested major changes. The deadline stayed the same, but the work doubled."
+    },
+    {
+      "id": "chapter_03",
+      "title": "Done at Last",
+      "order": 3,
+      "content": "At 8 PM, Oliver finally sent the final report. Exhausted but satisfied, he closed his laptop and welcomed the weekend."
+    }
+  ]
+}

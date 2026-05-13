@@ -1,0 +1,26 @@
+{
+  "id": "story_10",
+  "title": "Grocery Day",
+  "category": "Daily Life",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Shopping List",
+      "order": 1,
+      "content": "Every Saturday, Mark writes a shopping list before going to the supermarket. Milk, bread, eggs, fruits, and vegetables are always on the list."
+    },
+    {
+      "id": "chapter_02",
+      "title": "At the Market",
+      "order": 2,
+      "content": "The supermarket is busy in the afternoon. Mark carefully chooses fresh tomatoes, bananas, and his favorite chocolate cookies."
+    },
+    {
+      "id": "chapter_03",
+      "title": "Back Home",
+      "order": 3,
+      "content": "When he returns home, Mark organizes everything in the kitchen. Then he makes pasta for dinner and relaxes for the evening."
+    }
+  ]
+}

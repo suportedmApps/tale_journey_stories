@@ -9,16 +9,392 @@
   },
   {
     "id": "story_02",
-    "title": "The London Experience",
-    "category": "Daily Life",
-    "level": "Beginner",
-    "version": 2,
+    "title": "Lost in Rome",
+    "category": "Travel",
+    "level": "Intermediate",
+    "version": 1,
     "is_premium": false
   },
   {
     "id": "story_03",
-    "title": "Business Meeting",
+    "title": "Coffee in Paris",
+    "category": "Travel",
+    "level": "Beginner",
+    "version": 1,
+    "is_premium": false
+  },
+  {
+    "id": "story_04",
+    "title": "The Train to Kyoto",
+    "category": "Travel",
+    "level": "Intermediate",
+    "version": 1,
+    "is_premium": false
+  },
+  {
+    "id": "story_05",
+    "title": "Weekend in Barcelona",
+    "category": "Travel",
+    "level": "Beginner",
+    "version": 1,
+    "is_premium": false
+  },
+  {
+    "id": "story_06",
+    "title": "Airport in London",
+    "category": "Travel",
+    "level": "Beginner",
+    "version": 1,
+    "is_premium": false
+  },
+  {
+    "id": "story_07",
+    "title": "Sunset in Santorini",
+    "category": "Travel",
+    "level": "Intermediate",
+    "version": 1,
+    "is_premium": false
+  },
+  {
+    "id": "story_08",
+    "title": "Backpacking Thailand",
+    "category": "Travel",
+    "level": "Intermediate",
+    "version": 1,
+    "is_premium": false
+  },
+  {
+    "id": "story_09",
+    "title": "Morning Routine",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "version": 1,
+    "is_premium": false
+  },
+  {
+    "id": "story_10",
+    "title": "Grocery Day",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "version": 1,
+    "is_premium": false
+  },
+  {
+    "id": "story_11",
+    "title": "Rainy Sunday",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "version": 1,
+    "is_premium": false
+  },
+  {
+    "id": "story_12",
+    "title": "The New Neighbor",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "version": 1,
+    "is_premium": false
+  },
+  {
+    "id": "story_13",
+    "title": "Apartment Hunting",
+    "category": "Daily Life",
+    "level": "Intermediate",
+    "version": 1,
+    "is_premium": false
+  },
+  {
+    "id": "story_14",
+    "title": "At the Gym",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "version": 1,
+    "is_premium": false
+  },
+  {
+    "id": "story_15",
+    "title": "Family Dinner",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "version": 1,
+    "is_premium": false
+  },
+  {
+    "id": "story_16",
+    "title": "Saturday Laundry",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "version": 1,
+    "is_premium": false
+  },
+  {
+    "id": "story_17",
+    "title": "The Startup Meeting",
     "category": "Business English",
+    "level": "Advanced",
+    "version": 1,
+    "is_premium": false
+  },
+  {
+    "id": "story_18",
+    "title": "Interview Day",
+    "category": "Business English",
+    "level": "Intermediate",
+    "version": 1,
+    "is_premium": false
+  },
+  {
+    "id": "story_19",
+    "title": "First Day at Work",
+    "category": "Business English",
+    "level": "Intermediate",
+    "version": 1,
+    "is_premium": false
+  },
+  {
+    "id": "story_20",
+    "title": "Office Presentation",
+    "category": "Business English",
+    "level": "Advanced",
+    "version": 1,
+    "is_premium": false
+  },
+  {
+    "id": "story_21",
+    "title": "Client Call",
+    "category": "Business English",
+    "level": "Advanced",
+    "version": 1,
+    "is_premium": false
+  },
+  {
+    "id": "story_22",
+    "title": "The Promotion",
+    "category": "Business English",
+    "level": "Intermediate",
+    "version": 1,
+    "is_premium": false
+  },
+  {
+    "id": "story_23",
+    "title": "The Hidden Map",
+    "category": "Adventure",
+    "level": "Intermediate",
+    "version": 1,
+    "is_premium": false
+  },
+  {
+    "id": "story_24",
+    "title": "Island Escape",
+    "category": "Adventure",
+    "level": "Intermediate",
+    "version": 1,
+    "is_premium": false
+  },
+  {
+    "id": "story_25",
+    "title": "Desert Crossing",
+    "category": "Adventure",
+    "level": "Advanced",
+    "version": 1,
+    "is_premium": false
+  },
+  {
+    "id": "story_26",
+    "title": "Into the Mountains",
+    "category": "Adventure",
+    "level": "Intermediate",
+    "version": 1,
+    "is_premium": false
+  },
+  {
+    "id": "story_27",
+    "title": "Midnight Train",
+    "category": "Adventure",
+    "level": "Intermediate",
+    "version": 1,
+    "is_premium": false
+  },
+  {
+    "id": "story_28",
+    "title": "The Secret Cave",
+    "category": "Adventure",
+    "level": "Advanced",
+    "version": 1,
+    "is_premium": false
+  },
+  {
+    "id": "story_29",
+    "title": "The Missing Letter",
+    "category": "Mystery",
+    "level": "Intermediate",
+    "version": 1,
+    "is_premium": false
+  },
+  {
+    "id": "story_30",
+    "title": "Room 204",
+    "category": "Mystery",
+    "level": "Intermediate",
+    "version": 1,
+    "is_premium": false
+  },
+  {
+    "id": "story_31",
+    "title": "Shadows in the Library",
+    "category": "Mystery",
+    "level": "Advanced",
+    "version": 1,
+    "is_premium": false
+  },
+  {
+    "id": "story_32",
+    "title": "The Forgotten Key",
+    "category": "Mystery",
+    "level": "Intermediate",
+    "version": 1,
+    "is_premium": false
+  },
+  {
+    "id": "story_33",
+    "title": "Last Train Home",
+    "category": "Mystery",
+    "level": "Advanced",
+    "version": 1,
+    "is_premium": false
+  },
+  {
+    "id": "story_34",
+    "title": "Coffee Shop Smile",
+    "category": "Romance",
+    "level": "Beginner",
+    "version": 1,
+    "is_premium": false
+  },
+  {
+    "id": "story_35",
+    "title": "Autumn in Seoul",
+    "category": "Romance",
+    "level": "Intermediate",
+    "version": 1,
+    "is_premium": false
+  },
+  {
+    "id": "story_36",
+    "title": "Unexpected Message",
+    "category": "Romance",
+    "level": "Intermediate",
+    "version": 1,
+    "is_premium": true
+  },
+  {
+    "id": "story_37",
+    "title": "Summer by the Sea",
+    "category": "Romance",
+    "level": "Intermediate",
+    "version": 1,
+    "is_premium": true
+  },
+  {
+    "id": "story_38",
+    "title": "The AI Assistant",
+    "category": "Technology",
+    "level": "Advanced",
+    "version": 1,
+    "is_premium": true
+  },
+  {
+    "id": "story_39",
+    "title": "Hacker Night",
+    "category": "Technology",
+    "level": "Advanced",
+    "version": 1,
+    "is_premium": true
+  },
+  {
+    "id": "story_40",
+    "title": "Startup Garage",
+    "category": "Technology",
+    "level": "Intermediate",
+    "version": 1,
+    "is_premium": true
+  },
+  {
+    "id": "story_41",
+    "title": "Digital Nomad",
+    "category": "Technology",
+    "level": "Intermediate",
+    "version": 1,
+    "is_premium": true
+  },
+  {
+    "id": "story_42",
+    "title": "Deadline Friday",
+    "category": "Work",
+    "level": "Intermediate",
+    "version": 1,
+    "is_premium": true
+  },
+  {
+    "id": "story_43",
+    "title": "Team Lunch",
+    "category": "Work",
+    "level": "Beginner",
+    "version": 1,
+    "is_premium": true
+  },
+  {
+    "id": "story_44",
+    "title": "Remote Worker",
+    "category": "Work",
+    "level": "Intermediate",
+    "version": 1,
+    "is_premium": true
+  },
+  {
+    "id": "story_45",
+    "title": "Monday Meeting",
+    "category": "Work",
+    "level": "Intermediate",
+    "version": 1,
+    "is_premium": true
+  },
+  {
+    "id": "story_46",
+    "title": "Italian Dinner",
+    "category": "Food",
+    "level": "Beginner",
+    "version": 1,
+    "is_premium": true
+  },
+  {
+    "id": "story_47",
+    "title": "Street Food Market",
+    "category": "Food",
+    "level": "Intermediate",
+    "version": 1,
+    "is_premium": true
+  },
+  {
+    "id": "story_48",
+    "title": "Grandma's Recipe",
+    "category": "Food",
+    "level": "Beginner",
+    "version": 1,
+    "is_premium": true
+  },
+  {
+    "id": "story_49",
+    "title": "Festival of Lights",
+    "category": "Culture",
+    "level": "Intermediate",
+    "version": 1,
+    "is_premium": true
+  },
+  {
+    "id": "story_50",
+    "title": "Traditional Tea Ceremony",
+    "category": "Culture",
     "level": "Advanced",
     "version": 1,
     "is_premium": true

@@ -1,0 +1,26 @@
+{
+  "id": "story_43",
+  "title": "Team Lunch",
+  "category": "Work",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Friday Tradition",
+      "order": 1,
+      "content": "Every Friday, the team went to lunch together. It was the one time nobody talked about deadlines or spreadsheets."
+    },
+    {
+      "id": "chapter_02",
+      "title": "More Than Coworkers",
+      "order": 2,
+      "content": "During lunch, they shared travel stories, favorite movies, and funny mistakes from old jobs. The office felt lighter afterward."
+    },
+    {
+      "id": "chapter_03",
+      "title": "Back to Work",
+      "order": 3,
+      "content": "Returning to the office, everyone seemed more relaxed. Sometimes productivity starts with simply eating together."
+    }
+  ]
+}

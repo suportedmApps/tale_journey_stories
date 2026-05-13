@@ -1,0 +1,26 @@
+{
+  "id": "story_44",
+  "title": "Remote Worker",
+  "category": "Work",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Home Office Setup",
+      "order": 1,
+      "content": "Nina transformed a small corner of her apartment into a home office. A desk, a lamp, and a quiet space changed everything."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Video Calls All Day",
+      "order": 2,
+      "content": "Remote work meant flexibility, but also endless video meetings. Sometimes Nina missed simple conversations near the office coffee machine."
+    },
+    {
+      "id": "chapter_03",
+      "title": "Finding Balance",
+      "order": 3,
+      "content": "She learned to close the laptop on time and go for evening walks. Working from home required boundaries as much as freedom."
+    }
+  ]
+}

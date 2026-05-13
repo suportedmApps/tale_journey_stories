@@ -1,0 +1,26 @@
+{
+  "id": "story_21",
+  "title": "Client Call",
+  "category": "Business English",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Before the Call",
+      "order": 1,
+      "content": "Emma checked her notes carefully before the client call. It was an important international meeting, and she wanted to answer every question clearly."
+    },
+    {
+      "id": "chapter_02",
+      "title": "The Discussion",
+      "order": 2,
+      "content": "The client asked about deadlines, costs, and future plans. Emma listened carefully and explained the next steps with confidence."
+    },
+    {
+      "id": "chapter_03",
+      "title": "Successful Outcome",
+      "order": 3,
+      "content": "At the end of the call, the client sounded satisfied. Emma closed her laptop with relief and wrote down the action items for the team."
+    }
+  ]
+}

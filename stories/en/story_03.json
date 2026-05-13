@@ -1,0 +1,26 @@
+{
+  "id": "story_03",
+  "title": "Coffee in Paris",
+  "category": "Travel",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Morning Walk",
+      "order": 1,
+      "content": "Daniel walked through the quiet streets of Paris early in the morning. The smell of fresh bread came from every bakery he passed."
+    },
+    {
+      "id": "chapter_02",
+      "title": "The Small Café",
+      "order": 2,
+      "content": "He found a tiny café near the river and ordered coffee and a croissant. The waitress smiled and welcomed him in French."
+    },
+    {
+      "id": "chapter_03",
+      "title": "A New Routine",
+      "order": 3,
+      "content": "Every morning after that, Daniel returned to the same café. It became his favorite place to write and watch the city wake up."
+    }
+  ]
+}

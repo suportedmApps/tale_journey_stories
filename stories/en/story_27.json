@@ -1,0 +1,26 @@
+{
+  "id": "story_27",
+  "title": "Midnight Train",
+  "category": "Adventure",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Last Ticket",
+      "order": 1,
+      "content": "Sophie bought the last ticket for the midnight train. She did not know exactly where she was going, but she knew she needed a new beginning."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Silent Passengers",
+      "order": 2,
+      "content": "The train was quiet. Most passengers were asleep, and only the sound of the wheels moving on the tracks filled the night."
+    },
+    {
+      "id": "chapter_03",
+      "title": "A New City",
+      "order": 3,
+      "content": "At sunrise, Sophie arrived in a city she had never seen before. It felt strange, uncertain, and full of possibilities."
+    }
+  ]
+}

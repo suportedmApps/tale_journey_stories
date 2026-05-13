@@ -1,0 +1,26 @@
+{
+  "id": "story_13",
+  "title": "Apartment Hunting",
+  "category": "Daily Life",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Searching Online",
+      "order": 1,
+      "content": "Carla wanted to move closer to her office, so she spent hours looking at apartment ads online and comparing prices."
+    },
+    {
+      "id": "chapter_02",
+      "title": "The First Visit",
+      "order": 2,
+      "content": "The first apartment looked beautiful in the photos, but in real life it was smaller and darker than she expected."
+    },
+    {
+      "id": "chapter_03",
+      "title": "The Right Choice",
+      "order": 3,
+      "content": "The third apartment had sunlight, a small balcony, and a quiet street nearby. Carla knew immediately it was the right place."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "story_31",
+  "title": "Shadows in the Library",
+  "category": "Mystery",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Late Study Night",
+      "order": 1,
+      "content": "Ethan stayed late at the university library preparing for exams. As midnight approached, the building became silent and strangely cold."
+    },
+    {
+      "id": "chapter_02",
+      "title": "A Figure Between Shelves",
+      "order": 2,
+      "content": "While searching for a book, he noticed a shadow moving between the shelves. He followed it, but every aisle was empty."
+    },
+    {
+      "id": "chapter_03",
+      "title": "The Forgotten Record",
+      "order": 3,
+      "content": "In an old archive room, Ethan found records of a student who disappeared there decades ago. Suddenly, the library felt much less ordinary."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "story_40",
+  "title": "Startup Garage",
+  "category": "Technology",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Small Beginning",
+      "order": 1,
+      "content": "Three friends started their company inside a small garage with two laptops, one whiteboard, and a very ambitious idea."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Long Nights",
+      "order": 2,
+      "content": "They worked late every night, fixing bugs, improving designs, and learning how difficult building a startup could be."
+    },
+    {
+      "id": "chapter_03",
+      "title": "First Investor",
+      "order": 3,
+      "content": "Months later, after many failed meetings, one investor finally believed in the project. The garage dream was becoming real."
+    }
+  ]
+}

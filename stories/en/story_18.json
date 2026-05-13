@@ -1,0 +1,26 @@
+{
+  "id": "story_18",
+  "title": "Interview Day",
+  "category": "Business English",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Preparing Answers",
+      "order": 1,
+      "content": "Daniel reviewed possible interview questions all morning. He practiced speaking clearly and tried to stay calm before leaving home."
+    },
+    {
+      "id": "chapter_02",
+      "title": "The Interview Room",
+      "order": 2,
+      "content": "The office was modern and quiet. During the interview, he spoke about his experience, his goals, and why he wanted to join the company."
+    },
+    {
+      "id": "chapter_03",
+      "title": "The Phone Call",
+      "order": 3,
+      "content": "Two days later, Daniel received a call. He got the job. All the preparation and nervousness were finally worth it."
+    }
+  ]
+}
