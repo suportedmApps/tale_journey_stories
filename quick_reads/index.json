@@ -5,5 +5,19 @@
     "category": "Daily Life",
     "level": "Beginner",
     "version": 1
+  },
+  {
+    "id": "qr_002",
+    "title": "At the Supermarket",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "content": "Tom goes to the supermarket every Saturday. He buys fruits, vegetables, milk, and bread. Today he also buys chocolate."
+  },
+  {
+    "id": "qr_003",
+    "title": "Rainy Day",
+    "category": "Daily Life",
+    "level": "Basic",
+    "content": "It is raining outside. Anna stays home and watches a movie. She also makes tea and listens to music."
   }
 ]
