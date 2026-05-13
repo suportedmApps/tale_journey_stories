@@ -398,5 +398,13 @@
     "level": "Advanced",
     "version": 1,
     "is_premium": true
+  },
+  {
+    "id": "story_51",
+    "title": "Traditional Tea Ceremony 2",
+    "category": "Culture",
+    "level": "Advanced",
+    "version": 1,
+    "is_premium": false
   }
 ]
