@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "indexes": [
+    {
+      "id": "01",
+      "name": "Daily Life",
+      "version": 1,
+      "last_updated": "2026-05-22T10:30:00Z"
+    },
+    {
+      "id": "02",
+      "name": "Travel",
+      "version": 1,
+      "last_updated": "2026-05-22T10:30:00Z"
+    }
+  ]
+}
