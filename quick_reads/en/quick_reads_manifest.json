@@ -12,6 +12,12 @@
       "name": "Travel",
       "version": 1,
       "last_updated": "2026-05-22T10:30:00Z"
+    },
+    {
+      "id": "03",
+      "name": "Technology",
+      "version": 1,
+      "last_updated": "2026-05-26T10:30:00Z"
     }
   ]
 }

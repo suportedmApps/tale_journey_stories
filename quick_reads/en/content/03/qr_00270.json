@@ -1,0 +1,7 @@
+{
+  "id": "qr_00270",
+  "title": "The Broken Server",
+  "category": "Technology",
+  "version": 1,
+  "content": "Shortly after sunrise, customers began reporting that a company’s website was unavailable. The technical team quickly discovered that a critical server had failed during the night. Engineers worked together to diagnose the issue while managers communicated updates to affected users. Fortunately, backup systems reduced the impact, but some services remained unavailable for several hours. After replacing faulty hardware and restoring operations, the team reviewed the incident to identify improvements. Although the outage was stressful, it provided valuable lessons about resilience, monitoring, and the importance of preparing for unexpected failures."
+}

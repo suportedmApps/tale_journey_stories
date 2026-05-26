@@ -1,0 +1,7 @@
+{
+  "id": "qr_00274",
+  "title": "A Bug in the System",
+  "category": "Technology",
+  "version": 1,
+  "content": "Everything appeared to be working correctly until customers began reporting unusual errors. Orders were being processed twice, creating confusion for both users and employees. The development team immediately started investigating the issue. After reviewing thousands of lines of code, they discovered a small bug introduced during a recent update. The problem involved only a few incorrect conditions, yet its impact was significant. Once the fix was deployed, the system returned to normal operation. The incident reminded everyone that even minor mistakes can cause major problems in complex software systems. Careful testing and code reviews remain essential parts of software development."
+}
