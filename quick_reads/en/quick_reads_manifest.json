@@ -18,6 +18,12 @@
       "name": "Technology",
       "version": 1,
       "last_updated": "2026-05-26T10:30:00Z"
+    },
+    {
+      "id": "04",
+      "name": "Mystery",
+      "version": 1,
+      "last_updated": "2026-07-13T10:30:00Z"
     }
   ]
 }
