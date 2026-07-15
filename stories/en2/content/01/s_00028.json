@@ -1,0 +1,26 @@
+{
+  "id": "story_28",
+  "title": "The Secret Cave",
+  "category": "Adventure",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "The Local Legend",
+      "order": 1,
+      "content": "During his vacation, Daniel heard stories about a secret cave hidden near the cliffs. Locals said nobody could find it twice."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Following the Trail",
+      "order": 2,
+      "content": "With only a small map and curiosity, Daniel followed a narrow path through the forest until he reached the rocky coast."
+    },
+    {
+      "id": "chapter_03",
+      "title": "Treasure of Silence",
+      "order": 3,
+      "content": "Inside the cave, there was no treasure chest—only silence, clear water, and sunlight reflecting on the walls. It was more beautiful than gold."
+    }
+  ]
+}

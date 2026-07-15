@@ -1,0 +1,26 @@
+{
+  "id": "s_00016",
+  "title": "Saturday Laundry",
+  "category": "Daily Life",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Laundry Morning",
+      "order": 1,
+      "content": "On Saturday morning, Ethan starts his laundry routine. He separates white clothes, dark clothes, and towels before turning on the washing machine."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Waiting Time",
+      "order": 2,
+      "content": "While waiting, he cleans the apartment and listens to music. Laundry day feels less boring when the house is also getting organized."
+    },
+    {
+      "id": "chapter_03",
+      "title": "Fresh Clothes",
+      "order": 3,
+      "content": "In the afternoon, Ethan folds everything neatly and places it in the closet. Clean clothes always make the weekend feel complete."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "s_00007",
+  "title": "Sunset in Santorini",
+  "category": "Travel",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "White Houses",
+      "order": 1,
+      "content": "Lena walked through the white streets of Santorini, surrounded by blue doors, flowers, and the bright summer sky."
+    },
+    {
+      "id": "chapter_02",
+      "title": "The Cliff View",
+      "order": 2,
+      "content": "She found a quiet place near the cliffs and sat there with a cold drink, looking at the endless sea below."
+    },
+    {
+      "id": "chapter_03",
+      "title": "Golden Sky",
+      "order": 3,
+      "content": "As the sun disappeared into the ocean, the sky turned orange and pink. Everyone around her became silent, simply watching the beauty."
+    }
+  ]
+}

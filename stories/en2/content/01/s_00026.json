@@ -1,0 +1,26 @@
+{
+  "id": "story_26",
+  "title": "Into the Mountains",
+  "category": "Adventure",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Early Climb",
+      "order": 1,
+      "content": "Ethan started climbing before sunrise. The mountain trail was steep, but the cold morning air made the journey feel exciting."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Unexpected Storm",
+      "order": 2,
+      "content": "Halfway to the top, dark clouds appeared. Rain and wind made the path dangerous, and Ethan had to move carefully."
+    },
+    {
+      "id": "chapter_03",
+      "title": "The View Above",
+      "order": 3,
+      "content": "When the storm passed, the sky opened and sunlight covered the mountains. From the top, the entire valley looked peaceful and endless."
+    }
+  ]
+}

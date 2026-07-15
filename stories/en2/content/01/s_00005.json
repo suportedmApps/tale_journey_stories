@@ -1,0 +1,26 @@
+{
+  "id": "s_00005",
+  "title": "Weekend in Barcelona",
+  "category": "Travel",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Friday Night",
+      "order": 1,
+      "content": "Mia arrived in Barcelona on Friday night. The streets were full of music, people were laughing outside restaurants, and the warm air felt perfect."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Walking the City",
+      "order": 2,
+      "content": "On Saturday morning, she walked along Las Ramblas, visited colorful markets, and watched street performers dancing in the sun."
+    },
+    {
+      "id": "chapter_03",
+      "title": "Beach Sunset",
+      "order": 3,
+      "content": "In the evening, Mia sat by the beach and watched the sunset over the sea. She knew this weekend would stay in her memory forever."
+    }
+  ]
+}

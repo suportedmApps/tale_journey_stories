@@ -1,0 +1,26 @@
+{
+  "id": "story_22",
+  "title": "The Promotion",
+  "category": "Business English",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Unexpected Meeting",
+      "order": 1,
+      "content": "Nathan was surprised when his manager asked him to come to her office. He wondered if he had forgotten something important."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Good News",
+      "order": 2,
+      "content": "Instead of a problem, it was great news. His hard work had been noticed, and the company wanted to offer him a promotion."
+    },
+    {
+      "id": "chapter_03",
+      "title": "A New Responsibility",
+      "order": 3,
+      "content": "Nathan accepted happily. The new role meant more responsibility, but also more opportunities to grow and lead."
+    }
+  ]
+}

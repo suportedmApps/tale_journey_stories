@@ -1,0 +1,26 @@
+{
+  "id": "story_37",
+  "title": "Summer by the Sea",
+  "category": "Romance",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Small Coastal Town",
+      "order": 1,
+      "content": "Lucas spent the summer in a quiet town by the sea. Every afternoon, he walked along the beach and watched the fishing boats return."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Meeting Clara",
+      "order": 2,
+      "content": "One evening, he met Clara near the lighthouse. She was painting the sunset, and they started talking as if they had known each other for years."
+    },
+    {
+      "id": "chapter_03",
+      "title": "Before September",
+      "order": 3,
+      "content": "Summer never lasts forever, but some people stay longer than seasons. Lucas wondered if Clara might be one of them."
+    }
+  ]
+}

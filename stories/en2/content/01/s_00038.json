@@ -1,0 +1,26 @@
+{
+  "id": "story_38",
+  "title": "The AI Assistant",
+  "category": "Technology",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "New Project",
+      "order": 1,
+      "content": "Daniel joined a startup building an AI assistant for language learners. The goal was simple: make studying feel natural and enjoyable."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Unexpected Answers",
+      "order": 2,
+      "content": "During testing, the assistant began giving surprisingly personal and thoughtful responses. It felt less like software and more like a real companion."
+    },
+    {
+      "id": "chapter_03",
+      "title": "More Than Code",
+      "order": 3,
+      "content": "Daniel realized the project was no longer just about technology. It was about helping people feel understood while learning something new."
+    }
+  ]
+}

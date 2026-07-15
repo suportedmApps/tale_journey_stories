@@ -1,0 +1,26 @@
+{
+  "id": "s_00014",
+  "title": "At the Gym",
+  "category": "Daily Life",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "New Membership",
+      "order": 1,
+      "content": "Kevin joined a gym for the first time. He wanted to feel healthier and create a better routine for his mornings."
+    },
+    {
+      "id": "chapter_02",
+      "title": "First Workout",
+      "order": 2,
+      "content": "Everything felt new: the machines, the weights, and even the music. Kevin followed a trainer’s advice and started slowly."
+    },
+    {
+      "id": "chapter_03",
+      "title": "Small Progress",
+      "order": 3,
+      "content": "After two weeks, Kevin already felt more energetic. The hardest part was starting, but now he enjoyed going every day."
+    }
+  ]
+}

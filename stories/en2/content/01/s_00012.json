@@ -1,0 +1,26 @@
+{
+  "id": "s_00012",
+  "title": "The New Neighbor",
+  "category": "Daily Life",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Moving Day",
+      "order": 1,
+      "content": "A moving truck stopped in front of Liam’s building. Boxes, plants, and furniture were carried upstairs all morning."
+    },
+    {
+      "id": "chapter_02",
+      "title": "First Hello",
+      "order": 2,
+      "content": "In the elevator, Liam met his new neighbor, Sofia. She smiled and introduced herself while holding a box of books."
+    },
+    {
+      "id": "chapter_03",
+      "title": "Unexpected Friendship",
+      "order": 3,
+      "content": "A few days later, they met again at the local café. What started as a simple hello slowly became a new friendship."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "s_00009",
+  "title": "Morning Routine",
+  "category": "Daily Life",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Wake Up",
+      "order": 1,
+      "content": "Anna wakes up every day at six thirty. She opens the window, stretches, and listens to the birds outside."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Breakfast Time",
+      "order": 2,
+      "content": "She prepares coffee, toast, and fruit for breakfast. Sometimes she reads a book while eating."
+    },
+    {
+      "id": "chapter_03",
+      "title": "Leaving Home",
+      "order": 3,
+      "content": "Before leaving for work, Anna checks her bag, waters her plants, and says goodbye to her cat."
+    }
+  ]
+}

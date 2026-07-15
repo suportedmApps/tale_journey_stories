@@ -1,0 +1,26 @@
+{
+  "id": "s_00002",
+  "title": "Lost in Rome 2",
+  "category": "Travel",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Arrival",
+      "order": 1,
+      "content": "Emma arrived in Rome on a warm summer afternoon. She had a small suitcase, a city map, and a dream of exploring every corner of the ancient city."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Wrong Turn",
+      "order": 2,
+      "content": "While walking near the Colosseum, Emma took the wrong street and got lost. Every building looked beautiful, but none of them seemed familiar."
+    },
+    {
+      "id": "chapter_03",
+      "title": "A Helpful Stranger",
+      "order": 3,
+      "content": "An old man noticed her confusion and smiled. In simple English, he helped her find her hotel and recommended the best gelato shop in the neighborhood."
+    }
+  ]
+}

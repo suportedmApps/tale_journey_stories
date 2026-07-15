@@ -1,0 +1,26 @@
+{
+  "id": "s_00011",
+  "title": "Rainy Sunday",
+  "category": "Daily Life",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Grey Morning",
+      "order": 1,
+      "content": "It was raining all morning. Julia looked outside the window and decided to stay home instead of going to the park."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Movie Time",
+      "order": 2,
+      "content": "She made hot tea, prepared popcorn, and chose an old movie to watch. Rainy days always made movies feel better."
+    },
+    {
+      "id": "chapter_03",
+      "title": "Quiet Evening",
+      "order": 3,
+      "content": "At night, Julia listened to music while reading a novel. The sound of the rain made everything peaceful."
+    }
+  ]
+}

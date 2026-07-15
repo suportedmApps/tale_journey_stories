@@ -1,0 +1,26 @@
+{
+  "id": "s_00001",
+  "title": "The Tokyo Journey 2",
+  "category": "Travel",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "c_0001",
+      "title": "The Beginning",
+      "order": 1,
+      "content": "Lucas had always dreamed of traveling the world. One day, he bought a one-way ticket to Japan. He packed his backpack, said goodbye to his family, and started the greatest adventure of his life."
+    },
+    {
+      "id": "c_0002",
+      "title": "Arrival in Tokyo",
+      "order": 2,
+      "content": "When Lucas arrived in Tokyo, everything felt different. The streets were busy, the signs were in Japanese, and the city lights were brighter than he had ever seen before."
+    },
+    {
+      "id": "c_0003",
+      "title": "First Friends",
+      "order": 3,
+      "content": "At a small café near Shibuya, Lucas met Aiko, a university student who spoke English fluently. She offered to help him understand the city better."
+    }
+  ]
+}

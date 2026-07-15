@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "indexes": [
+    {
+      "id": "01",
+      "name": "S001",
+      "version": 1,
+      "last_updated": "2026-05-22T10:30:00Z"
+    },
+    {
+      "id": "02",
+      "name": "S002",
+      "version": 1,
+      "last_updated": "2026-05-22T10:30:00Z"
+    }
+  ]
+}

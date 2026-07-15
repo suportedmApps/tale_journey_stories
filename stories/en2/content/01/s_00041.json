@@ -1,0 +1,26 @@
+{
+  "id": "story_41",
+  "title": "Digital Nomad",
+  "category": "Technology",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Laptop and Passport",
+      "order": 1,
+      "content": "Sophie worked remotely as a designer. Her office changed every month—sometimes a café in Lisbon, sometimes a beach in Bali."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Working Anywhere",
+      "order": 2,
+      "content": "She learned that freedom also required discipline. Good internet, deadlines, and time zones became part of every destination."
+    },
+    {
+      "id": "chapter_03",
+      "title": "Home Is Flexible",
+      "order": 3,
+      "content": "People often asked where she lived. Sophie always smiled and answered, 'Right now? Here.'"
+    }
+  ]
+}

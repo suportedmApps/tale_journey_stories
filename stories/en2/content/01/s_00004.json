@@ -1,0 +1,26 @@
+{
+  "id": "s_00004",
+  "title": "The Train to Kyoto",
+  "category": "Travel",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "The Station",
+      "order": 1,
+      "content": "Sophie stood at Tokyo Station with her ticket in hand. The bullet train to Kyoto would leave in ten minutes."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Window Seat",
+      "order": 2,
+      "content": "She sat by the window and watched the city disappear. Soon, green fields and mountains replaced the tall buildings."
+    },
+    {
+      "id": "chapter_03",
+      "title": "First Sight",
+      "order": 3,
+      "content": "When she arrived in Kyoto, the peaceful streets and traditional temples made her feel like she had traveled back in time."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "story_24",
+  "title": "Island Escape",
+  "category": "Adventure",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Storm at Sea",
+      "order": 1,
+      "content": "A sudden storm forced Leo’s boat to stop near a small unknown island. The sky was dark, and the waves were strong."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Exploring Alone",
+      "order": 2,
+      "content": "While waiting for help, Leo walked across the island. He found old ruins, tropical birds, and a strange stone path hidden in the trees."
+    },
+    {
+      "id": "chapter_03",
+      "title": "The Secret Beach",
+      "order": 3,
+      "content": "At the end of the path, he discovered a hidden beach with crystal-clear water. It looked like a place nobody had seen for years."
+    }
+  ]
+}

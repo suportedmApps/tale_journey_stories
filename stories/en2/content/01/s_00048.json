@@ -1,0 +1,26 @@
+{
+  "id": "story_48",
+  "title": "Grandma's Recipe",
+  "category": "Food",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "The Old Notebook",
+      "order": 1,
+      "content": "While cleaning the kitchen, Clara found her grandmother’s old recipe notebook. The pages were worn, but every dish had a story."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Trying Again",
+      "order": 2,
+      "content": "She decided to cook the famous apple pie from page twelve. The instructions were simple, but the memory behind them made it special."
+    },
+    {
+      "id": "chapter_03",
+      "title": "Same Sweet Taste",
+      "order": 3,
+      "content": "When the pie was ready, the smell brought her back to childhood Sundays. Some recipes preserve more than flavor—they preserve time."
+    }
+  ]
+}

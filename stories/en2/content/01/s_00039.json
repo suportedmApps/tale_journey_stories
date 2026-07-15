@@ -1,0 +1,26 @@
+{
+  "id": "story_39",
+  "title": "Hacker Night",
+  "category": "Technology",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Hackathon Begins",
+      "order": 1,
+      "content": "At 8 PM, the hackathon officially started. Teams opened laptops, drank too much coffee, and began turning ideas into code."
+    },
+    {
+      "id": "chapter_02",
+      "title": "The Bug Nobody Found",
+      "order": 2,
+      "content": "At 2 AM, Maya’s team still had one serious bug. Everything looked correct, but the system kept failing without explanation."
+    },
+    {
+      "id": "chapter_03",
+      "title": "Sunrise Victory",
+      "order": 3,
+      "content": "Just before sunrise, they found the problem: one missing character in the code. Everyone laughed with relief as the project finally worked."
+    }
+  ]
+}

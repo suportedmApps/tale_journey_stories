@@ -1,0 +1,26 @@
+{
+  "id": "story_34",
+  "title": "Coffee Shop Smile",
+  "category": "Romance",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Every Morning",
+      "order": 1,
+      "content": "Every morning, Mia stopped at the same coffee shop before work. She always ordered the same cappuccino and noticed the same barista smiling at her."
+    },
+    {
+      "id": "chapter_02",
+      "title": "A Small Conversation",
+      "order": 2,
+      "content": "One rainy morning, they finally talked longer than usual. His name was Leo, and he loved old books and late-night walks."
+    },
+    {
+      "id": "chapter_03",
+      "title": "An Invitation",
+      "order": 3,
+      "content": "Before she left, Leo wrote something on her coffee cup: 'Bookstore at 7?' Mia smiled the entire way to work."
+    }
+  ]
+}

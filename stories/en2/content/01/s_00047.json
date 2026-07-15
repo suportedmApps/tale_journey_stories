@@ -1,0 +1,26 @@
+{
+  "id": "story_47",
+  "title": "Street Food Market",
+  "category": "Food",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Friday Night Market",
+      "order": 1,
+      "content": "The street food market opened every Friday night. Lights, music, and the smell of grilled food filled the entire square."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Trying Everything",
+      "order": 2,
+      "content": "Leo walked from stand to stand tasting noodles, tacos, dumplings, and desserts he could not even pronounce correctly."
+    },
+    {
+      "id": "chapter_03",
+      "title": "Favorite Flavor",
+      "order": 3,
+      "content": "In the end, his favorite was a simple spicy chicken skewer. Sometimes the best food is also the simplest."
+    }
+  ]
+}

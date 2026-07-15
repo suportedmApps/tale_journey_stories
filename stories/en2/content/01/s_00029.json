@@ -1,0 +1,26 @@
+{
+  "id": "story_29",
+  "title": "The Missing Letter",
+  "category": "Mystery",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "An Old Envelope",
+      "order": 1,
+      "content": "While cleaning the attic, Nora found an old envelope with no address. Inside, there was only half of a handwritten letter."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Searching for Answers",
+      "order": 2,
+      "content": "The letter mentioned a train station and a date from twenty years ago. Curious, Nora decided to investigate the story behind it."
+    },
+    {
+      "id": "chapter_03",
+      "title": "A Forgotten Goodbye",
+      "order": 3,
+      "content": "At the station, she discovered the letter had been a goodbye message that was never delivered. Some mysteries were simply unfinished memories."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "story_25",
+  "title": "Desert Crossing",
+  "category": "Adventure",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "The Long Road",
+      "order": 1,
+      "content": "Ava joined a small expedition across the desert. Endless sand stretched in every direction, and the heat was stronger than she expected."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Night Under the Stars",
+      "order": 2,
+      "content": "At night, the desert became silent and cold. Sitting by the fire, Ava looked at the stars and listened to old travel stories from the guide."
+    },
+    {
+      "id": "chapter_03",
+      "title": "The Hidden Oasis",
+      "order": 3,
+      "content": "After days of walking, they found a hidden oasis surrounded by palm trees. The fresh water felt like a miracle in the middle of the desert."
+    }
+  ]
+}

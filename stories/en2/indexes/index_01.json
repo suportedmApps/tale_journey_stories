@@ -1,0 +1,37 @@
+[
+  {
+    "id": "s_00001",
+    "title": "The Tokyo Journey",
+    "category": "Travel",
+    "level": "Beginner",
+    "version": 1
+  },
+  {
+    "id": "s_00002",
+    "title": "Lost in Rome",
+    "category": "Travel",
+    "level": "Beginner",
+    "version": 1
+  },
+  {
+    "id": "s_00003",
+    "title": "Coffee in Paris",
+    "category": "Travel",
+    "level": "Beginner",
+    "version": 1
+  },
+  {
+    "id": "s_00004",
+    "title": "The Train to Kyoto",
+    "category": "Travel",
+    "level": "Beginner",
+    "version": 1
+  },
+  {
+    "id": "s_00005",
+    "title": "Weekend in Barcelona",
+    "category": "Travel",
+    "level": "Beginner",
+    "version": 1
+  }
+]

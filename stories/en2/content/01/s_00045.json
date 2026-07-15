@@ -1,0 +1,26 @@
+{
+  "id": "story_45",
+  "title": "Monday Meeting",
+  "category": "Work",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "The Weekly Start",
+      "order": 1,
+      "content": "Every Monday at 9 AM, the entire department joined the weekly meeting. Coffee cups, notebooks, and sleepy faces filled the conference room."
+    },
+    {
+      "id": "chapter_02",
+      "title": "New Challenges",
+      "order": 2,
+      "content": "This week, the manager announced a new project with a short deadline. Everyone exchanged looks, knowing it would require teamwork and patience."
+    },
+    {
+      "id": "chapter_03",
+      "title": "A Fresh Beginning",
+      "order": 3,
+      "content": "Even with the pressure, Monday meetings always felt like a reset. Every week brought a chance to improve and start again."
+    }
+  ]
+}

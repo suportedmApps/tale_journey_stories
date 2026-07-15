@@ -1,0 +1,26 @@
+{
+  "id": "story_50",
+  "title": "Traditional Tea Ceremony",
+  "category": "Culture",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Quiet Invitation",
+      "order": 1,
+      "content": "During her trip to Kyoto, Olivia was invited to attend a traditional tea ceremony. She expected tea, but discovered it was much more than that."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Every Movement Matters",
+      "order": 2,
+      "content": "The host prepared the tea slowly and carefully. Every movement had meaning, and silence became part of the experience."
+    },
+    {
+      "id": "chapter_03",
+      "title": "A Different Kind of Peace",
+      "order": 3,
+      "content": "When the ceremony ended, Olivia felt unexpectedly calm. Sometimes the simplest rituals teach the deepest lessons."
+    }
+  ]
+}

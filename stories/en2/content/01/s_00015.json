@@ -1,0 +1,26 @@
+{
+  "id": "s_00015",
+  "title": "Family Dinner",
+  "category": "Daily Life",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Sunday Invitation",
+      "order": 1,
+      "content": "Every Sunday, Olivia’s family meets for dinner at her grandmother’s house. Everyone brings something to share, and the table is always full."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Grandma’s Kitchen",
+      "order": 2,
+      "content": "Her grandmother prepares the main dish with care and tells old family stories while cooking. The smell of fresh food fills the entire house."
+    },
+    {
+      "id": "chapter_03",
+      "title": "Laughter at the Table",
+      "order": 3,
+      "content": "Dinner lasts for hours because everyone talks, laughs, and remembers old moments together. It is Olivia’s favorite part of the week."
+    }
+  ]
+}

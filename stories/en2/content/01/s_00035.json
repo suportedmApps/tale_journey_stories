@@ -1,0 +1,26 @@
+{
+  "id": "story_35",
+  "title": "Autumn in Seoul",
+  "category": "Romance",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Falling Leaves",
+      "order": 1,
+      "content": "Emma arrived in Seoul during autumn. The streets were covered with golden leaves, and the cool air made every walk feel peaceful."
+    },
+    {
+      "id": "chapter_02",
+      "title": "The Bookstore",
+      "order": 2,
+      "content": "In a small bookstore near the river, she met Jun, who recommended a novel and offered to show her the best hidden cafés in the city."
+    },
+    {
+      "id": "chapter_03",
+      "title": "A Slow Beginning",
+      "order": 3,
+      "content": "They spent the afternoon talking about books, travel, and music. Sometimes, the most important stories begin very quietly."
+    }
+  ]
+}

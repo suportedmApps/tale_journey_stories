@@ -1,0 +1,26 @@
+{
+  "id": "story_32",
+  "title": "The Forgotten Key",
+  "category": "Mystery",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "The Small Key",
+      "order": 1,
+      "content": "While moving into her new apartment, Clara found a small bronze key hidden behind an old kitchen drawer. Nobody knew what it opened."
+    },
+    {
+      "id": "chapter_02",
+      "title": "The Locked Door",
+      "order": 2,
+      "content": "In the basement of the building, she discovered a small locked storage room. The old key fit perfectly."
+    },
+    {
+      "id": "chapter_03",
+      "title": "A Box of Memories",
+      "order": 3,
+      "content": "Inside the room, there was a wooden box filled with letters, photographs, and forgotten memories from someone who once lived there."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "s_00020",
+  "title": "Office Presentation",
+  "category": "Business English",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "The Preparation",
+      "order": 1,
+      "content": "Lucas spent the entire week preparing slides for the monthly office presentation. He wanted the report to be clear, simple, and professional."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Speaking in Front of Everyone",
+      "order": 2,
+      "content": "When the meeting started, Lucas felt nervous. However, after the first few minutes, he became more confident and explained the project results calmly."
+    },
+    {
+      "id": "chapter_03",
+      "title": "Positive Feedback",
+      "order": 3,
+      "content": "After the presentation, his manager congratulated him. The team appreciated his work, and Lucas felt proud of his progress."
+    }
+  ]
+}

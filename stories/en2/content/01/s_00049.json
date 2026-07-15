@@ -1,0 +1,26 @@
+{
+  "id": "story_49",
+  "title": "Festival of Lights",
+  "category": "Culture",
+  "version": 1,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "City Celebration",
+      "order": 1,
+      "content": "Every winter, the city celebrated the Festival of Lights. Streets were decorated with lanterns, music played everywhere, and families gathered outside."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Traditional Dance",
+      "order": 2,
+      "content": "Maya watched performers in traditional clothes dance in the main square. The celebration felt both joyful and deeply connected to history."
+    },
+    {
+      "id": "chapter_03",
+      "title": "One Lantern",
+      "order": 3,
+      "content": "Before leaving, she lit a small lantern and made a wish. In that moment, the entire night felt magical."
+    }
+  ]
+}
