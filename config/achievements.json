@@ -13,6 +13,19 @@
     "version": 1
   },
   {
+    "id": "save_second_word",
+    "type": "achievement",
+    "title": "Segunda Palavra",
+    "description": "Salve sua segunda palavra.",
+    "icon": "📖",
+    "event": "wordSaved",
+    "target": 2,
+    "rewardXP": 10,
+    "rewardCoins": 50,
+    "enabled": true,
+    "version": 1
+  },
+  {
     "id": "save_5_words",
     "type": "achievement",
     "title": "Colecionador",
@@ -53,17 +66,17 @@
     "version": 1
   },
   {
-    "id": "complete_5_quick_reads",
+    "id": "complete_4_quick_reads",
     "type": "achievement",
     "title": "Leitor Rápido",
-    "description": "Conclua 5 leituras rápidas.",
+    "description": "Conclua 4 leituras rápidas.",
     "icon": "📰",
     "event": "quickReadCompleted",
-    "target": 5,
+    "target": 4,
     "rewardXP": 75,
     "rewardCoins": 100,
     "enabled": true,
-    "version": 1
+    "version": 2
   },
   {
     "id": "complete_10_quick_reads",
