@@ -1,0 +1,26 @@
+[
+  {
+    "id": "save_first_word",
+    "type": "achievement",
+    "title": "Primeira Palavra",
+    "description": "Salve sua primeira palavra.",
+    "icon": "📖",
+    "event": "wordSaved",
+    "target": 1,
+    "rewardXP": 10,
+    "rewardCoins": 50,
+    "enabled": true
+  },
+  {
+    "id": "save_10_words",
+    "type": "achievement",
+    "title": "Colecionador",
+    "description": "Salve 10 palavras.",
+    "icon": "📚",
+    "event": "wordSaved",
+    "target": 10,
+    "rewardXP": 100,
+    "rewardCoins": 200,
+    "enabled": true
+  }
+]
