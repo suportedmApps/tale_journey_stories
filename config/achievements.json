@@ -16,6 +16,14 @@
     "rewardCoins": 50
   },
   {
+    "id": "seventh_word",
+    "title": "Seventh Word",
+    "description": "Save your seventh word",
+    "icon": "📘",
+    "target": 7,
+    "rewardCoins": 50
+  },
+  {
     "id": "vocab_50",
     "title": "Word Collector",
     "description": "Save 50 words",

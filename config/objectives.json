@@ -12,6 +12,18 @@
     "enabled": true
   },
   {
+    "id": "save_5_words",
+    "type": "achievement",
+    "title": "Colecionador",
+    "description": "Salve 5 palavras.",
+    "icon": "📚",
+    "event": "wordSaved",
+    "target": 5,
+    "rewardXP": 50,
+    "rewardCoins": 100,
+    "enabled": true
+  },
+  {
     "id": "save_10_words",
     "type": "achievement",
     "title": "Colecionador",
