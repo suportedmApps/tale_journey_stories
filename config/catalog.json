@@ -1,4 +1,3 @@
 {
-  "version": 1,
-  "achievements": "achievements.json"
+  "achievementsVersion": 1
 }
