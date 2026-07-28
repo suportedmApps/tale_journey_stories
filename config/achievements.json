@@ -1,0 +1,42 @@
+[
+  {
+    "id": "first_word",
+    "title": "First Word",
+    "description": "Save your first word",
+    "icon": "📘",
+    "target": 1,
+    "rewardCoins": 50
+  },
+  {
+    "id": "second_word",
+    "title": "Second Word",
+    "description": "Save your second word",
+    "icon": "📘",
+    "target": 2,
+    "rewardCoins": 50
+  },
+  {
+    "id": "vocab_50",
+    "title": "Word Collector",
+    "description": "Save 50 words",
+    "icon": "📚",
+    "target": 50,
+    "rewardCoins": 50
+  },
+  {
+    "id": "streak_7",
+    "title": "7-Day Streak",
+    "description": "Study for 7 consecutive days",
+    "icon": "🔥",
+    "target": 7,
+    "rewardCoins": 50
+  },
+  {
+    "id": "xp_500",
+    "title": "XP Hunter",
+    "description": "Reach 500 XP",
+    "icon": "⚡",
+    "target": 500,
+    "rewardCoins": 50
+  }
+]
