@@ -1,0 +1,224 @@
+{
+  "achievements": [
+    {
+      "id": "study_time_10_minutes",
+      "order": 1,
+      "title": {
+        "en": "Just Getting Started",
+        "pt": "Só o Começo"
+      },
+      "description": {
+        "en": "Study for a total of 10 minutes.",
+        "pt": "Estude por um total de 10 minutos."
+      },
+      "icon": "⏱️",
+      "event": "study.time",
+      "target": 10,
+      "rewardXP": 10,
+      "rewardCoins": 25,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "study_time_30_minutes",
+      "order": 2,
+      "title": {
+        "en": "Warming Up",
+        "pt": "Aquecendo"
+      },
+      "description": {
+        "en": "Study for a total of 30 minutes.",
+        "pt": "Estude por um total de 30 minutos."
+      },
+      "icon": "⏱️",
+      "event": "study.time",
+      "target": 30,
+      "rewardXP": 20,
+      "rewardCoins": 50,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "study_time_1_hour",
+      "order": 3,
+      "title": {
+        "en": "One Hour Strong",
+        "pt": "Uma Hora de Estudos"
+      },
+      "description": {
+        "en": "Study for a total of 1 hour.",
+        "pt": "Estude por um total de 1 hora."
+      },
+      "icon": "⏱️",
+      "event": "study.time",
+      "target": 60,
+      "rewardXP": 50,
+      "rewardCoins": 100,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "study_time_5_hours",
+      "order": 4,
+      "title": {
+        "en": "Focused Learner",
+        "pt": "Aprendiz Focado"
+      },
+      "description": {
+        "en": "Study for a total of 5 hours.",
+        "pt": "Estude por um total de 5 horas."
+      },
+      "icon": "⏱️",
+      "event": "study.time",
+      "target": 300,
+      "rewardXP": 150,
+      "rewardCoins": 300,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "study_time_10_hours",
+      "order": 5,
+      "title": {
+        "en": "Dedicated Student",
+        "pt": "Estudante Dedicado"
+      },
+      "description": {
+        "en": "Study for a total of 10 hours.",
+        "pt": "Estude por um total de 10 horas."
+      },
+      "icon": "⏱️",
+      "event": "study.time",
+      "target": 600,
+      "rewardXP": 300,
+      "rewardCoins": 600,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "study_time_25_hours",
+      "order": 6,
+      "title": {
+        "en": "Knowledge Seeker",
+        "pt": "Buscador do Conhecimento"
+      },
+      "description": {
+        "en": "Study for a total of 25 hours.",
+        "pt": "Estude por um total de 25 horas."
+      },
+      "icon": "⏱️",
+      "event": "study.time",
+      "target": 1500,
+      "rewardXP": 600,
+      "rewardCoins": 1200,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "study_time_50_hours",
+      "order": 7,
+      "title": {
+        "en": "Study Enthusiast",
+        "pt": "Entusiasta dos Estudos"
+      },
+      "description": {
+        "en": "Study for a total of 50 hours.",
+        "pt": "Estude por um total de 50 horas."
+      },
+      "icon": "⏱️",
+      "event": "study.time",
+      "target": 3000,
+      "rewardXP": 1000,
+      "rewardCoins": 2000,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "study_time_100_hours",
+      "order": 8,
+      "title": {
+        "en": "Master Learner",
+        "pt": "Mestre dos Estudos"
+      },
+      "description": {
+        "en": "Study for a total of 100 hours.",
+        "pt": "Estude por um total de 100 horas."
+      },
+      "icon": "⏱️",
+      "event": "study.time",
+      "target": 6000,
+      "rewardXP": 1500,
+      "rewardCoins": 3000,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "study_time_250_hours",
+      "order": 9,
+      "title": {
+        "en": "Knowledge Veteran",
+        "pt": "Veterano do Conhecimento"
+      },
+      "description": {
+        "en": "Study for a total of 250 hours.",
+        "pt": "Estude por um total de 250 horas."
+      },
+      "icon": "⏱️",
+      "event": "study.time",
+      "target": 15000,
+      "rewardXP": 2500,
+      "rewardCoins": 5000,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "study_time_500_hours",
+      "order": 10,
+      "title": {
+        "en": "Scholar",
+        "pt": "Erudito"
+      },
+      "description": {
+        "en": "Study for a total of 500 hours.",
+        "pt": "Estude por um total de 500 horas."
+      },
+      "icon": "⏱️",
+      "event": "study.time",
+      "target": 30000,
+      "rewardXP": 4000,
+      "rewardCoins": 8000,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "study_time_1000_hours",
+      "order": 11,
+      "title": {
+        "en": "Legendary Scholar",
+        "pt": "Lenda dos Estudos"
+      },
+      "description": {
+        "en": "Study for a total of 1,000 hours.",
+        "pt": "Estude por um total de 1.000 horas."
+      },
+      "icon": "⏱️",
+      "event": "study.time",
+      "target": 60000,
+      "rewardXP": 6000,
+      "rewardCoins": 12000,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    }
+  ]
+}

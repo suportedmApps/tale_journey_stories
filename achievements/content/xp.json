@@ -1,0 +1,184 @@
+{
+  "achievements": [
+    {
+      "id": "xp_100",
+      "order": 1,
+      "title": {
+        "en": "First Experience",
+        "pt": "Primeira Experiência"
+      },
+      "description": {
+        "en": "Earn 100 XP.",
+        "pt": "Ganhe 100 XP."
+      },
+      "icon": "⭐",
+      "event": "xp.earned",
+      "target": 100,
+      "rewardXP": 25,
+      "rewardCoins": 50,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "xp_500",
+      "order": 2,
+      "title": {
+        "en": "Rising Learner",
+        "pt": "Aprendiz em Ascensão"
+      },
+      "description": {
+        "en": "Earn 500 XP.",
+        "pt": "Ganhe 500 XP."
+      },
+      "icon": "⭐",
+      "event": "xp.earned",
+      "target": 500,
+      "rewardXP": 50,
+      "rewardCoins": 100,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "xp_1000",
+      "order": 3,
+      "title": {
+        "en": "Knowledge Apprentice",
+        "pt": "Aprendiz do Conhecimento"
+      },
+      "description": {
+        "en": "Earn 1,000 XP.",
+        "pt": "Ganhe 1.000 XP."
+      },
+      "icon": "⭐",
+      "event": "xp.earned",
+      "target": 1000,
+      "rewardXP": 100,
+      "rewardCoins": 200,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "xp_2500",
+      "order": 4,
+      "title": {
+        "en": "Experienced Learner",
+        "pt": "Aprendiz Experiente"
+      },
+      "description": {
+        "en": "Earn 2,500 XP.",
+        "pt": "Ganhe 2.500 XP."
+      },
+      "icon": "⭐",
+      "event": "xp.earned",
+      "target": 2500,
+      "rewardXP": 200,
+      "rewardCoins": 400,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "xp_5000",
+      "order": 5,
+      "title": {
+        "en": "Knowledge Explorer",
+        "pt": "Explorador do Conhecimento"
+      },
+      "description": {
+        "en": "Earn 5,000 XP.",
+        "pt": "Ganhe 5.000 XP."
+      },
+      "icon": "⭐",
+      "event": "xp.earned",
+      "target": 5000,
+      "rewardXP": 400,
+      "rewardCoins": 800,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "xp_10000",
+      "order": 6,
+      "title": {
+        "en": "Knowledge Master",
+        "pt": "Mestre do Conhecimento"
+      },
+      "description": {
+        "en": "Earn 10,000 XP.",
+        "pt": "Ganhe 10.000 XP."
+      },
+      "icon": "⭐",
+      "event": "xp.earned",
+      "target": 10000,
+      "rewardXP": 800,
+      "rewardCoins": 1600,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "xp_25000",
+      "order": 7,
+      "title": {
+        "en": "Elite Scholar",
+        "pt": "Estudioso de Elite"
+      },
+      "description": {
+        "en": "Earn 25,000 XP.",
+        "pt": "Ganhe 25.000 XP."
+      },
+      "icon": "⭐",
+      "event": "xp.earned",
+      "target": 25000,
+      "rewardXP": 1500,
+      "rewardCoins": 3000,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "xp_50000",
+      "order": 8,
+      "title": {
+        "en": "Grand Master",
+        "pt": "Grão-Mestre"
+      },
+      "description": {
+        "en": "Earn 50,000 XP.",
+        "pt": "Ganhe 50.000 XP."
+      },
+      "icon": "⭐",
+      "event": "xp.earned",
+      "target": 50000,
+      "rewardXP": 2500,
+      "rewardCoins": 5000,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "xp_100000",
+      "order": 9,
+      "title": {
+        "en": "Living Legend",
+        "pt": "Lenda Viva"
+      },
+      "description": {
+        "en": "Earn 100,000 XP.",
+        "pt": "Ganhe 100.000 XP."
+      },
+      "icon": "⭐",
+      "event": "xp.earned",
+      "target": 100000,
+      "rewardXP": 5000,
+      "rewardCoins": 10000,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    }
+  ]
+}

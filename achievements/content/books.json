@@ -1,0 +1,124 @@
+{
+  "achievements": [
+    {
+      "id": "book_complete_1",
+      "order": 1,
+      "title": {
+        "en": "First Book",
+        "pt": "Primeiro Livro"
+      },
+      "description": {
+        "en": "Complete your first book.",
+        "pt": "Conclua seu primeiro livro."
+      },
+      "icon": "📕",
+      "event": "book.completed",
+      "target": 1,
+      "rewardXP": 50,
+      "rewardCoins": 100,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "book_complete_3",
+      "order": 2,
+      "title": {
+        "en": "Dedicated Reader",
+        "pt": "Leitor Dedicado"
+      },
+      "description": {
+        "en": "Complete 3 books.",
+        "pt": "Conclua 3 livros."
+      },
+      "icon": "📕",
+      "event": "book.completed",
+      "target": 3,
+      "rewardXP": 100,
+      "rewardCoins": 250,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "book_complete_5",
+      "order": 3,
+      "title": {
+        "en": "Book Lover",
+        "pt": "Bibliófilo"
+      },
+      "description": {
+        "en": "Complete 5 books.",
+        "pt": "Conclua 5 livros."
+      },
+      "icon": "📕",
+      "event": "book.completed",
+      "target": 5,
+      "rewardXP": 150,
+      "rewardCoins": 400,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "book_complete_10",
+      "order": 4,
+      "title": {
+        "en": "Book Devourer",
+        "pt": "Devorador de Livros"
+      },
+      "description": {
+        "en": "Complete 10 books.",
+        "pt": "Conclua 10 livros."
+      },
+      "icon": "📕",
+      "event": "book.completed",
+      "target": 10,
+      "rewardXP": 250,
+      "rewardCoins": 700,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "book_complete_20",
+      "order": 5,
+      "title": {
+        "en": "Library Keeper",
+        "pt": "Bibliotecário"
+      },
+      "description": {
+        "en": "Complete 20 books.",
+        "pt": "Conclua 20 livros."
+      },
+      "icon": "📕",
+      "event": "book.completed",
+      "target": 20,
+      "rewardXP": 500,
+      "rewardCoins": 1200,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "book_complete_50",
+      "order": 6,
+      "title": {
+        "en": "Master of Books",
+        "pt": "Mestre dos Livros"
+      },
+      "description": {
+        "en": "Complete 50 books.",
+        "pt": "Conclua 50 livros."
+      },
+      "icon": "📕",
+      "event": "book.completed",
+      "target": 50,
+      "rewardXP": 1000,
+      "rewardCoins": 2500,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    }
+  ]
+}

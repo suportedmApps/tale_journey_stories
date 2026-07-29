@@ -1,0 +1,144 @@
+{
+  "achievements": [
+    {
+      "id": "quick_read_complete_1",
+      "order": 1,
+      "title": {
+        "en": "First Quick Read",
+        "pt": "Primeira Leitura"
+      },
+      "description": {
+        "en": "Complete your first quick read.",
+        "pt": "Conclua sua primeira leitura rápida."
+      },
+      "icon": "📰",
+      "event": "quick_read.completed",
+      "target": 1,
+      "rewardXP": 20,
+      "rewardCoins": 50,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "quick_read_complete_5",
+      "order": 2,
+      "title": {
+        "en": "Casual Reader",
+        "pt": "Leitor Casual"
+      },
+      "description": {
+        "en": "Complete 5 quick reads.",
+        "pt": "Conclua 5 leituras rápidas."
+      },
+      "icon": "📰",
+      "event": "quick_read.completed",
+      "target": 5,
+      "rewardXP": 50,
+      "rewardCoins": 100,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "quick_read_complete_10",
+      "order": 3,
+      "title": {
+        "en": "Frequent Reader",
+        "pt": "Leitor Frequente"
+      },
+      "description": {
+        "en": "Complete 10 quick reads.",
+        "pt": "Conclua 10 leituras rápidas."
+      },
+      "icon": "📰",
+      "event": "quick_read.completed",
+      "target": 10,
+      "rewardXP": 100,
+      "rewardCoins": 200,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "quick_read_complete_25",
+      "order": 4,
+      "title": {
+        "en": "Avid Reader",
+        "pt": "Leitor Ávido"
+      },
+      "description": {
+        "en": "Complete 25 quick reads.",
+        "pt": "Conclua 25 leituras rápidas."
+      },
+      "icon": "📰",
+      "event": "quick_read.completed",
+      "target": 25,
+      "rewardXP": 200,
+      "rewardCoins": 400,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "quick_read_complete_50",
+      "order": 5,
+      "title": {
+        "en": "Experienced Reader",
+        "pt": "Leitor Experiente"
+      },
+      "description": {
+        "en": "Complete 50 quick reads.",
+        "pt": "Conclua 50 leituras rápidas."
+      },
+      "icon": "📰",
+      "event": "quick_read.completed",
+      "target": 50,
+      "rewardXP": 400,
+      "rewardCoins": 800,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "quick_read_complete_100",
+      "order": 6,
+      "title": {
+        "en": "Quick Read Expert",
+        "pt": "Especialista em Leituras"
+      },
+      "description": {
+        "en": "Complete 100 quick reads.",
+        "pt": "Conclua 100 leituras rápidas."
+      },
+      "icon": "📰",
+      "event": "quick_read.completed",
+      "target": 100,
+      "rewardXP": 800,
+      "rewardCoins": 1600,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "quick_read_complete_250",
+      "order": 7,
+      "title": {
+        "en": "Master of Quick Reads",
+        "pt": "Mestre das Leituras"
+      },
+      "description": {
+        "en": "Complete 250 quick reads.",
+        "pt": "Conclua 250 leituras rápidas."
+      },
+      "icon": "📰",
+      "event": "quick_read.completed",
+      "target": 250,
+      "rewardXP": 1500,
+      "rewardCoins": 3000,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    }
+  ]
+}

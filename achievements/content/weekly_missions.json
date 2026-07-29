@@ -1,0 +1,124 @@
+{
+  "achievements": [
+    {
+      "id": "weekly_mission_complete_1",
+      "order": 1,
+      "title": {
+        "en": "Weekly Challenger",
+        "pt": "Desafiante Semanal"
+      },
+      "description": {
+        "en": "Complete your first weekly mission.",
+        "pt": "Complete sua primeira missão semanal."
+      },
+      "icon": "🏆",
+      "event": "weekly_mission.completed",
+      "target": 1,
+      "rewardXP": 50,
+      "rewardCoins": 100,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "weekly_mission_complete_5",
+      "order": 2,
+      "title": {
+        "en": "Consistent Challenger",
+        "pt": "Desafiante Consistente"
+      },
+      "description": {
+        "en": "Complete 5 weekly missions.",
+        "pt": "Complete 5 missões semanais."
+      },
+      "icon": "🏆",
+      "event": "weekly_mission.completed",
+      "target": 5,
+      "rewardXP": 150,
+      "rewardCoins": 300,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "weekly_mission_complete_10",
+      "order": 3,
+      "title": {
+        "en": "Mission Specialist",
+        "pt": "Especialista em Missões"
+      },
+      "description": {
+        "en": "Complete 10 weekly missions.",
+        "pt": "Complete 10 missões semanais."
+      },
+      "icon": "🏆",
+      "event": "weekly_mission.completed",
+      "target": 10,
+      "rewardXP": 300,
+      "rewardCoins": 600,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "weekly_mission_complete_25",
+      "order": 4,
+      "title": {
+        "en": "Weekly Hero",
+        "pt": "Herói Semanal"
+      },
+      "description": {
+        "en": "Complete 25 weekly missions.",
+        "pt": "Complete 25 missões semanais."
+      },
+      "icon": "🏆",
+      "event": "weekly_mission.completed",
+      "target": 25,
+      "rewardXP": 600,
+      "rewardCoins": 1200,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "weekly_mission_complete_50",
+      "order": 5,
+      "title": {
+        "en": "Mission Veteran",
+        "pt": "Veterano das Missões"
+      },
+      "description": {
+        "en": "Complete 50 weekly missions.",
+        "pt": "Complete 50 missões semanais."
+      },
+      "icon": "🏆",
+      "event": "weekly_mission.completed",
+      "target": 50,
+      "rewardXP": 1200,
+      "rewardCoins": 2500,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "weekly_mission_complete_100",
+      "order": 6,
+      "title": {
+        "en": "Weekly Legend",
+        "pt": "Lenda Semanal"
+      },
+      "description": {
+        "en": "Complete 100 weekly missions.",
+        "pt": "Complete 100 missões semanais."
+      },
+      "icon": "🏆",
+      "event": "weekly_mission.completed",
+      "target": 100,
+      "rewardXP": 2500,
+      "rewardCoins": 5000,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    }
+  ]
+}

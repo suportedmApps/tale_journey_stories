@@ -1,0 +1,124 @@
+{
+  "achievements": [
+    {
+      "id": "coins_100",
+      "order": 1,
+      "title": {
+        "en": "First Savings",
+        "pt": "Primeiras Economias"
+      },
+      "description": {
+        "en": "Accumulate 100 coins.",
+        "pt": "Acumule 100 moedas."
+      },
+      "icon": "🪙",
+      "event": "coins.earned",
+      "target": 100,
+      "rewardXP": 20,
+      "rewardCoins": 50,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "coins_500",
+      "order": 2,
+      "title": {
+        "en": "Treasure Hunter",
+        "pt": "Caçador de Tesouros"
+      },
+      "description": {
+        "en": "Accumulate 500 coins.",
+        "pt": "Acumule 500 moedas."
+      },
+      "icon": "🪙",
+      "event": "coins.earned",
+      "target": 500,
+      "rewardXP": 50,
+      "rewardCoins": 100,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "coins_1000",
+      "order": 3,
+      "title": {
+        "en": "Wealth Builder",
+        "pt": "Construtor de Riquezas"
+      },
+      "description": {
+        "en": "Accumulate 1,000 coins.",
+        "pt": "Acumule 1.000 moedas."
+      },
+      "icon": "🪙",
+      "event": "coins.earned",
+      "target": 1000,
+      "rewardXP": 100,
+      "rewardCoins": 250,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "coins_5000",
+      "order": 4,
+      "title": {
+        "en": "Golden Fortune",
+        "pt": "Fortuna Dourada"
+      },
+      "description": {
+        "en": "Accumulate 5,000 coins.",
+        "pt": "Acumule 5.000 moedas."
+      },
+      "icon": "🪙",
+      "event": "coins.earned",
+      "target": 5000,
+      "rewardXP": 250,
+      "rewardCoins": 500,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "coins_10000",
+      "order": 5,
+      "title": {
+        "en": "Coin Master",
+        "pt": "Mestre das Moedas"
+      },
+      "description": {
+        "en": "Accumulate 10,000 coins.",
+        "pt": "Acumule 10.000 moedas."
+      },
+      "icon": "🪙",
+      "event": "coins.earned",
+      "target": 10000,
+      "rewardXP": 500,
+      "rewardCoins": 1000,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "coins_50000",
+      "order": 6,
+      "title": {
+        "en": "Millionaire Mindset",
+        "pt": "Mentalidade Milionária"
+      },
+      "description": {
+        "en": "Accumulate 50,000 coins.",
+        "pt": "Acumule 50.000 moedas."
+      },
+      "icon": "🪙",
+      "event": "coins.earned",
+      "target": 50000,
+      "rewardXP": 1000,
+      "rewardCoins": 2500,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    }
+  ]
+}

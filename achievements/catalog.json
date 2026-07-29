@@ -1,0 +1,21 @@
+{
+    "version": 1,
+    "categories": {
+        "vocabulary": 1,
+        "review": 1,
+        "quick_reads": 1,
+        "stories": 1,
+        "books": 1,
+        "streak": 1,
+        "xp": 1,
+        "coins": 1,
+        "study_time": 1,
+        "daily_missions": 1,
+        "weekly_missions": 1,
+        "challenges": 1,
+        "languages": 1,
+        "exploration": 1,
+        "premium": 1,
+        "secret": 1
+    }
+}

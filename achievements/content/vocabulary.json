@@ -1,0 +1,244 @@
+{
+  "achievements": [
+    {
+      "id": "word_save_1",
+      "order": 1,
+      "title": {
+        "en": "First Word",
+        "pt": "Primeira Palavra"
+      },
+      "description": {
+        "en": "Save your first word.",
+        "pt": "Salve sua primeira palavra."
+      },
+      "icon": "📖",
+      "event": "word.saved",
+      "target": 1,
+      "rewardXP": 10,
+      "rewardCoins": 25,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "word_save_2",
+      "order": 2,
+      "title": {
+        "en": "Second Word",
+        "pt": "Segunda Palavra"
+      },
+      "description": {
+        "en": "Save 2 words.",
+        "pt": "Salve 2 palavras."
+      },
+      "icon": "📖",
+      "event": "word.saved",
+      "target": 2,
+      "rewardXP": 15,
+      "rewardCoins": 30,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "word_save_5",
+      "order": 3,
+      "title": {
+        "en": "Collector I",
+        "pt": "Colecionador I"
+      },
+      "description": {
+        "en": "Save 5 words.",
+        "pt": "Salve 5 palavras."
+      },
+      "icon": "📖",
+      "event": "word.saved",
+      "target": 5,
+      "rewardXP": 25,
+      "rewardCoins": 50,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "word_save_10",
+      "order": 4,
+      "title": {
+        "en": "Collector II",
+        "pt": "Colecionador II"
+      },
+      "description": {
+        "en": "Save 10 words.",
+        "pt": "Salve 10 palavras."
+      },
+      "icon": "📖",
+      "event": "word.saved",
+      "target": 10,
+      "rewardXP": 50,
+      "rewardCoins": 100,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "word_save_25",
+      "order": 5,
+      "title": {
+        "en": "Collector III",
+        "pt": "Colecionador III"
+      },
+      "description": {
+        "en": "Save 25 words.",
+        "pt": "Salve 25 palavras."
+      },
+      "icon": "📖",
+      "event": "word.saved",
+      "target": 25,
+      "rewardXP": 100,
+      "rewardCoins": 200,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "word_save_50",
+      "order": 6,
+      "title": {
+        "en": "Collector IV",
+        "pt": "Colecionador IV"
+      },
+      "description": {
+        "en": "Save 50 words.",
+        "pt": "Salve 50 palavras."
+      },
+      "icon": "📖",
+      "event": "word.saved",
+      "target": 50,
+      "rewardXP": 200,
+      "rewardCoins": 400,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "word_save_100",
+      "order": 7,
+      "title": {
+        "en": "Collector V",
+        "pt": "Colecionador V"
+      },
+      "description": {
+        "en": "Save 100 words.",
+        "pt": "Salve 100 palavras."
+      },
+      "icon": "📖",
+      "event": "word.saved",
+      "target": 100,
+      "rewardXP": 400,
+      "rewardCoins": 800,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "word_save_250",
+      "order": 8,
+      "title": {
+        "en": "Collector VI",
+        "pt": "Colecionador VI"
+      },
+      "description": {
+        "en": "Save 250 words.",
+        "pt": "Salve 250 palavras."
+      },
+      "icon": "📖",
+      "event": "word.saved",
+      "target": 250,
+      "rewardXP": 800,
+      "rewardCoins": 1600,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "word_save_500",
+      "order": 9,
+      "title": {
+        "en": "Collector VII",
+        "pt": "Colecionador VII"
+      },
+      "description": {
+        "en": "Save 500 words.",
+        "pt": "Salve 500 palavras."
+      },
+      "icon": "📖",
+      "event": "word.saved",
+      "target": 500,
+      "rewardXP": 1500,
+      "rewardCoins": 3000,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "word_save_1000",
+      "order": 10,
+      "title": {
+        "en": "Collector VIII",
+        "pt": "Colecionador VIII"
+      },
+      "description": {
+        "en": "Save 1,000 words.",
+        "pt": "Salve 1.000 palavras."
+      },
+      "icon": "📖",
+      "event": "word.saved",
+      "target": 1000,
+      "rewardXP": 2500,
+      "rewardCoins": 5000,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "word_save_2500",
+      "order": 11,
+      "title": {
+        "en": "Collector IX",
+        "pt": "Colecionador IX"
+      },
+      "description": {
+        "en": "Save 2,500 words.",
+        "pt": "Salve 2.500 palavras."
+      },
+      "icon": "📖",
+      "event": "word.saved",
+      "target": 2500,
+      "rewardXP": 4000,
+      "rewardCoins": 8000,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "word_save_5000",
+      "order": 12,
+      "title": {
+        "en": "Collector X",
+        "pt": "Colecionador X"
+      },
+      "description": {
+        "en": "Save 5,000 words.",
+        "pt": "Salve 5.000 palavras."
+      },
+      "icon": "📖",
+      "event": "word.saved",
+      "target": 5000,
+      "rewardXP": 6000,
+      "rewardCoins": 12000,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    }
+  ]
+}

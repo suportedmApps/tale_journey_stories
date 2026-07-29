@@ -1,0 +1,124 @@
+{
+  "achievements": [
+    {
+      "id": "story_complete_1",
+      "order": 1,
+      "title": {
+        "en": "First Story",
+        "pt": "Primeira História"
+      },
+      "description": {
+        "en": "Complete your first story.",
+        "pt": "Conclua sua primeira história."
+      },
+      "icon": "📚",
+      "event": "story.completed",
+      "target": 1,
+      "rewardXP": 30,
+      "rewardCoins": 75,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "story_complete_5",
+      "order": 2,
+      "title": {
+        "en": "Storyteller",
+        "pt": "Contador de Histórias"
+      },
+      "description": {
+        "en": "Complete 5 stories.",
+        "pt": "Conclua 5 histórias."
+      },
+      "icon": "📚",
+      "event": "story.completed",
+      "target": 5,
+      "rewardXP": 75,
+      "rewardCoins": 150,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "story_complete_10",
+      "order": 3,
+      "title": {
+        "en": "Explorer",
+        "pt": "Explorador"
+      },
+      "description": {
+        "en": "Complete 10 stories.",
+        "pt": "Conclua 10 histórias."
+      },
+      "icon": "📚",
+      "event": "story.completed",
+      "target": 10,
+      "rewardXP": 150,
+      "rewardCoins": 300,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "story_complete_25",
+      "order": 4,
+      "title": {
+        "en": "Adventurer",
+        "pt": "Aventureiro"
+      },
+      "description": {
+        "en": "Complete 25 stories.",
+        "pt": "Conclua 25 histórias."
+      },
+      "icon": "📚",
+      "event": "story.completed",
+      "target": 25,
+      "rewardXP": 300,
+      "rewardCoins": 600,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "story_complete_50",
+      "order": 5,
+      "title": {
+        "en": "Chronicler",
+        "pt": "Cronista"
+      },
+      "description": {
+        "en": "Complete 50 stories.",
+        "pt": "Conclua 50 histórias."
+      },
+      "icon": "📚",
+      "event": "story.completed",
+      "target": 50,
+      "rewardXP": 600,
+      "rewardCoins": 1200,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "story_complete_100",
+      "order": 6,
+      "title": {
+        "en": "Master Storyteller",
+        "pt": "Mestre das Histórias"
+      },
+      "description": {
+        "en": "Complete 100 stories.",
+        "pt": "Conclua 100 histórias."
+      },
+      "icon": "📚",
+      "event": "story.completed",
+      "target": 100,
+      "rewardXP": 1200,
+      "rewardCoins": 2500,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "achievements": [
+    {
+      "id": "streak_1",
+      "order": 1,
+      "title": {
+        "en": "First Step",
+        "pt": "Primeiro Passo"
+      },
+      "description": {
+        "en": "Maintain a 1-day study streak.",
+        "pt": "Mantenha uma sequência de estudos de 1 dia."
+      },
+      "icon": "🔥",
+      "event": "streak.updated",
+      "target": 1,
+      "rewardXP": 20,
+      "rewardCoins": 50,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "streak_3",
+      "order": 2,
+      "title": {
+        "en": "Getting Started",
+        "pt": "Pegando o Ritmo"
+      },
+      "description": {
+        "en": "Maintain a 3-day study streak.",
+        "pt": "Mantenha uma sequência de estudos de 3 dias."
+      },
+      "icon": "🔥",
+      "event": "streak.updated",
+      "target": 3,
+      "rewardXP": 50,
+      "rewardCoins": 100,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "streak_7",
+      "order": 3,
+      "title": {
+        "en": "One Week Strong",
+        "pt": "Uma Semana Forte"
+      },
+      "description": {
+        "en": "Maintain a 7-day study streak.",
+        "pt": "Mantenha uma sequência de estudos de 7 dias."
+      },
+      "icon": "🔥",
+      "event": "streak.updated",
+      "target": 7,
+      "rewardXP": 100,
+      "rewardCoins": 200,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "streak_14",
+      "order": 4,
+      "title": {
+        "en": "Unstoppable",
+        "pt": "Imparável"
+      },
+      "description": {
+        "en": "Maintain a 14-day study streak.",
+        "pt": "Mantenha uma sequência de estudos de 14 dias."
+      },
+      "icon": "🔥",
+      "event": "streak.updated",
+      "target": 14,
+      "rewardXP": 200,
+      "rewardCoins": 400,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "streak_30",
+      "order": 5,
+      "title": {
+        "en": "Monthly Champion",
+        "pt": "Campeão do Mês"
+      },
+      "description": {
+        "en": "Maintain a 30-day study streak.",
+        "pt": "Mantenha uma sequência de estudos de 30 dias."
+      },
+      "icon": "🔥",
+      "event": "streak.updated",
+      "target": 30,
+      "rewardXP": 400,
+      "rewardCoins": 800,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "streak_50",
+      "order": 6,
+      "title": {
+        "en": "Dedicated Learner",
+        "pt": "Aprendiz Dedicado"
+      },
+      "description": {
+        "en": "Maintain a 50-day study streak.",
+        "pt": "Mantenha uma sequência de estudos de 50 dias."
+      },
+      "icon": "🔥",
+      "event": "streak.updated",
+      "target": 50,
+      "rewardXP": 600,
+      "rewardCoins": 1200,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "streak_100",
+      "order": 7,
+      "title": {
+        "en": "Century Streak",
+        "pt": "Sequência Centenária"
+      },
+      "description": {
+        "en": "Maintain a 100-day study streak.",
+        "pt": "Mantenha uma sequência de estudos de 100 dias."
+      },
+      "icon": "🔥",
+      "event": "streak.updated",
+      "target": 100,
+      "rewardXP": 1000,
+      "rewardCoins": 2000,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "streak_180",
+      "order": 8,
+      "title": {
+        "en": "Half-Year Hero",
+        "pt": "Herói Semestral"
+      },
+      "description": {
+        "en": "Maintain a 180-day study streak.",
+        "pt": "Mantenha uma sequência de estudos de 180 dias."
+      },
+      "icon": "🔥",
+      "event": "streak.updated",
+      "target": 180,
+      "rewardXP": 1500,
+      "rewardCoins": 3000,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "streak_365",
+      "order": 9,
+      "title": {
+        "en": "One-Year Legend",
+        "pt": "Lenda de Um Ano"
+      },
+      "description": {
+        "en": "Maintain a 365-day study streak.",
+        "pt": "Mantenha uma sequência de estudos de 365 dias."
+      },
+      "icon": "🔥",
+      "event": "streak.updated",
+      "target": 365,
+      "rewardXP": 2500,
+      "rewardCoins": 5000,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "streak_500",
+      "order": 10,
+      "title": {
+        "en": "Flame Keeper",
+        "pt": "Guardião da Chama"
+      },
+      "description": {
+        "en": "Maintain a 500-day study streak.",
+        "pt": "Mantenha uma sequência de estudos de 500 dias."
+      },
+      "icon": "🔥",
+      "event": "streak.updated",
+      "target": 500,
+      "rewardXP": 3500,
+      "rewardCoins": 7000,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "streak_1000",
+      "order": 11,
+      "title": {
+        "en": "Immortal Flame",
+        "pt": "Chama Imortal"
+      },
+      "description": {
+        "en": "Maintain a 1,000-day study streak.",
+        "pt": "Mantenha uma sequência de estudos de 1.000 dias."
+      },
+      "icon": "🔥",
+      "event": "streak.updated",
+      "target": 1000,
+      "rewardXP": 5000,
+      "rewardCoins": 10000,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "achievements": [
+    {
+      "id": "daily_mission_complete_1",
+      "order": 1,
+      "title": {
+        "en": "First Mission",
+        "pt": "Primeira Missão"
+      },
+      "description": {
+        "en": "Complete your first daily mission.",
+        "pt": "Complete sua primeira missão diária."
+      },
+      "icon": "🎯",
+      "event": "daily_mission.completed",
+      "target": 1,
+      "rewardXP": 20,
+      "rewardCoins": 50,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "daily_mission_complete_10",
+      "order": 2,
+      "title": {
+        "en": "Mission Rookie",
+        "pt": "Recruta das Missões"
+      },
+      "description": {
+        "en": "Complete 10 daily missions.",
+        "pt": "Complete 10 missões diárias."
+      },
+      "icon": "🎯",
+      "event": "daily_mission.completed",
+      "target": 10,
+      "rewardXP": 75,
+      "rewardCoins": 150,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "daily_mission_complete_50",
+      "order": 3,
+      "title": {
+        "en": "Mission Specialist",
+        "pt": "Especialista em Missões"
+      },
+      "description": {
+        "en": "Complete 50 daily missions.",
+        "pt": "Complete 50 missões diárias."
+      },
+      "icon": "🎯",
+      "event": "daily_mission.completed",
+      "target": 50,
+      "rewardXP": 200,
+      "rewardCoins": 500,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "daily_mission_complete_100",
+      "order": 4,
+      "title": {
+        "en": "Mission Veteran",
+        "pt": "Veterano das Missões"
+      },
+      "description": {
+        "en": "Complete 100 daily missions.",
+        "pt": "Complete 100 missões diárias."
+      },
+      "icon": "🎯",
+      "event": "daily_mission.completed",
+      "target": 100,
+      "rewardXP": 400,
+      "rewardCoins": 1000,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "daily_mission_complete_250",
+      "order": 5,
+      "title": {
+        "en": "Mission Master",
+        "pt": "Mestre das Missões"
+      },
+      "description": {
+        "en": "Complete 250 daily missions.",
+        "pt": "Complete 250 missões diárias."
+      },
+      "icon": "🎯",
+      "event": "daily_mission.completed",
+      "target": 250,
+      "rewardXP": 800,
+      "rewardCoins": 2000,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "daily_mission_complete_500",
+      "order": 6,
+      "title": {
+        "en": "Legend of Daily Missions",
+        "pt": "Lenda das Missões Diárias"
+      },
+      "description": {
+        "en": "Complete 500 daily missions.",
+        "pt": "Complete 500 missões diárias."
+      },
+      "icon": "🎯",
+      "event": "daily_mission.completed",
+      "target": 500,
+      "rewardXP": 1500,
+      "rewardCoins": 4000,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    }
+  ]
+}

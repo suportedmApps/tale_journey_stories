@@ -1,0 +1,84 @@
+{
+  "achievements": [
+    {
+      "id": "premium_subscribed",
+      "order": 1,
+      "title": {
+        "en": "Welcome to Premium",
+        "pt": "Bem-vindo ao Premium"
+      },
+      "description": {
+        "en": "Become a Premium member.",
+        "pt": "Torne-se um membro Premium."
+      },
+      "icon": "💎",
+      "event": "premium.subscribed",
+      "target": 1,
+      "rewardXP": 100,
+      "rewardCoins": 250,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "premium_days_30",
+      "order": 2,
+      "title": {
+        "en": "Premium Supporter",
+        "pt": "Apoiador Premium"
+      },
+      "description": {
+        "en": "Stay Premium for 30 days.",
+        "pt": "Permaneça Premium por 30 dias."
+      },
+      "icon": "💎",
+      "event": "premium.days",
+      "target": 30,
+      "rewardXP": 250,
+      "rewardCoins": 500,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "premium_days_180",
+      "order": 3,
+      "title": {
+        "en": "Loyal Supporter",
+        "pt": "Apoiador Fiel"
+      },
+      "description": {
+        "en": "Stay Premium for 180 days.",
+        "pt": "Permaneça Premium por 180 dias."
+      },
+      "icon": "💎",
+      "event": "premium.days",
+      "target": 180,
+      "rewardXP": 750,
+      "rewardCoins": 1500,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "premium_days_365",
+      "order": 4,
+      "title": {
+        "en": "Diamond Member",
+        "pt": "Membro Diamante"
+      },
+      "description": {
+        "en": "Stay Premium for 365 days.",
+        "pt": "Permaneça Premium por 365 dias."
+      },
+      "icon": "💎",
+      "event": "premium.days",
+      "target": 365,
+      "rewardXP": 1500,
+      "rewardCoins": 3000,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    }
+  ]
+}

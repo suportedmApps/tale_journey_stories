@@ -1,0 +1,104 @@
+{
+  "achievements": [
+    {
+      "id": "challenge_complete_1",
+      "order": 1,
+      "title": {
+        "en": "First Challenge",
+        "pt": "Primeiro Desafio"
+      },
+      "description": {
+        "en": "Complete your first challenge.",
+        "pt": "Complete seu primeiro desafio."
+      },
+      "icon": "⚔️",
+      "event": "challenge.completed",
+      "target": 1,
+      "rewardXP": 20,
+      "rewardCoins": 50,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "challenge_complete_10",
+      "order": 2,
+      "title": {
+        "en": "Challenger",
+        "pt": "Desafiante"
+      },
+      "description": {
+        "en": "Complete 10 challenges.",
+        "pt": "Complete 10 desafios."
+      },
+      "icon": "⚔️",
+      "event": "challenge.completed",
+      "target": 10,
+      "rewardXP": 100,
+      "rewardCoins": 250,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "challenge_complete_50",
+      "order": 3,
+      "title": {
+        "en": "Battle Hardened",
+        "pt": "Veterano de Batalha"
+      },
+      "description": {
+        "en": "Complete 50 challenges.",
+        "pt": "Complete 50 desafios."
+      },
+      "icon": "⚔️",
+      "event": "challenge.completed",
+      "target": 50,
+      "rewardXP": 300,
+      "rewardCoins": 750,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "challenge_complete_100",
+      "order": 4,
+      "title": {
+        "en": "Champion",
+        "pt": "Campeão"
+      },
+      "description": {
+        "en": "Complete 100 challenges.",
+        "pt": "Complete 100 desafios."
+      },
+      "icon": "⚔️",
+      "event": "challenge.completed",
+      "target": 100,
+      "rewardXP": 600,
+      "rewardCoins": 1500,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "challenge_complete_250",
+      "order": 5,
+      "title": {
+        "en": "Master Challenger",
+        "pt": "Mestre dos Desafios"
+      },
+      "description": {
+        "en": "Complete 250 challenges.",
+        "pt": "Complete 250 desafios."
+      },
+      "icon": "⚔️",
+      "event": "challenge.completed",
+      "target": 250,
+      "rewardXP": 1200,
+      "rewardCoins": 3000,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "achievements": [
+    {
+      "id": "language_start_1",
+      "order": 1,
+      "title": {
+        "en": "A New Beginning",
+        "pt": "Um Novo Começo"
+      },
+      "description": {
+        "en": "Start learning your first language.",
+        "pt": "Comece a aprender seu primeiro idioma."
+      },
+      "icon": "🌍",
+      "event": "language.started",
+      "target": 1,
+      "rewardXP": 50,
+      "rewardCoins": 100,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "language_start_2",
+      "order": 2,
+      "title": {
+        "en": "Polyglot Apprentice",
+        "pt": "Aprendiz Poliglota"
+      },
+      "description": {
+        "en": "Start learning 2 different languages.",
+        "pt": "Comece a aprender 2 idiomas diferentes."
+      },
+      "icon": "🌍",
+      "event": "language.started",
+      "target": 2,
+      "rewardXP": 150,
+      "rewardCoins": 300,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "language_start_3",
+      "order": 3,
+      "title": {
+        "en": "World Explorer",
+        "pt": "Explorador do Mundo"
+      },
+      "description": {
+        "en": "Start learning 3 different languages.",
+        "pt": "Comece a aprender 3 idiomas diferentes."
+      },
+      "icon": "🌍",
+      "event": "language.started",
+      "target": 3,
+      "rewardXP": 300,
+      "rewardCoins": 600,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    },
+    {
+      "id": "language_start_5",
+      "order": 4,
+      "title": {
+        "en": "Master Linguist",
+        "pt": "Mestre dos Idiomas"
+      },
+      "description": {
+        "en": "Start learning 5 different languages.",
+        "pt": "Comece a aprender 5 idiomas diferentes."
+      },
+      "icon": "🌍",
+      "event": "language.started",
+      "target": 5,
+      "rewardXP": 600,
+      "rewardCoins": 1200,
+      "hidden": false,
+      "enabled": true,
+      "version": 1
+    }
+  ]
+}
