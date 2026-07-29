@@ -2,8 +2,14 @@
   {
     "id": "save_first_word",
     "type": "achievement",
-    "title": "Primeira Palavra",
-    "description": "Salve sua primeira palavra.",
+    "title": {
+      "en": "First Word",
+      "pt": "Primeira Palavra"
+    },
+    "description": {
+      "en": "Save your first word.",
+      "pt": "Salve sua primeira palavra."
+    },
     "icon": "📖",
     "event": "wordSaved",
     "target": 1,
@@ -15,8 +21,14 @@
   {
     "id": "save_second_word",
     "type": "achievement",
-    "title": "Segunda Palavra",
-    "description": "Salve sua segunda palavra.",
+    "title": {
+      "en": "Second Word",
+      "pt": "Segunda Palavra"
+    },
+    "description": {
+      "en": "Save your second word.",
+      "pt": "Salve sua segunda palavra."
+    },
     "icon": "📖",
     "event": "wordSaved",
     "target": 2,
@@ -28,8 +40,14 @@
   {
     "id": "save_5_words",
     "type": "achievement",
-    "title": "Colecionador",
-    "description": "Salve 5 palavras.",
+    "title": {
+      "en": "Collector",
+      "pt": "Colecionador"
+    },
+    "description": {
+      "en": "Save 5 words.",
+      "pt": "Salve 5 palavras."
+    },
     "icon": "📚",
     "event": "wordSaved",
     "target": 5,
@@ -41,8 +59,14 @@
   {
     "id": "save_10_words",
     "type": "achievement",
-    "title": "Colecionador",
-    "description": "Salve 10 palavras.",
+    "title": {
+      "en": "Collector",
+      "pt": "Colecionador"
+    },
+    "description": {
+      "en": "Save 10 words.",
+      "pt": "Salve 10 palavras."
+    },
     "icon": "📚",
     "event": "wordSaved",
     "target": 10,
@@ -51,12 +75,17 @@
     "enabled": true,
     "version": 1
   },
-
   {
     "id": "complete_first_quick_read",
     "type": "achievement",
-    "title": "Primeira Leitura",
-    "description": "Conclua sua primeira leitura rápida.",
+    "title": {
+      "en": "First Quick Read",
+      "pt": "Primeira Leitura"
+    },
+    "description": {
+      "en": "Complete your first quick read.",
+      "pt": "Conclua sua primeira leitura rápida."
+    },
     "icon": "📰",
     "event": "quickReadCompleted",
     "target": 1,
@@ -68,8 +97,14 @@
   {
     "id": "complete_4_quick_reads",
     "type": "achievement",
-    "title": "Leitor Rápido",
-    "description": "Conclua 4 leituras rápidas.",
+    "title": {
+      "en": "Quick Reader",
+      "pt": "Leitor Rápido"
+    },
+    "description": {
+      "en": "Complete 4 quick reads.",
+      "pt": "Conclua 4 leituras rápidas."
+    },
     "icon": "📰",
     "event": "quickReadCompleted",
     "target": 4,
@@ -81,8 +116,14 @@
   {
     "id": "complete_10_quick_reads",
     "type": "achievement",
-    "title": "Especialista em Leituras",
-    "description": "Conclua 10 leituras rápidas.",
+    "title": {
+      "en": "Quick Read Expert",
+      "pt": "Especialista em Leituras"
+    },
+    "description": {
+      "en": "Complete 10 quick reads.",
+      "pt": "Conclua 10 leituras rápidas."
+    },
     "icon": "📰",
     "event": "quickReadCompleted",
     "target": 10,
@@ -91,12 +132,17 @@
     "enabled": true,
     "version": 1
   },
-
   {
     "id": "complete_first_story",
     "type": "achievement",
-    "title": "Primeira História",
-    "description": "Conclua sua primeira história.",
+    "title": {
+      "en": "First Story",
+      "pt": "Primeira História"
+    },
+    "description": {
+      "en": "Complete your first story.",
+      "pt": "Conclua sua primeira história."
+    },
     "icon": "📚",
     "event": "storyCompleted",
     "target": 1,
@@ -108,8 +154,14 @@
   {
     "id": "complete_5_stories",
     "type": "achievement",
-    "title": "Explorador de Histórias",
-    "description": "Conclua 5 histórias.",
+    "title": {
+      "en": "Story Explorer",
+      "pt": "Explorador de Histórias"
+    },
+    "description": {
+      "en": "Complete 5 stories.",
+      "pt": "Conclua 5 histórias."
+    },
     "icon": "📚",
     "event": "storyCompleted",
     "target": 5,
@@ -121,8 +173,14 @@
   {
     "id": "complete_10_stories",
     "type": "achievement",
-    "title": "Contador de Histórias",
-    "description": "Conclua 10 histórias.",
+    "title": {
+      "en": "Story Master",
+      "pt": "Contador de Histórias"
+    },
+    "description": {
+      "en": "Complete 10 stories.",
+      "pt": "Conclua 10 histórias."
+    },
     "icon": "📚",
     "event": "storyCompleted",
     "target": 10,
@@ -131,12 +189,17 @@
     "enabled": true,
     "version": 1
   },
-
   {
     "id": "complete_first_book",
     "type": "achievement",
-    "title": "Primeiro Livro",
-    "description": "Conclua seu primeiro livro.",
+    "title": {
+      "en": "First Book",
+      "pt": "Primeiro Livro"
+    },
+    "description": {
+      "en": "Complete your first book.",
+      "pt": "Conclua seu primeiro livro."
+    },
     "icon": "📕",
     "event": "bookCompleted",
     "target": 1,
@@ -148,8 +211,14 @@
   {
     "id": "complete_3_books",
     "type": "achievement",
-    "title": "Leitor Dedicado",
-    "description": "Conclua 3 livros.",
+    "title": {
+      "en": "Dedicated Reader",
+      "pt": "Leitor Dedicado"
+    },
+    "description": {
+      "en": "Complete 3 books.",
+      "pt": "Conclua 3 livros."
+    },
     "icon": "📗",
     "event": "bookCompleted",
     "target": 3,
@@ -161,8 +230,14 @@
   {
     "id": "complete_5_books",
     "type": "achievement",
-    "title": "Mestre dos Livros",
-    "description": "Conclua 5 livros.",
+    "title": {
+      "en": "Book Master",
+      "pt": "Mestre dos Livros"
+    },
+    "description": {
+      "en": "Complete 5 books.",
+      "pt": "Conclua 5 livros."
+    },
     "icon": "👑",
     "event": "bookCompleted",
     "target": 5,
