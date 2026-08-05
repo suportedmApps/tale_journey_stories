@@ -1,7 +1,8 @@
 [
   {
     "id": "save_first_word",
-    "type": "achievement",
+    "category": "vocabulary",
+    "order": 1,
     "title": {
       "en": "First Word",
       "pt": "Primeira Palavra"
@@ -12,6 +13,7 @@
     },
     "icon": "📖",
     "event": "wordSaved",
+    "hidden": true,
     "target": 1,
     "rewardXP": 10,
     "rewardCoins": 50,
@@ -20,7 +22,7 @@
   },
   {
     "id": "save_second_word",
-    "type": "achievement",
+    "category": "vocabulary",
     "title": {
       "en": "Second Word",
       "pt": "Segunda Palavra"
@@ -39,7 +41,7 @@
   },
   {
     "id": "save_5_words",
-    "type": "achievement",
+    "category": "vocabulary",
     "title": {
       "en": "Collector",
       "pt": "Colecionador"
@@ -58,7 +60,7 @@
   },
   {
     "id": "save_10_words",
-    "type": "achievement",
+    "category": "vocabulary",
     "title": {
       "en": "Collector",
       "pt": "Colecionador"
