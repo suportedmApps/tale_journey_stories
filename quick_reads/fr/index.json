@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "indexes": [
+    {
+      "id": "01",
+      "name": "Daily Life",
+      "version": 1,
+      "last_updated": "2026-08-11T10:30:00Z"
+    }
+  ]
+}
