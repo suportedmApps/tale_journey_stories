@@ -1,0 +1,72 @@
+[
+  {
+    "id": "qr_00001_fr",
+    "title": "Café du matin",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "version": 1
+  },
+  {
+    "id": "qr_00002_fr",
+    "title": "En retard au travail",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "version": 1
+  },
+  {
+    "id": "qr_00003_fr",
+    "title": "Un lundi pluvieux",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "version": 1
+  },
+  {
+    "id": "qr_00004_fr",
+    "title": "Petit-déjeuner avec Emma",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "version": 1
+  },
+  {
+    "id": "qr_00005_fr",
+    "title": "Le portefeuille perdu",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "version": 1
+  },
+  {
+    "id": "qr_00006_fr",
+    "title": "Les courses",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "version": 1
+  },
+  {
+    "id": "qr_00007_fr",
+    "title": "Nettoyer l'appartement",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "version": 1
+  },
+  {
+    "id": "qr_00008_fr",
+    "title": "Ma matinée chargée",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "version": 1
+  },
+  {
+    "id": "qr_00009_fr",
+    "title": "En attendant le bus",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "version": 1
+  },
+  {
+    "id": "qr_00010_fr",
+    "title": "Un nouveau voisin",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "version": 1
+  }
+]

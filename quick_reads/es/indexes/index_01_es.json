@@ -1,0 +1,72 @@
+[
+  {
+    "id": "qr_00001_es",
+    "title": "Café de la mañana",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "version": 1
+  },
+  {
+    "id": "qr_00002_es",
+    "title": "Llegó tarde al trabajo",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "version": 1
+  },
+  {
+    "id": "qr_00003_es",
+    "title": "Un lunes lluvioso",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "version": 1
+  },
+  {
+    "id": "qr_00004_es",
+    "title": "Desayuno con Emma",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "version": 1
+  },
+  {
+    "id": "qr_00005_es",
+    "title": "La cartera perdida",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "version": 1
+  },
+  {
+    "id": "qr_00006_es",
+    "title": "De compras en el supermercado",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "version": 1
+  },
+  {
+    "id": "qr_00007_es",
+    "title": "Limpiando el apartamento",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "version": 1
+  },
+  {
+    "id": "qr_00008_es",
+    "title": "Mi mañana ocupada",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "version": 1
+  },
+  {
+    "id": "qr_00009_es",
+    "title": "Esperando el autobús",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "version": 1
+  },
+  {
+    "id": "qr_00010_es",
+    "title": "Un nuevo vecino",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "version": 1
+  }
+]
