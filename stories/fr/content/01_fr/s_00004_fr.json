@@ -1,0 +1,24 @@
+{
+  "id": "s_00004_fr",
+  "description": "Lucas a toujours rêvé d'explorer le monde. Après avoir acheté un billet aller simple pour le Japon, il commence un voyage inoubliable rempli de nouvelles amitiés, de découvertes culturelles et de développement personnel.",
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "La Gare",
+      "order": 1,
+      "content": "Sophie se tenait à la gare de Tokyo avec son billet à la main. Le train à grande vitesse pour Kyoto partirait dans dix minutes."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Place près de la Fenêtre",
+      "order": 2,
+      "content": "Elle s'assit près de la fenêtre et regarda la ville disparaître. Bientôt, les champs verdoyants et les montagnes remplacèrent les grands immeubles."
+    },
+    {
+      "id": "chapter_03",
+      "title": "La Première Vue",
+      "order": 3,
+      "content": "Lorsqu'elle arriva à Kyoto, les rues paisibles et les temples traditionnels lui donnèrent l'impression d'avoir voyagé dans le temps."
+    }
+  ]
+}

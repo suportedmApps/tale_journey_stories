@@ -1,0 +1,24 @@
+{
+  "id": "s_00005_pt",
+  "description": "Lucas sempre sonhou em explorar o mundo. Depois de comprar uma passagem só de ida para o Japão, ele começa uma jornada inesquecível repleta de novas amizades, descobertas culturais e crescimento pessoal.",
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Sexta à Noite",
+      "order": 1,
+      "content": "Mia chegou a Barcelona na sexta-feira à noite. As ruas estavam cheias de música, as pessoas riam do lado de fora dos restaurantes e o ar quente estava perfeito."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Conhecendo a Cidade",
+      "order": 2,
+      "content": "Na manhã de sábado, ela caminhou pelas Ramblas, visitou mercados coloridos e observou artistas de rua dançando sob o sol."
+    },
+    {
+      "id": "chapter_03",
+      "title": "Pôr do Sol na Praia",
+      "order": 3,
+      "content": "À noite, Mia sentou-se perto da praia e observou o pôr do sol sobre o mar. Ela sabia que aquele fim de semana ficaria para sempre em sua memória."
+    }
+  ]
+}

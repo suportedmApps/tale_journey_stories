@@ -1,0 +1,24 @@
+{
+  "id": "s_00001_es",
+  "description": "Lucas siempre ha soñado con explorar el mundo. Después de comprar un billete de ida a Japón, comienza un viaje inolvidable lleno de nuevas amistades, descubrimientos culturales y crecimiento personal.",
+  "chapters": [
+    {
+      "id": "c_0001",
+      "title": "El comienzo",
+      "order": 1,
+      "content": "Lucas siempre había soñado con viajar por el mundo. Un día, compró un billete de ida a Japón. Preparó su mochila, se despidió de su familia y comenzó la mayor aventura de su vida."
+    },
+    {
+      "id": "c_0002",
+      "title": "Llegada a Tokio",
+      "order": 2,
+      "content": "Cuando Lucas llegó a Tokio, todo parecía diferente. Las calles estaban llenas de gente, los letreros estaban en japonés y las luces de la ciudad eran más brillantes de lo que jamás había visto."
+    },
+    {
+      "id": "c_0003",
+      "title": "Los primeros amigos",
+      "order": 3,
+      "content": "En una pequeña cafetería cerca de Shibuya, Lucas conoció a Aiko, una estudiante universitaria que hablaba inglés con fluidez. Ella se ofreció a ayudarlo a conocer mejor la ciudad."
+    }
+  ]
+}

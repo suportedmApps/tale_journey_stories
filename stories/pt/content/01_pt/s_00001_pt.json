@@ -1,0 +1,24 @@
+{
+  "id": "s_00001_pt",
+  "description": "Lucas sempre sonhou em explorar o mundo. Depois de comprar uma passagem só de ida para o Japão, ele começa uma jornada inesquecível repleta de novas amizades, descobertas culturais e crescimento pessoal.",
+  "chapters": [
+    {
+      "id": "c_0001",
+      "title": "O Começo",
+      "order": 1,
+      "content": "Lucas sempre sonhou em viajar pelo mundo. Um dia, comprou uma passagem só de ida para o Japão. Ele arrumou sua mochila, despediu-se de sua família e começou a maior aventura de sua vida."
+    },
+    {
+      "id": "c_0002",
+      "title": "Chegada a Tóquio",
+      "order": 2,
+      "content": "Quando Lucas chegou a Tóquio, tudo parecia diferente. As ruas estavam movimentadas, as placas estavam em japonês e as luzes da cidade eram mais brilhantes do que qualquer coisa que ele já tinha visto."
+    },
+    {
+      "id": "c_0003",
+      "title": "Os Primeiros Amigos",
+      "order": 3,
+      "content": "Em uma pequena cafeteria perto de Shibuya, Lucas conheceu Aiko, uma estudante universitária que falava inglês fluentemente. Ela se ofereceu para ajudá-lo a conhecer melhor a cidade."
+    }
+  ]
+}

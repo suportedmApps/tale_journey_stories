@@ -1,0 +1,24 @@
+{
+  "id": "s_00002_fr",
+  "description": "Lucas a toujours rêvé d'explorer le monde. Après avoir acheté un billet aller simple pour le Japon, il commence un voyage inoubliable rempli de nouvelles amitiés, de découvertes culturelles et de développement personnel.",
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "L'arrivée",
+      "order": 1,
+      "content": "Emma est arrivée à Rome par un chaud après-midi d'été. Elle avait une petite valise, une carte de la ville et le rêve d'explorer chaque recoin de la ville antique."
+    },
+    {
+      "id": "chapter_02",
+      "title": "La mauvaise direction",
+      "order": 2,
+      "content": "En marchant près du Colisée, Emma a pris la mauvaise rue et s'est perdue. Tous les bâtiments semblaient magnifiques, mais aucun ne lui était familier."
+    },
+    {
+      "id": "chapter_03",
+      "title": "Un inconnu serviable",
+      "order": 3,
+      "content": "Un homme âgé remarqua sa confusion et lui sourit. Dans un anglais simple, il l'aida à trouver son hôtel et lui recommanda le meilleur glacier du quartier."
+    }
+  ]
+}

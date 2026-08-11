@@ -1,0 +1,24 @@
+{
+  "id": "s_00003_pt",
+  "description": "Lucas sempre sonhou em explorar o mundo. Depois de comprar uma passagem só de ida para o Japão, ele começa uma jornada inesquecível repleta de novas amizades, descobertas culturais e crescimento pessoal.",
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Caminhada Matinal",
+      "order": 1,
+      "content": "Daniel caminhou pelas ruas tranquilas de Paris no início da manhã. O cheiro de pão fresco vinha de todas as padarias pelas quais passava."
+    },
+    {
+      "id": "chapter_02",
+      "title": "A Pequena Cafeteria",
+      "order": 2,
+      "content": "Ele encontrou uma pequena cafeteria perto do rio e pediu café e um croissant. A garçonete sorriu e o recebeu em francês."
+    },
+    {
+      "id": "chapter_03",
+      "title": "Uma Nova Rotina",
+      "order": 3,
+      "content": "Todas as manhãs depois disso, Daniel voltava à mesma cafeteria. Ela se tornou seu lugar favorito para escrever e observar a cidade despertar."
+    }
+  ]
+}

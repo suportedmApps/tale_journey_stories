@@ -1,0 +1,24 @@
+{
+  "id": "s_00005_fr",
+  "description": "Lucas a toujours rêvé d'explorer le monde. Après avoir acheté un billet aller simple pour le Japon, il commence un voyage inoubliable rempli de nouvelles amitiés, de découvertes culturelles et de développement personnel.",
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Vendredi Soir",
+      "order": 1,
+      "content": "Mia est arrivée à Barcelone vendredi soir. Les rues étaient pleines de musique, les gens riaient devant les restaurants et l'air chaud était parfait."
+    },
+    {
+      "id": "chapter_02",
+      "title": "À la Découverte de la Ville",
+      "order": 2,
+      "content": "Samedi matin, elle s'est promenée le long des Ramblas, a visité des marchés colorés et a regardé des artistes de rue danser au soleil."
+    },
+    {
+      "id": "chapter_03",
+      "title": "Coucher de Soleil sur la Plage",
+      "order": 3,
+      "content": "Le soir, Mia s'est assise près de la plage et a regardé le soleil se coucher sur la mer. Elle savait que ce week-end resterait à jamais gravé dans sa mémoire."
+    }
+  ]
+}

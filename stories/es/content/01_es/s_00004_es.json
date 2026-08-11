@@ -1,0 +1,24 @@
+{
+  "id": "s_00004_es",
+  "description": "Lucas siempre ha soñado con explorar el mundo. Después de comprar un billete de ida a Japón, comienza un viaje inolvidable lleno de nuevas amistades, descubrimientos culturales y crecimiento personal.",
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "La Estación",
+      "order": 1,
+      "content": "Sophie estaba en la estación de Tokio con su billete en la mano. El tren bala hacia Kioto saldría en diez minutos."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Asiento junto a la Ventana",
+      "order": 2,
+      "content": "Se sentó junto a la ventana y observó cómo la ciudad desaparecía. Pronto, los campos verdes y las montañas reemplazaron los altos edificios."
+    },
+    {
+      "id": "chapter_03",
+      "title": "La Primera Vista",
+      "order": 3,
+      "content": "Cuando llegó a Kioto, las tranquilas calles y los templos tradicionales la hicieron sentir como si hubiera viajado al pasado."
+    }
+  ]
+}

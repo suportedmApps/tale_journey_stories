@@ -1,0 +1,24 @@
+{
+  "id": "s_00001_fr",
+  "description": "Lucas a toujours rêvé d'explorer le monde. Après avoir acheté un billet aller simple pour le Japon, il commence un voyage inoubliable rempli de nouvelles amitiés, de découvertes culturelles et de développement personnel.",
+  "chapters": [
+    {
+      "id": "c_0001",
+      "title": "Le début",
+      "order": 1,
+      "content": "Lucas avait toujours rêvé de voyager à travers le monde. Un jour, il acheta un billet aller simple pour le Japon. Il prépara son sac à dos, dit au revoir à sa famille et commença la plus grande aventure de sa vie."
+    },
+    {
+      "id": "c_0002",
+      "title": "Arrivée à Tokyo",
+      "order": 2,
+      "content": "Lorsque Lucas arriva à Tokyo, tout lui sembla différent. Les rues étaient animées, les panneaux étaient en japonais et les lumières de la ville étaient plus éclatantes que tout ce qu'il avait vu auparavant."
+    },
+    {
+      "id": "c_0003",
+      "title": "Les premiers amis",
+      "order": 3,
+      "content": "Dans un petit café près de Shibuya, Lucas rencontra Aiko, une étudiante universitaire qui parlait couramment anglais. Elle lui proposa de l'aider à mieux comprendre la ville."
+    }
+  ]
+}

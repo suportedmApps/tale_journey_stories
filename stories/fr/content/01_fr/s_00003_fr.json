@@ -1,0 +1,24 @@
+{
+  "id": "s_00003_fr",
+  "description": "Lucas a toujours rêvé d'explorer le monde. Après avoir acheté un billet aller simple pour le Japon, il commence un voyage inoubliable rempli de nouvelles amitiés, de découvertes culturelles et de développement personnel.",
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Promenade Matinale",
+      "order": 1,
+      "content": "Daniel se promenait dans les rues calmes de Paris tôt le matin. L'odeur du pain frais provenait de chaque boulangerie devant laquelle il passait."
+    },
+    {
+      "id": "chapter_02",
+      "title": "Le Petit Café",
+      "order": 2,
+      "content": "Il trouva un petit café près de la rivière et commanda un café et un croissant. La serveuse lui sourit et l'accueillit en français."
+    },
+    {
+      "id": "chapter_03",
+      "title": "Une Nouvelle Habitude",
+      "order": 3,
+      "content": "Chaque matin après cela, Daniel retournait au même café. C'était devenu son endroit préféré pour écrire et regarder la ville se réveiller."
+    }
+  ]
+}

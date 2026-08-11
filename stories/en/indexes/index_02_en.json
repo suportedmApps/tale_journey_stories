@@ -1,0 +1,62 @@
+[
+  {
+    "id": "s_00101_en",
+    "title": "The Tokyo Journey 2",
+    "category": "Travel",
+    "level": "Beginner",
+    "status": "completed",
+    "coverImage": "stories/s_00101_cover.webp",
+    "availableChapters": 3,
+    "publishedAt": "2026-08-05",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "s_00102_en",
+    "title": "Lost in Rome 2",
+    "category": "Travel",
+    "level": "Intermediate",
+    "status": "completed",
+    "coverImage": "stories/s_00102_cover.webp",
+    "availableChapters": 3,
+    "publishedAt": "2026-08-05",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "s_00103_en",
+    "title": "Coffee in Paris 2",
+    "category": "Travel",
+    "level": "Advanced",
+    "status": "completed",
+    "coverImage": "stories/s_00103_cover.webp",
+    "availableChapters": 3,
+    "publishedAt": "2026-08-05",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "s_00104_en",
+    "title": "The Train to Kyoto 2",
+    "category": "Travel",
+    "level": "Beginner",
+    "status": "completed",
+    "coverImage": "stories/s_00104_cover.webp",
+    "availableChapters": 3,
+    "publishedAt": "2026-08-05",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "s_00105_en",
+    "title": "Weekend in Barcelona 2",
+    "category": "Travel",
+    "level": "Intermediate",
+    "status": "completed",
+    "coverImage": "stories/s_00105_cover.webp",
+    "availableChapters": 3,
+    "publishedAt": "2026-08-05",
+    "isPremium": false,
+    "version": 1
+  }
+]
