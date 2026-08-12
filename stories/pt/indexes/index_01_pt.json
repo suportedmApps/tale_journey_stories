@@ -66,9 +66,9 @@
     "level": "Intermediate",
     "status": "ongoing",
     "coverImage": "stories/s_00006_cover.webp",
-    "availableChapters": 3,
+    "availableChapters": 12,
     "publishedAt": "2026-08-05",
     "isPremium": false,
-    "version": 1
+    "version": 2
   }
 ]
