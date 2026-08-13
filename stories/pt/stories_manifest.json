@@ -1,10 +1,10 @@
 {
-  "version": 3,
+  "version": 4,
   "indexes": [
     {
       "id": "01_pt",
       "name": "S001",
-      "version": 3,
+      "version": 4,
       "last_updated": "2026-08-12T12:30:00Z"
     }
   ]
