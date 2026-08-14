@@ -70,5 +70,17 @@
     "publishedAt": "2026-08-05",
     "isPremium": false,
     "version": 3
+  },
+  {
+    "id": "s_00007_pt",
+    "title": "A velha escrivaninha",
+    "category": "Mystery",
+    "level": "Intermediate",
+    "status": "ongoing",
+    "coverImage": "stories/s_00007_cover.webp",
+    "availableChapters": 14,
+    "publishedAt": "2026-08-05",
+    "isPremium": true,
+    "version": 1
   }
 ]

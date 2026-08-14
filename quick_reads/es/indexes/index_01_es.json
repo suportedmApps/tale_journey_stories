@@ -4,6 +4,7 @@
     "title": "Café de la mañana",
     "category": "Daily Life",
     "level": "Beginner",
+    "isPremium": false,
     "version": 1
   },
   {
@@ -11,6 +12,7 @@
     "title": "Llegó tarde al trabajo",
     "category": "Daily Life",
     "level": "Beginner",
+    "isPremium": false,
     "version": 1
   },
   {
@@ -18,6 +20,7 @@
     "title": "Un lunes lluvioso",
     "category": "Daily Life",
     "level": "Beginner",
+    "isPremium": false,
     "version": 1
   },
   {
@@ -25,6 +28,7 @@
     "title": "Desayuno con Emma",
     "category": "Daily Life",
     "level": "Beginner",
+    "isPremium": false,
     "version": 1
   },
   {
@@ -32,6 +36,7 @@
     "title": "La cartera perdida",
     "category": "Daily Life",
     "level": "Beginner",
+    "isPremium": false,
     "version": 1
   },
   {
@@ -39,6 +44,7 @@
     "title": "De compras en el supermercado",
     "category": "Daily Life",
     "level": "Beginner",
+    "isPremium": false,
     "version": 1
   },
   {
@@ -46,6 +52,7 @@
     "title": "Limpiando el apartamento",
     "category": "Daily Life",
     "level": "Beginner",
+    "isPremium": false,
     "version": 1
   },
   {
@@ -53,6 +60,7 @@
     "title": "Mi mañana ocupada",
     "category": "Daily Life",
     "level": "Beginner",
+    "isPremium": false,
     "version": 1
   },
   {
@@ -60,6 +68,7 @@
     "title": "Esperando el autobús",
     "category": "Daily Life",
     "level": "Beginner",
+    "isPremium": false,
     "version": 1
   },
   {
@@ -67,6 +76,7 @@
     "title": "Un nuevo vecino",
     "category": "Daily Life",
     "level": "Beginner",
+    "isPremium": false,
     "version": 1
   }
 ]
