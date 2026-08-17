@@ -1,0 +1,186 @@
+[
+  {
+    "id": "daily_read_10",
+    "order": 1,
+    "title": {
+      "en": "Daily Reader",
+      "pt": "Leitor do Dia",
+      "es": "Lector del Día",
+      "fr": "Lecteur du Jour"
+    },
+    "description": {
+      "en": "Read for 10 minutes today.",
+      "pt": "Leia por 10 minutos hoje.",
+      "es": "Lee durante 10 minutos hoy.",
+      "fr": "Lisez pendant 10 minutes aujourd'hui."
+    },
+    "icon": "📖",
+    "event": "study.time",
+    "target": 10,
+    "rewardXP": 30,
+    "rewardCoins": 20,
+    "enabled": true,
+    "version": 1
+  },
+  {
+    "id": "daily_read_20",
+    "order": 2,
+    "title": {
+      "en": "Focused Reader",
+      "pt": "Leitor Focado",
+      "es": "Lector Enfocado",
+      "fr": "Lecteur Concentré"
+    },
+    "description": {
+      "en": "Read for 20 minutes today.",
+      "pt": "Leia por 20 minutos hoje.",
+      "es": "Lee durante 20 minutos hoy.",
+      "fr": "Lisez pendant 20 minutes aujourd'hui."
+    },
+    "icon": "📚",
+    "event": "study.time",
+    "target": 20,
+    "rewardXP": 50,
+    "rewardCoins": 35,
+    "enabled": true,
+    "version": 1
+  },
+  {
+    "id": "daily_read_quick_read",
+    "order": 3,
+    "title": {
+      "en": "Quick Read",
+      "pt": "Leitura Rápida",
+      "es": "Lectura Rápida",
+      "fr": "Lecture Rapide"
+    },
+    "description": {
+      "en": "Complete one Quick Read today.",
+      "pt": "Conclua um Quick Read hoje.",
+      "es": "Completa un Quick Read hoy.",
+      "fr": "Terminez un Quick Read aujourd'hui."
+    },
+    "icon": "⚡",
+    "event": "quick_read.completed",
+    "target": 1,
+    "rewardXP": 40,
+    "rewardCoins": 25,
+    "enabled": true,
+    "version": 1
+  },
+  {
+    "id": "daily_learn_words_5",
+    "order": 4,
+    "title": {
+      "en": "Word Collector",
+      "pt": "Colecionador de Palavras",
+      "es": "Coleccionista de Palabras",
+      "fr": "Collectionneur de Mots"
+    },
+    "description": {
+      "en": "Learn 5 new words today.",
+      "pt": "Aprenda 5 palavras novas hoje.",
+      "es": "Aprende 5 palabras nuevas hoy.",
+      "fr": "Apprenez 5 nouveaux mots aujourd'hui."
+    },
+    "icon": "🧠",
+    "event": "vocabulary.learned",
+    "target": 5,
+    "rewardXP": 35,
+    "rewardCoins": 25,
+    "enabled": true,
+    "version": 1
+  },
+  {
+    "id": "daily_review_10",
+    "order": 5,
+    "title": {
+      "en": "Review Time",
+      "pt": "Hora da Revisão",
+      "es": "Hora de Repasar",
+      "fr": "Temps de Révision"
+    },
+    "description": {
+      "en": "Review 10 vocabulary words.",
+      "pt": "Revise 10 palavras do vocabulário.",
+      "es": "Repasa 10 palabras de vocabulario.",
+      "fr": "Révisez 10 mots de vocabulaire."
+    },
+    "icon": "🔄",
+    "event": "review.completed",
+    "target": 10,
+    "rewardXP": 40,
+    "rewardCoins": 30,
+    "enabled": true,
+    "version": 1
+  },
+  {
+    "id": "daily_story_chapter",
+    "order": 6,
+    "title": {
+      "en": "Story Time",
+      "pt": "Hora da História",
+      "es": "Hora de la Historia",
+      "fr": "Heure de l'Histoire"
+    },
+    "description": {
+      "en": "Complete one story chapter today.",
+      "pt": "Conclua um capítulo de história hoje.",
+      "es": "Completa un capítulo de una historia hoy.",
+      "fr": "Terminez un chapitre d'une histoire aujourd'hui."
+    },
+    "icon": "📜",
+    "event": "story.chapter.completed",
+    "target": 1,
+    "rewardXP": 45,
+    "rewardCoins": 30,
+    "enabled": true,
+    "version": 1
+  },
+  {
+    "id": "daily_xp_100",
+    "order": 7,
+    "title": {
+      "en": "XP Hunter",
+      "pt": "Caçador de XP",
+      "es": "Cazador de XP",
+      "fr": "Chasseur d'XP"
+    },
+    "description": {
+      "en": "Earn 100 XP today.",
+      "pt": "Ganhe 100 XP hoje.",
+      "es": "Gana 100 XP hoy.",
+      "fr": "Gagnez 100 XP aujourd'hui."
+    },
+    "icon": "⭐",
+    "event": "xp.earned",
+    "target": 100,
+    "rewardXP": 30,
+    "rewardCoins": 25,
+    "enabled": true,
+    "version": 1
+  },
+  {
+    "id": "daily_streak",
+    "order": 8,
+    "title": {
+      "en": "Keep the Streak",
+      "pt": "Mantenha a Sequência",
+      "es": "Mantén la Racha",
+      "fr": "Maintenez la Série"
+    },
+    "description": {
+      "en": "Study today and keep your streak alive.",
+      "pt": "Estude hoje e mantenha sua sequência.",
+      "es": "Estudia hoy y mantén tu racha.",
+      "fr": "Étudiez aujourd'hui et maintenez votre série."
+    },
+    "icon": "🔥",
+    "event": "study.day_completed",
+    "target": 1,
+    "rewardXP": 35,
+    "rewardCoins": 30,
+    "enabled": true,
+    "version": 1
+  }
+]

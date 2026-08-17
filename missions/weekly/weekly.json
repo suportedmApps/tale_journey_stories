@@ -1,0 +1,140 @@
+[
+  {
+    "id": "weekly_read_60",
+    "order": 1,
+    "title": {
+      "en": "Weekly Reader",
+      "pt": "Leitor da Semana",
+      "es": "Lector de la Semana",
+      "fr": "Lecteur de la Semaine"
+    },
+    "description": {
+      "en": "Read for 60 minutes this week.",
+      "pt": "Leia por 60 minutos nesta semana.",
+      "es": "Lee durante 60 minutos esta semana.",
+      "fr": "Lisez pendant 60 minutes cette semaine."
+    },
+    "icon": "📚",
+    "event": "study.time",
+    "target": 60,
+    "rewardXP": 150,
+    "rewardCoins": 100,
+    "enabled": true,
+    "version": 1
+  },
+  {
+    "id": "weekly_read_3_quick_reads",
+    "order": 2,
+    "title": {
+      "en": "Quick Reader",
+      "pt": "Leitor Rápido",
+      "es": "Lector Rápido",
+      "fr": "Lecteur Rapide"
+    },
+    "description": {
+      "en": "Complete 3 Quick Reads this week.",
+      "pt": "Conclua 3 Quick Reads nesta semana.",
+      "es": "Completa 3 Quick Reads esta semana.",
+      "fr": "Terminez 3 Quick Reads cette semaine."
+    },
+    "icon": "⚡",
+    "event": "quick_read.completed",
+    "target": 3,
+    "rewardXP": 180,
+    "rewardCoins": 120,
+    "enabled": true,
+    "version": 1
+  },
+  {
+    "id": "weekly_learn_25_words",
+    "order": 3,
+    "title": {
+      "en": "Vocabulary Builder",
+      "pt": "Construtor de Vocabulário",
+      "es": "Constructor de Vocabulario",
+      "fr": "Constructeur de Vocabulaire"
+    },
+    "description": {
+      "en": "Learn 25 new words this week.",
+      "pt": "Aprenda 25 palavras novas nesta semana.",
+      "es": "Aprende 25 palabras nuevas esta semana.",
+      "fr": "Apprenez 25 nouveaux mots cette semaine."
+    },
+    "icon": "🧠",
+    "event": "vocabulary.learned",
+    "target": 25,
+    "rewardXP": 200,
+    "rewardCoins": 150,
+    "enabled": true,
+    "version": 1
+  },
+  {
+    "id": "weekly_review_50",
+    "order": 4,
+    "title": {
+      "en": "Review Master",
+      "pt": "Mestre da Revisão",
+      "es": "Maestro del Repaso",
+      "fr": "Maître de la Révision"
+    },
+    "description": {
+      "en": "Review 50 vocabulary words this week.",
+      "pt": "Revise 50 palavras nesta semana.",
+      "es": "Repasa 50 palabras de vocabulario esta semana.",
+      "fr": "Révisez 50 mots de vocabulaire cette semaine."
+    },
+    "icon": "🔄",
+    "event": "review.completed",
+    "target": 50,
+    "rewardXP": 220,
+    "rewardCoins": 160,
+    "enabled": true,
+    "version": 1
+  },
+  {
+    "id": "weekly_story_chapters_5",
+    "order": 5,
+    "title": {
+      "en": "Story Explorer",
+      "pt": "Explorador de Histórias",
+      "es": "Explorador de Historias",
+      "fr": "Explorateur d'Histoires"
+    },
+    "description": {
+      "en": "Complete 5 story chapters this week.",
+      "pt": "Conclua 5 capítulos de histórias nesta semana.",
+      "es": "Completa 5 capítulos de historias esta semana.",
+      "fr": "Terminez 5 chapitres d'histoires cette semaine."
+    },
+    "icon": "📖",
+    "event": "story.chapter.completed",
+    "target": 5,
+    "rewardXP": 250,
+    "rewardCoins": 180,
+    "enabled": true,
+    "version": 1
+  },
+  {
+    "id": "weekly_study_days_5",
+    "order": 6,
+    "title": {
+      "en": "Consistent Learner",
+      "pt": "Aprendiz Consistente",
+      "es": "Estudiante Constante",
+      "fr": "Apprenant Régulier"
+    },
+    "description": {
+      "en": "Study on 5 different days this week.",
+      "pt": "Estude em 5 dias diferentes nesta semana.",
+      "es": "Estudia en 5 días diferentes esta semana.",
+      "fr": "Étudiez pendant 5 jours différents cette semaine."
+    },
+    "icon": "🔥",
+    "event": "study.day_completed",
+    "target": 5,
+    "rewardXP": 300,
+    "rewardCoins": 220,
+    "enabled": true,
+    "version": 1
+  }
+]
