@@ -1,103 +1,25 @@
-{
-  "version": 1,
-  "eventId": "halloween_2026",
-  "missions": [
-    {
-      "id": "halloween_read_30",
-      "order": 1,
-      "title": {
-        "en": "Spooky Reader",
-        "pt": "Leitor Assombrado",
-        "es": "Lector de Terror",
-        "fr": "Lecteur Hanté"
-      },
-      "description": {
-        "en": "Read for 30 minutes during the Halloween event.",
-        "pt": "Leia por 30 minutos durante o evento de Halloween.",
-        "es": "Lee durante 30 minutos durante el evento de Halloween.",
-        "fr": "Lisez pendant 30 minutes pendant l'événement d'Halloween."
-      },
-      "icon": "🎃",
-      "event": "study.time",
-      "target": 30,
-      "rewardXP": 150,
-      "rewardCoins": 100,
-      "difficulty": "medium",
-      "enabled": true,
-      "version": 1
+[
+  {
+    "id": "halloween_read_30",
+    "order": 1,
+    "title": {
+      "en": "Spooky Reader",
+      "pt": "Leitor Assombrado",
+      "es": "Lector de Terror",
+      "fr": "Lecteur Hanté"
     },
-    {
-      "id": "halloween_read_3",
-      "order": 2,
-      "title": {
-        "en": "Night Reader",
-        "pt": "Leitor Noturno",
-        "es": "Lector Nocturno",
-        "fr": "Lecteur Nocturne"
-      },
-      "description": {
-        "en": "Complete 3 reading sessions during the event.",
-        "pt": "Conclua 3 sessões de leitura durante o evento.",
-        "es": "Completa 3 sesiones de lectura durante el evento.",
-        "fr": "Terminez 3 sessions de lecture pendant l'événement."
-      },
-      "icon": "🌙",
-      "event": "study.session.completed",
-      "target": 3,
-      "rewardXP": 200,
-      "rewardCoins": 150,
-      "difficulty": "medium",
-      "enabled": true,
-      "version": 1
+    "description": {
+      "en": "Read for 30 minutes during the Halloween event.",
+      "pt": "Leia por 30 minutos durante o evento de Halloween.",
+      "es": "Lee durante 30 minutos durante el evento de Halloween.",
+      "fr": "Lisez pendant 30 minutes pendant l'événement d'Halloween."
     },
-    {
-      "id": "halloween_words_20",
-      "order": 3,
-      "title": {
-        "en": "Monster Vocabulary",
-        "pt": "Vocabulário Monstruoso",
-        "es": "Vocabulario Monstruoso",
-        "fr": "Vocabulaire Monstrueux"
-      },
-      "description": {
-        "en": "Learn 20 new words during the event.",
-        "pt": "Aprenda 20 palavras novas durante o evento.",
-        "es": "Aprende 20 palabras nuevas durante el evento.",
-        "fr": "Apprenez 20 nouveaux mots pendant l'événement."
-      },
-      "icon": "👻",
-      "event": "vocabulary.learned",
-      "target": 20,
-      "rewardXP": 250,
-      "rewardCoins": 180,
-      "difficulty": "hard",
-      "enabled": true,
-      "version": 1
-    },
-    {
-      "id": "halloween_secret",
-      "order": 4,
-      "title": {
-        "en": "???",
-        "pt": "???",
-        "es": "???",
-        "fr": "???"
-      },
-      "description": {
-        "en": "Discover the secret Halloween challenge.",
-        "pt": "Descubra o desafio secreto de Halloween.",
-        "es": "Descubre el desafío secreto de Halloween.",
-        "fr": "Découvrez le défi secret d'Halloween."
-      },
-      "icon": "🔮",
-      "event": "seasonal.secret_completed",
-      "target": 1,
-      "rewardXP": 500,
-      "rewardCoins": 500,
-      "difficulty": "special",
-      "hidden": true,
-      "enabled": true,
-      "version": 1
-    }
-  ]
-}
+    "icon": "🎃",
+    "event": "study.time",
+    "target": 30,
+    "rewardXP": 150,
+    "rewardCoins": 100,
+    "enabled": true,
+    "version": 1
+  }
+]

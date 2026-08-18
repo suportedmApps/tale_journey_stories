@@ -1,0 +1,23 @@
+[
+  {
+    "id": "halloween_2026",
+    "title": {
+      "en": "Halloween Reading Night",
+      "pt": "Noite de Leitura de Halloween",
+      "es": "Noche de Lectura de Halloween",
+      "fr": "Nuit de Lecture d'Halloween"
+    },
+    "description": {
+      "en": "Complete special Halloween missions and earn exclusive rewards.",
+      "pt": "Conclua missões especiais de Halloween e ganhe recompensas exclusivas.",
+      "es": "Completa misiones especiales de Halloween y gana recompensas exclusivas.",
+      "fr": "Terminez des missions spéciales d'Halloween et gagnez des récompenses exclusives."
+    },
+    "icon": "🎃",
+    "startDate": "2026-08-15T00:00:00",
+    "endDate": "2026-11-01T23:59:59",
+    "missionFile": "halloween_2026.json",
+    "enabled": true,
+    "version": 1
+  }
+]
