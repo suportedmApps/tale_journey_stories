@@ -46,46 +46,46 @@
     "version": 1
   },
   {
-    "id": "weekly_learn_25_words",
+    "id": "weekly_flashcard_sessions",
     "order": 3,
     "title": {
-      "en": "Vocabulary Builder",
-      "pt": "Construtor de Vocabulário",
-      "es": "Constructor de Vocabulario",
-      "fr": "Constructeur de Vocabulaire"
+      "en": "Flashcard Practice",
+      "pt": "Prática com Flashcards",
+      "es": "Práctica con Flashcards",
+      "fr": "Pratique des Flashcards"
     },
     "description": {
-      "en": "Learn 25 new words this week.",
-      "pt": "Aprenda 25 palavras novas nesta semana.",
-      "es": "Aprende 25 palabras nuevas esta semana.",
-      "fr": "Apprenez 25 nouveaux mots cette semaine."
+      "en": "Complete 5 flashcard sessions this week.",
+      "pt": "Complete 5 sessões de flashcards nesta semana.",
+      "es": "Completa 5 sesiones de flashcards esta semana.",
+      "fr": "Terminez 5 sessions de flashcards cette semaine."
     },
     "icon": "🧠",
-    "event": "vocabulary.learned",
-    "target": 25,
+    "event": "review.completed",
+    "target": 5,
     "rewardXP": 200,
     "rewardCoins": 150,
     "enabled": true,
     "version": 1
   },
   {
-    "id": "weekly_review_50",
+    "id": "weekly_flashcard_master",
     "order": 4,
     "title": {
-      "en": "Review Master",
-      "pt": "Mestre da Revisão",
-      "es": "Maestro del Repaso",
-      "fr": "Maître de la Révision"
+      "en": "Flashcard Master",
+      "pt": "Mestre dos Flashcards",
+      "es": "Maestro de los Flashcards",
+      "fr": "Maître des Flashcards"
     },
     "description": {
-      "en": "Review 50 vocabulary words this week.",
-      "pt": "Revise 50 palavras nesta semana.",
-      "es": "Repasa 50 palabras de vocabulario esta semana.",
-      "fr": "Révisez 50 mots de vocabulaire cette semaine."
+      "en": "Complete 10 flashcard sessions this week.",
+      "pt": "Complete 10 sessões de flashcards nesta semana.",
+      "es": "Completa 10 sesiones de flashcards esta semana.",
+      "fr": "Terminez 10 sessions de flashcards cette semaine."
     },
     "icon": "🔄",
     "event": "review.completed",
-    "target": 50,
+    "target": 10,
     "rewardXP": 220,
     "rewardCoins": 160,
     "enabled": true,
