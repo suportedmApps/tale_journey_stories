@@ -92,25 +92,25 @@
     "version": 1
   },
   {
-    "id": "daily_review_10",
+    "id": "daily_save_words_5",
     "order": 5,
     "title": {
-      "en": "Review Time",
-      "pt": "Hora da Revisão",
-      "es": "Hora de Repasar",
-      "fr": "Temps de Révision"
+      "en": "Word Collector",
+      "pt": "Colecionador de Palavras",
+      "es": "Coleccionista de Palabras",
+      "fr": "Collectionneur de Mots"
     },
     "description": {
-      "en": "Review 10 vocabulary words.",
-      "pt": "Revise 10 palavras do vocabulário.",
-      "es": "Repasa 10 palabras de vocabulario.",
-      "fr": "Révisez 10 mots de vocabulaire."
+      "en": "Save 5 new words to your vocabulary today.",
+      "pt": "Salve 5 palavras novas no seu vocabulário hoje.",
+      "es": "Guarda 5 palabras nuevas en tu vocabulario hoy.",
+      "fr": "Enregistrez 5 nouveaux mots dans votre vocabulaire aujourd'hui."
     },
-    "icon": "🔄",
-    "event": "review.completed",
-    "target": 10,
-    "rewardXP": 40,
-    "rewardCoins": 30,
+    "icon": "📚",
+    "event": "word.saved",
+    "target": 5,
+    "rewardXP": 35,
+    "rewardCoins": 25,
     "enabled": true,
     "version": 1
   },
