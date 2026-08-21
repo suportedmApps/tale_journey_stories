@@ -69,31 +69,8 @@
     "version": 1
   },
   {
-    "id": "daily_learn_words_5",
-    "order": 4,
-    "title": {
-      "en": "Word Collector",
-      "pt": "Colecionador de Palavras",
-      "es": "Coleccionista de Palabras",
-      "fr": "Collectionneur de Mots"
-    },
-    "description": {
-      "en": "Learn 5 new words today.",
-      "pt": "Aprenda 5 palavras novas hoje.",
-      "es": "Aprende 5 palabras nuevas hoy.",
-      "fr": "Apprenez 5 nouveaux mots aujourd'hui."
-    },
-    "icon": "🧠",
-    "event": "vocabulary.learned",
-    "target": 5,
-    "rewardXP": 35,
-    "rewardCoins": 25,
-    "enabled": true,
-    "version": 1
-  },
-  {
     "id": "daily_save_words_5",
-    "order": 5,
+    "order": 4,
     "title": {
       "en": "Word Collector",
       "pt": "Colecionador de Palavras",
@@ -111,6 +88,29 @@
     "target": 5,
     "rewardXP": 35,
     "rewardCoins": 25,
+    "enabled": true,
+    "version": 1
+  },
+  {
+    "id": "daily_flashcard",
+    "order": 5,
+    "title": {
+      "en": "Daily Flashcard",
+      "pt": "Flashcard Diário",
+      "es": "Flashcard Diario",
+      "fr": "Flashcard Quotidien"
+    },
+    "description": {
+      "en": "Complete your daily flashcard review.",
+      "pt": "Complete seu flashcard diário.",
+      "es": "Completa tu flashcard diario.",
+      "fr": "Terminez votre flashcard quotidien."
+    },
+    "icon": "🔄",
+    "event": "review.completed",
+    "target": 1,
+    "rewardXP": 40,
+    "rewardCoins": 30,
     "enabled": true,
     "version": 1
   },
