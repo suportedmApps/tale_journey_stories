@@ -11,7 +11,6 @@
         "en": "Complete your first weekly mission.",
         "pt": "Complete sua primeira missão semanal."
       },
-      "icon": "🏆",
       "event": "weekly_mission.completed",
       "target": 1,
       "rewardXP": 50,
@@ -31,7 +30,6 @@
         "en": "Complete 5 weekly missions.",
         "pt": "Complete 5 missões semanais."
       },
-      "icon": "🏆",
       "event": "weekly_mission.completed",
       "target": 5,
       "rewardXP": 150,
@@ -51,7 +49,6 @@
         "en": "Complete 10 weekly missions.",
         "pt": "Complete 10 missões semanais."
       },
-      "icon": "🏆",
       "event": "weekly_mission.completed",
       "target": 10,
       "rewardXP": 300,
@@ -71,7 +68,6 @@
         "en": "Complete 25 weekly missions.",
         "pt": "Complete 25 missões semanais."
       },
-      "icon": "🏆",
       "event": "weekly_mission.completed",
       "target": 25,
       "rewardXP": 600,
@@ -91,7 +87,6 @@
         "en": "Complete 50 weekly missions.",
         "pt": "Complete 50 missões semanais."
       },
-      "icon": "🏆",
       "event": "weekly_mission.completed",
       "target": 50,
       "rewardXP": 1200,
@@ -111,7 +106,6 @@
         "en": "Complete 100 weekly missions.",
         "pt": "Complete 100 missões semanais."
       },
-      "icon": "🏆",
       "event": "weekly_mission.completed",
       "target": 100,
       "rewardXP": 2500,

@@ -11,7 +11,6 @@
         "en": "Study for a total of 10 minutes.",
         "pt": "Estude por um total de 10 minutos."
       },
-      "icon": "⏱️",
       "event": "study.time",
       "target": 10,
       "rewardXP": 10,
@@ -31,7 +30,6 @@
         "en": "Study for a total of 30 minutes.",
         "pt": "Estude por um total de 30 minutos."
       },
-      "icon": "⏱️",
       "event": "study.time",
       "target": 30,
       "rewardXP": 20,
@@ -51,7 +49,6 @@
         "en": "Study for a total of 1 hour.",
         "pt": "Estude por um total de 1 hora."
       },
-      "icon": "⏱️",
       "event": "study.time",
       "target": 60,
       "rewardXP": 50,
@@ -71,7 +68,6 @@
         "en": "Study for a total of 5 hours.",
         "pt": "Estude por um total de 5 horas."
       },
-      "icon": "⏱️",
       "event": "study.time",
       "target": 300,
       "rewardXP": 150,
@@ -91,7 +87,6 @@
         "en": "Study for a total of 10 hours.",
         "pt": "Estude por um total de 10 horas."
       },
-      "icon": "⏱️",
       "event": "study.time",
       "target": 600,
       "rewardXP": 300,
@@ -111,7 +106,6 @@
         "en": "Study for a total of 25 hours.",
         "pt": "Estude por um total de 25 horas."
       },
-      "icon": "⏱️",
       "event": "study.time",
       "target": 1500,
       "rewardXP": 600,
@@ -131,7 +125,6 @@
         "en": "Study for a total of 50 hours.",
         "pt": "Estude por um total de 50 horas."
       },
-      "icon": "⏱️",
       "event": "study.time",
       "target": 3000,
       "rewardXP": 1000,
@@ -151,7 +144,6 @@
         "en": "Study for a total of 100 hours.",
         "pt": "Estude por um total de 100 horas."
       },
-      "icon": "⏱️",
       "event": "study.time",
       "target": 6000,
       "rewardXP": 1500,
@@ -171,7 +163,6 @@
         "en": "Study for a total of 250 hours.",
         "pt": "Estude por um total de 250 horas."
       },
-      "icon": "⏱️",
       "event": "study.time",
       "target": 15000,
       "rewardXP": 2500,
@@ -191,7 +182,6 @@
         "en": "Study for a total of 500 hours.",
         "pt": "Estude por um total de 500 horas."
       },
-      "icon": "⏱️",
       "event": "study.time",
       "target": 30000,
       "rewardXP": 4000,
@@ -211,7 +201,6 @@
         "en": "Study for a total of 1,000 hours.",
         "pt": "Estude por um total de 1.000 horas."
       },
-      "icon": "⏱️",
       "event": "study.time",
       "target": 60000,
       "rewardXP": 6000,

@@ -11,7 +11,6 @@
         "en": "Save your first word.",
         "pt": "Salve sua primeira palavra."
       },
-      "icon": "📖",
       "event": "word.saved",
       "target": 1,
       "rewardXP": 10,
@@ -31,7 +30,6 @@
         "en": "Save 2 words.",
         "pt": "Salve 2 palavras."
       },
-      "icon": "📖",
       "event": "word.saved",
       "target": 2,
       "rewardXP": 15,
@@ -51,7 +49,6 @@
         "en": "Save 5 words.",
         "pt": "Salve 5 palavras."
       },
-      "icon": "📖",
       "event": "word.saved",
       "target": 5,
       "rewardXP": 25,
@@ -71,7 +68,6 @@
         "en": "Save 10 words.",
         "pt": "Salve 10 palavras."
       },
-      "icon": "📖",
       "event": "word.saved",
       "target": 10,
       "rewardXP": 50,
@@ -91,7 +87,6 @@
         "en": "Save 25 words.",
         "pt": "Salve 25 palavras."
       },
-      "icon": "📖",
       "event": "word.saved",
       "target": 25,
       "rewardXP": 100,
@@ -111,7 +106,6 @@
         "en": "Save 50 words.",
         "pt": "Salve 50 palavras."
       },
-      "icon": "📖",
       "event": "word.saved",
       "target": 50,
       "rewardXP": 200,
@@ -131,7 +125,6 @@
         "en": "Save 100 words.",
         "pt": "Salve 100 palavras."
       },
-      "icon": "📖",
       "event": "word.saved",
       "target": 100,
       "rewardXP": 400,
@@ -151,7 +144,6 @@
         "en": "Save 250 words.",
         "pt": "Salve 250 palavras."
       },
-      "icon": "📖",
       "event": "word.saved",
       "target": 250,
       "rewardXP": 800,
@@ -171,7 +163,6 @@
         "en": "Save 500 words.",
         "pt": "Salve 500 palavras."
       },
-      "icon": "📖",
       "event": "word.saved",
       "target": 500,
       "rewardXP": 1500,
@@ -191,7 +182,6 @@
         "en": "Save 1,000 words.",
         "pt": "Salve 1.000 palavras."
       },
-      "icon": "📖",
       "event": "word.saved",
       "target": 1000,
       "rewardXP": 2500,
@@ -211,7 +201,6 @@
         "en": "Save 2,500 words.",
         "pt": "Salve 2.500 palavras."
       },
-      "icon": "📖",
       "event": "word.saved",
       "target": 2500,
       "rewardXP": 4000,
@@ -231,7 +220,6 @@
         "en": "Save 5,000 words.",
         "pt": "Salve 5.000 palavras."
       },
-      "icon": "📖",
       "event": "word.saved",
       "target": 5000,
       "rewardXP": 6000,
