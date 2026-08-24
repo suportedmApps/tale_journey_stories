@@ -5,11 +5,15 @@
       "order": 1,
       "title": {
         "en": "First Experience",
-        "pt": "Primeira Experiência"
+        "pt": "Primeira Experiência",
+        "es": "Primera Experiencia",
+        "fr": "Première Expérience"
       },
       "description": {
         "en": "Earn 100 XP.",
-        "pt": "Ganhe 100 XP."
+        "pt": "Ganhe 100 XP.",
+        "es": "Gana 100 XP.",
+        "fr": "Gagnez 100 XP."
       },
       "event": "xp.earned",
       "target": 100,
@@ -24,11 +28,15 @@
       "order": 2,
       "title": {
         "en": "Rising Learner",
-        "pt": "Aprendiz em Ascensão"
+        "pt": "Aprendiz em Ascensão",
+        "es": "Aprendiz en Ascenso",
+        "fr": "Apprenant en Progression"
       },
       "description": {
         "en": "Earn 500 XP.",
-        "pt": "Ganhe 500 XP."
+        "pt": "Ganhe 500 XP.",
+        "es": "Gana 500 XP.",
+        "fr": "Gagnez 500 XP."
       },
       "event": "xp.earned",
       "target": 500,
@@ -43,11 +51,15 @@
       "order": 3,
       "title": {
         "en": "Knowledge Apprentice",
-        "pt": "Aprendiz do Conhecimento"
+        "pt": "Aprendiz do Conhecimento",
+        "es": "Aprendiz del Conocimiento",
+        "fr": "Apprenti du Savoir"
       },
       "description": {
         "en": "Earn 1,000 XP.",
-        "pt": "Ganhe 1.000 XP."
+        "pt": "Ganhe 1.000 XP.",
+        "es": "Gana 1.000 XP.",
+        "fr": "Gagnez 1 000 XP."
       },
       "event": "xp.earned",
       "target": 1000,
@@ -62,11 +74,15 @@
       "order": 4,
       "title": {
         "en": "Experienced Learner",
-        "pt": "Aprendiz Experiente"
+        "pt": "Aprendiz Experiente",
+        "es": "Aprendiz Experimentado",
+        "fr": "Apprenant Expérimenté"
       },
       "description": {
         "en": "Earn 2,500 XP.",
-        "pt": "Ganhe 2.500 XP."
+        "pt": "Ganhe 2.500 XP.",
+        "es": "Gana 2.500 XP.",
+        "fr": "Gagnez 2 500 XP."
       },
       "event": "xp.earned",
       "target": 2500,
@@ -81,11 +97,15 @@
       "order": 5,
       "title": {
         "en": "Knowledge Explorer",
-        "pt": "Explorador do Conhecimento"
+        "pt": "Explorador do Conhecimento",
+        "es": "Explorador del Conocimiento",
+        "fr": "Explorateur du Savoir"
       },
       "description": {
         "en": "Earn 5,000 XP.",
-        "pt": "Ganhe 5.000 XP."
+        "pt": "Ganhe 5.000 XP.",
+        "es": "Gana 5.000 XP.",
+        "fr": "Gagnez 5 000 XP."
       },
       "event": "xp.earned",
       "target": 5000,
@@ -100,11 +120,15 @@
       "order": 6,
       "title": {
         "en": "Knowledge Master",
-        "pt": "Mestre do Conhecimento"
+        "pt": "Mestre do Conhecimento",
+        "es": "Maestro del Conocimiento",
+        "fr": "Maître du Savoir"
       },
       "description": {
         "en": "Earn 10,000 XP.",
-        "pt": "Ganhe 10.000 XP."
+        "pt": "Ganhe 10.000 XP.",
+        "es": "Gana 10.000 XP.",
+        "fr": "Gagnez 10 000 XP."
       },
       "event": "xp.earned",
       "target": 10000,
@@ -119,11 +143,15 @@
       "order": 7,
       "title": {
         "en": "Elite Scholar",
-        "pt": "Estudioso de Elite"
+        "pt": "Estudioso de Elite",
+        "es": "Erudito de Élite",
+        "fr": "Érudit d'Élite"
       },
       "description": {
         "en": "Earn 25,000 XP.",
-        "pt": "Ganhe 25.000 XP."
+        "pt": "Ganhe 25.000 XP.",
+        "es": "Gana 25.000 XP.",
+        "fr": "Gagnez 25 000 XP."
       },
       "event": "xp.earned",
       "target": 25000,
@@ -138,11 +166,15 @@
       "order": 8,
       "title": {
         "en": "Grand Master",
-        "pt": "Grão-Mestre"
+        "pt": "Grão-Mestre",
+        "es": "Gran Maestro",
+        "fr": "Grand Maître"
       },
       "description": {
         "en": "Earn 50,000 XP.",
-        "pt": "Ganhe 50.000 XP."
+        "pt": "Ganhe 50.000 XP.",
+        "es": "Gana 50.000 XP.",
+        "fr": "Gagnez 50 000 XP."
       },
       "event": "xp.earned",
       "target": 50000,
@@ -157,11 +189,15 @@
       "order": 9,
       "title": {
         "en": "Living Legend",
-        "pt": "Lenda Viva"
+        "pt": "Lenda Viva",
+        "es": "Leyenda Viviente",
+        "fr": "Légende Vivante"
       },
       "description": {
         "en": "Earn 100,000 XP.",
-        "pt": "Ganhe 100.000 XP."
+        "pt": "Ganhe 100.000 XP.",
+        "es": "Gana 100.000 XP.",
+        "fr": "Gagnez 100 000 XP."
       },
       "event": "xp.earned",
       "target": 100000,

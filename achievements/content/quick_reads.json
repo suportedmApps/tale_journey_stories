@@ -5,11 +5,15 @@
       "order": 1,
       "title": {
         "en": "First Quick Read",
-        "pt": "Primeira Leitura"
+        "pt": "Primeira Leitura Rápida",
+        "es": "Primera Lectura Rápida",
+        "fr": "Première Lecture Rapide"
       },
       "description": {
         "en": "Complete your first quick read.",
-        "pt": "Conclua sua primeira leitura rápida."
+        "pt": "Conclua sua primeira leitura rápida.",
+        "es": "Completa tu primera lectura rápida.",
+        "fr": "Terminez votre première lecture rapide."
       },
       "event": "quick_read.completed",
       "target": 1,
@@ -24,11 +28,15 @@
       "order": 2,
       "title": {
         "en": "Casual Reader",
-        "pt": "Leitor Casual"
+        "pt": "Leitor Casual",
+        "es": "Lector Casual",
+        "fr": "Lecteur Occasionnel"
       },
       "description": {
         "en": "Complete 5 quick reads.",
-        "pt": "Conclua 5 leituras rápidas."
+        "pt": "Conclua 5 leituras rápidas.",
+        "es": "Completa 5 lecturas rápidas.",
+        "fr": "Terminez 5 lectures rapides."
       },
       "event": "quick_read.completed",
       "target": 5,
@@ -43,11 +51,15 @@
       "order": 3,
       "title": {
         "en": "Frequent Reader",
-        "pt": "Leitor Frequente"
+        "pt": "Leitor Frequente",
+        "es": "Lector Frecuente",
+        "fr": "Lecteur Régulier"
       },
       "description": {
         "en": "Complete 10 quick reads.",
-        "pt": "Conclua 10 leituras rápidas."
+        "pt": "Conclua 10 leituras rápidas.",
+        "es": "Completa 10 lecturas rápidas.",
+        "fr": "Terminez 10 lectures rapides."
       },
       "event": "quick_read.completed",
       "target": 10,
@@ -62,11 +74,15 @@
       "order": 4,
       "title": {
         "en": "Avid Reader",
-        "pt": "Leitor Ávido"
+        "pt": "Leitor Ávido",
+        "es": "Lector Ávido",
+        "fr": "Lecteur Passionné"
       },
       "description": {
         "en": "Complete 25 quick reads.",
-        "pt": "Conclua 25 leituras rápidas."
+        "pt": "Conclua 25 leituras rápidas.",
+        "es": "Completa 25 lecturas rápidas.",
+        "fr": "Terminez 25 lectures rapides."
       },
       "event": "quick_read.completed",
       "target": 25,
@@ -81,11 +97,15 @@
       "order": 5,
       "title": {
         "en": "Experienced Reader",
-        "pt": "Leitor Experiente"
+        "pt": "Leitor Experiente",
+        "es": "Lector Experimentado",
+        "fr": "Lecteur Expérimenté"
       },
       "description": {
         "en": "Complete 50 quick reads.",
-        "pt": "Conclua 50 leituras rápidas."
+        "pt": "Conclua 50 leituras rápidas.",
+        "es": "Completa 50 lecturas rápidas.",
+        "fr": "Terminez 50 lectures rapides."
       },
       "event": "quick_read.completed",
       "target": 50,
@@ -100,11 +120,15 @@
       "order": 6,
       "title": {
         "en": "Quick Read Expert",
-        "pt": "Especialista em Leituras"
+        "pt": "Especialista em Leituras Rápidas",
+        "es": "Experto en Lecturas Rápidas",
+        "fr": "Expert en Lectures Rapides"
       },
       "description": {
         "en": "Complete 100 quick reads.",
-        "pt": "Conclua 100 leituras rápidas."
+        "pt": "Conclua 100 leituras rápidas.",
+        "es": "Completa 100 lecturas rápidas.",
+        "fr": "Terminez 100 lectures rapides."
       },
       "event": "quick_read.completed",
       "target": 100,
@@ -119,11 +143,15 @@
       "order": 7,
       "title": {
         "en": "Master of Quick Reads",
-        "pt": "Mestre das Leituras"
+        "pt": "Mestre das Leituras Rápidas",
+        "es": "Maestro de las Lecturas Rápidas",
+        "fr": "Maître des Lectures Rapides"
       },
       "description": {
         "en": "Complete 250 quick reads.",
-        "pt": "Conclua 250 leituras rápidas."
+        "pt": "Conclua 250 leituras rápidas.",
+        "es": "Completa 250 lecturas rápidas.",
+        "fr": "Terminez 250 lectures rapides."
       },
       "event": "quick_read.completed",
       "target": 250,

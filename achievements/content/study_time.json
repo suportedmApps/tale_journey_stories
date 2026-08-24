@@ -5,11 +5,15 @@
       "order": 1,
       "title": {
         "en": "Just Getting Started",
-        "pt": "Só o Começo"
+        "pt": "Só o Começo",
+        "es": "Solo el Comienzo",
+        "fr": "Ce N'est Que le Début"
       },
       "description": {
-        "en": "Study for a total of 10 minutes.",
-        "pt": "Estude por um total de 10 minutos."
+        "en": "Read for a total of 10 minutes.",
+        "pt": "Leia por um total de 10 minutos.",
+        "es": "Lee durante un total de 10 minutos.",
+        "fr": "Lisez pendant un total de 10 minutes."
       },
       "event": "study.time",
       "target": 10,
@@ -24,11 +28,15 @@
       "order": 2,
       "title": {
         "en": "Warming Up",
-        "pt": "Aquecendo"
+        "pt": "Aquecendo",
+        "es": "Calentando",
+        "fr": "Échauffement"
       },
       "description": {
-        "en": "Study for a total of 30 minutes.",
-        "pt": "Estude por um total de 30 minutos."
+        "en": "Read for a total of 30 minutes.",
+        "pt": "Leia por um total de 30 minutos.",
+        "es": "Lee durante un total de 30 minutos.",
+        "fr": "Lisez pendant un total de 30 minutes."
       },
       "event": "study.time",
       "target": 30,
@@ -43,11 +51,15 @@
       "order": 3,
       "title": {
         "en": "One Hour Strong",
-        "pt": "Uma Hora de Estudos"
+        "pt": "Uma Hora de Leitura",
+        "es": "Una Hora de Lectura",
+        "fr": "Une Heure de Lecture"
       },
       "description": {
-        "en": "Study for a total of 1 hour.",
-        "pt": "Estude por um total de 1 hora."
+        "en": "Read for a total of 1 hour.",
+        "pt": "Leia por um total de 1 hora.",
+        "es": "Lee durante un total de 1 hora.",
+        "fr": "Lisez pendant un total de 1 heure."
       },
       "event": "study.time",
       "target": 60,
@@ -61,12 +73,16 @@
       "id": "study_time_5_hours",
       "order": 4,
       "title": {
-        "en": "Focused Learner",
-        "pt": "Aprendiz Focado"
+        "en": "Focused Reader",
+        "pt": "Leitor Focado",
+        "es": "Lector Enfocado",
+        "fr": "Lecteur Concentré"
       },
       "description": {
-        "en": "Study for a total of 5 hours.",
-        "pt": "Estude por um total de 5 horas."
+        "en": "Read for a total of 5 hours.",
+        "pt": "Leia por um total de 5 horas.",
+        "es": "Lee durante un total de 5 horas.",
+        "fr": "Lisez pendant un total de 5 heures."
       },
       "event": "study.time",
       "target": 300,
@@ -80,12 +96,16 @@
       "id": "study_time_10_hours",
       "order": 5,
       "title": {
-        "en": "Dedicated Student",
-        "pt": "Estudante Dedicado"
+        "en": "Dedicated Reader",
+        "pt": "Leitor Dedicado",
+        "es": "Lector Dedicado",
+        "fr": "Lecteur Dévoué"
       },
       "description": {
-        "en": "Study for a total of 10 hours.",
-        "pt": "Estude por um total de 10 horas."
+        "en": "Read for a total of 10 hours.",
+        "pt": "Leia por um total de 10 horas.",
+        "es": "Lee durante un total de 10 horas.",
+        "fr": "Lisez pendant un total de 10 heures."
       },
       "event": "study.time",
       "target": 600,
@@ -100,11 +120,15 @@
       "order": 6,
       "title": {
         "en": "Knowledge Seeker",
-        "pt": "Buscador do Conhecimento"
+        "pt": "Buscador do Conhecimento",
+        "es": "Buscador del Conocimiento",
+        "fr": "Chercheur de Savoir"
       },
       "description": {
-        "en": "Study for a total of 25 hours.",
-        "pt": "Estude por um total de 25 horas."
+        "en": "Read for a total of 25 hours.",
+        "pt": "Leia por um total de 25 horas.",
+        "es": "Lee durante un total de 25 horas.",
+        "fr": "Lisez pendant un total de 25 heures."
       },
       "event": "study.time",
       "target": 1500,
@@ -118,12 +142,16 @@
       "id": "study_time_50_hours",
       "order": 7,
       "title": {
-        "en": "Study Enthusiast",
-        "pt": "Entusiasta dos Estudos"
+        "en": "Reading Enthusiast",
+        "pt": "Entusiasta da Leitura",
+        "es": "Entusiasta de la Lectura",
+        "fr": "Passionné de Lecture"
       },
       "description": {
-        "en": "Study for a total of 50 hours.",
-        "pt": "Estude por um total de 50 horas."
+        "en": "Read for a total of 50 hours.",
+        "pt": "Leia por um total de 50 horas.",
+        "es": "Lee durante un total de 50 horas.",
+        "fr": "Lisez pendant un total de 50 heures."
       },
       "event": "study.time",
       "target": 3000,
@@ -137,12 +165,16 @@
       "id": "study_time_100_hours",
       "order": 8,
       "title": {
-        "en": "Master Learner",
-        "pt": "Mestre dos Estudos"
+        "en": "Master Reader",
+        "pt": "Mestre da Leitura",
+        "es": "Maestro de la Lectura",
+        "fr": "Maître de la Lecture"
       },
       "description": {
-        "en": "Study for a total of 100 hours.",
-        "pt": "Estude por um total de 100 horas."
+        "en": "Read for a total of 100 hours.",
+        "pt": "Leia por um total de 100 horas.",
+        "es": "Lee durante un total de 100 horas.",
+        "fr": "Lisez pendant un total de 100 heures."
       },
       "event": "study.time",
       "target": 6000,
@@ -156,12 +188,16 @@
       "id": "study_time_250_hours",
       "order": 9,
       "title": {
-        "en": "Knowledge Veteran",
-        "pt": "Veterano do Conhecimento"
+        "en": "Reading Veteran",
+        "pt": "Veterano da Leitura",
+        "es": "Veterano de la Lectura",
+        "fr": "Vétéran de la Lecture"
       },
       "description": {
-        "en": "Study for a total of 250 hours.",
-        "pt": "Estude por um total de 250 horas."
+        "en": "Read for a total of 250 hours.",
+        "pt": "Leia por um total de 250 horas.",
+        "es": "Lee durante un total de 250 horas.",
+        "fr": "Lisez pendant un total de 250 heures."
       },
       "event": "study.time",
       "target": 15000,
@@ -176,11 +212,15 @@
       "order": 10,
       "title": {
         "en": "Scholar",
-        "pt": "Erudito"
+        "pt": "Erudito",
+        "es": "Erudito",
+        "fr": "Érudit"
       },
       "description": {
-        "en": "Study for a total of 500 hours.",
-        "pt": "Estude por um total de 500 horas."
+        "en": "Read for a total of 500 hours.",
+        "pt": "Leia por um total de 500 horas.",
+        "es": "Lee durante un total de 500 horas.",
+        "fr": "Lisez pendant un total de 500 heures."
       },
       "event": "study.time",
       "target": 30000,
@@ -194,12 +234,16 @@
       "id": "study_time_1000_hours",
       "order": 11,
       "title": {
-        "en": "Legendary Scholar",
-        "pt": "Lenda dos Estudos"
+        "en": "Legendary Reader",
+        "pt": "Lenda da Leitura",
+        "es": "Leyenda de la Lectura",
+        "fr": "Légende de la Lecture"
       },
       "description": {
-        "en": "Study for a total of 1,000 hours.",
-        "pt": "Estude por um total de 1.000 horas."
+        "en": "Read for a total of 1,000 hours.",
+        "pt": "Leia por um total de 1.000 horas.",
+        "es": "Lee durante un total de 1.000 horas.",
+        "fr": "Lisez pendant un total de 1 000 heures."
       },
       "event": "study.time",
       "target": 60000,

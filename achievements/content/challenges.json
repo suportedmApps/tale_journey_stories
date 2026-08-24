@@ -5,11 +5,15 @@
       "order": 1,
       "title": {
         "en": "First Challenge",
-        "pt": "Primeiro Desafio"
+        "pt": "Primeiro Desafio",
+        "es": "Primer Desafío",
+        "fr": "Premier Défi"
       },
       "description": {
         "en": "Complete your first challenge.",
-        "pt": "Complete seu primeiro desafio."
+        "pt": "Complete seu primeiro desafio.",
+        "es": "Completa tu primer desafío.",
+        "fr": "Terminez votre premier défi."
       },
       "event": "challenge.completed",
       "target": 1,
@@ -24,11 +28,15 @@
       "order": 2,
       "title": {
         "en": "Challenger",
-        "pt": "Desafiante"
+        "pt": "Desafiante",
+        "es": "Desafiante",
+        "fr": "Challenger"
       },
       "description": {
         "en": "Complete 10 challenges.",
-        "pt": "Complete 10 desafios."
+        "pt": "Complete 10 desafios.",
+        "es": "Completa 10 desafíos.",
+        "fr": "Terminez 10 défis."
       },
       "event": "challenge.completed",
       "target": 10,
@@ -43,11 +51,15 @@
       "order": 3,
       "title": {
         "en": "Battle Hardened",
-        "pt": "Veterano de Batalha"
+        "pt": "Veterano de Batalha",
+        "es": "Veterano de Batalla",
+        "fr": "Vétéran de Bataille"
       },
       "description": {
         "en": "Complete 50 challenges.",
-        "pt": "Complete 50 desafios."
+        "pt": "Complete 50 desafios.",
+        "es": "Completa 50 desafíos.",
+        "fr": "Terminez 50 défis."
       },
       "event": "challenge.completed",
       "target": 50,
@@ -62,11 +74,15 @@
       "order": 4,
       "title": {
         "en": "Champion",
-        "pt": "Campeão"
+        "pt": "Campeão",
+        "es": "Campeón",
+        "fr": "Champion"
       },
       "description": {
         "en": "Complete 100 challenges.",
-        "pt": "Complete 100 desafios."
+        "pt": "Complete 100 desafios.",
+        "es": "Completa 100 desafíos.",
+        "fr": "Terminez 100 défis."
       },
       "event": "challenge.completed",
       "target": 100,
@@ -81,11 +97,15 @@
       "order": 5,
       "title": {
         "en": "Master Challenger",
-        "pt": "Mestre dos Desafios"
+        "pt": "Mestre dos Desafios",
+        "es": "Maestro de los Desafíos",
+        "fr": "Maître des Défis"
       },
       "description": {
         "en": "Complete 250 challenges.",
-        "pt": "Complete 250 desafios."
+        "pt": "Complete 250 desafios.",
+        "es": "Completa 250 desafíos.",
+        "fr": "Terminez 250 défis."
       },
       "event": "challenge.completed",
       "target": 250,

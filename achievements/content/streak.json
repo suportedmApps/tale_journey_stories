@@ -5,11 +5,15 @@
       "order": 1,
       "title": {
         "en": "First Step",
-        "pt": "Primeiro Passo"
+        "pt": "Primeiro Passo",
+        "es": "Primer Paso",
+        "fr": "Premier Pas"
       },
       "description": {
-        "en": "Maintain a 1-day study streak.",
-        "pt": "Mantenha uma sequência de estudos de 1 dia."
+        "en": "Maintain a 1-day reading streak.",
+        "pt": "Mantenha uma sequência de leitura de 1 dia.",
+        "es": "Mantén una racha de lectura de 1 día.",
+        "fr": "Maintenez une série de lecture de 1 jour."
       },
       "event": "streak.updated",
       "target": 1,
@@ -24,11 +28,15 @@
       "order": 2,
       "title": {
         "en": "Getting Started",
-        "pt": "Pegando o Ritmo"
+        "pt": "Pegando o Ritmo",
+        "es": "Tomando el Ritmo",
+        "fr": "Prendre le Rythme"
       },
       "description": {
-        "en": "Maintain a 3-day study streak.",
-        "pt": "Mantenha uma sequência de estudos de 3 dias."
+        "en": "Maintain a 3-day reading streak.",
+        "pt": "Mantenha uma sequência de leitura de 3 dias.",
+        "es": "Mantén una racha de lectura de 3 días.",
+        "fr": "Maintenez une série de lecture de 3 jours."
       },
       "event": "streak.updated",
       "target": 3,
@@ -43,11 +51,15 @@
       "order": 3,
       "title": {
         "en": "One Week Strong",
-        "pt": "Uma Semana Forte"
+        "pt": "Uma Semana Forte",
+        "es": "Una Semana de Éxito",
+        "fr": "Une Semaine Solide"
       },
       "description": {
-        "en": "Maintain a 7-day study streak.",
-        "pt": "Mantenha uma sequência de estudos de 7 dias."
+        "en": "Maintain a 7-day reading streak.",
+        "pt": "Mantenha uma sequência de leitura de 7 dias.",
+        "es": "Mantén una racha de lectura de 7 días.",
+        "fr": "Maintenez une série de lecture de 7 jours."
       },
       "event": "streak.updated",
       "target": 7,
@@ -62,11 +74,15 @@
       "order": 4,
       "title": {
         "en": "Unstoppable",
-        "pt": "Imparável"
+        "pt": "Imparável",
+        "es": "Imparable",
+        "fr": "Inarrêtable"
       },
       "description": {
-        "en": "Maintain a 14-day study streak.",
-        "pt": "Mantenha uma sequência de estudos de 14 dias."
+        "en": "Maintain a 14-day reading streak.",
+        "pt": "Mantenha uma sequência de leitura de 14 dias.",
+        "es": "Mantén una racha de lectura de 14 días.",
+        "fr": "Maintenez une série de lecture de 14 jours."
       },
       "event": "streak.updated",
       "target": 14,
@@ -81,11 +97,15 @@
       "order": 5,
       "title": {
         "en": "Monthly Champion",
-        "pt": "Campeão do Mês"
+        "pt": "Campeão do Mês",
+        "es": "Campeón del Mes",
+        "fr": "Champion du Mois"
       },
       "description": {
-        "en": "Maintain a 30-day study streak.",
-        "pt": "Mantenha uma sequência de estudos de 30 dias."
+        "en": "Maintain a 30-day reading streak.",
+        "pt": "Mantenha uma sequência de leitura de 30 dias.",
+        "es": "Mantén una racha de lectura de 30 días.",
+        "fr": "Maintenez une série de lecture de 30 jours."
       },
       "event": "streak.updated",
       "target": 30,
@@ -99,12 +119,16 @@
       "id": "streak_50",
       "order": 6,
       "title": {
-        "en": "Dedicated Learner",
-        "pt": "Aprendiz Dedicado"
+        "en": "Dedicated Reader",
+        "pt": "Leitor Dedicado",
+        "es": "Lector Dedicado",
+        "fr": "Lecteur Dévoué"
       },
       "description": {
-        "en": "Maintain a 50-day study streak.",
-        "pt": "Mantenha uma sequência de estudos de 50 dias."
+        "en": "Maintain a 50-day reading streak.",
+        "pt": "Mantenha uma sequência de leitura de 50 dias.",
+        "es": "Mantén una racha de lectura de 50 días.",
+        "fr": "Maintenez une série de lecture de 50 jours."
       },
       "event": "streak.updated",
       "target": 50,
@@ -119,11 +143,15 @@
       "order": 7,
       "title": {
         "en": "Century Streak",
-        "pt": "Sequência Centenária"
+        "pt": "Sequência Centenária",
+        "es": "Racha Centenaria",
+        "fr": "Série Centenaire"
       },
       "description": {
-        "en": "Maintain a 100-day study streak.",
-        "pt": "Mantenha uma sequência de estudos de 100 dias."
+        "en": "Maintain a 100-day reading streak.",
+        "pt": "Mantenha uma sequência de leitura de 100 dias.",
+        "es": "Mantén una racha de lectura de 100 días.",
+        "fr": "Maintenez une série de lecture de 100 jours."
       },
       "event": "streak.updated",
       "target": 100,
@@ -138,11 +166,15 @@
       "order": 8,
       "title": {
         "en": "Half-Year Hero",
-        "pt": "Herói Semestral"
+        "pt": "Herói Semestral",
+        "es": "Héroe de Medio Año",
+        "fr": "Héros du Semestre"
       },
       "description": {
-        "en": "Maintain a 180-day study streak.",
-        "pt": "Mantenha uma sequência de estudos de 180 dias."
+        "en": "Maintain a 180-day reading streak.",
+        "pt": "Mantenha uma sequência de leitura de 180 dias.",
+        "es": "Mantén una racha de lectura de 180 días.",
+        "fr": "Maintenez une série de lecture de 180 jours."
       },
       "event": "streak.updated",
       "target": 180,
@@ -157,11 +189,15 @@
       "order": 9,
       "title": {
         "en": "One-Year Legend",
-        "pt": "Lenda de Um Ano"
+        "pt": "Lenda de Um Ano",
+        "es": "Leyenda de un Año",
+        "fr": "Légende d'un An"
       },
       "description": {
-        "en": "Maintain a 365-day study streak.",
-        "pt": "Mantenha uma sequência de estudos de 365 dias."
+        "en": "Maintain a 365-day reading streak.",
+        "pt": "Mantenha uma sequência de leitura de 365 dias.",
+        "es": "Mantén una racha de lectura de 365 días.",
+        "fr": "Maintenez une série de lecture de 365 jours."
       },
       "event": "streak.updated",
       "target": 365,
@@ -176,11 +212,15 @@
       "order": 10,
       "title": {
         "en": "Flame Keeper",
-        "pt": "Guardião da Chama"
+        "pt": "Guardião da Chama",
+        "es": "Guardián de la Llama",
+        "fr": "Gardien de la Flamme"
       },
       "description": {
-        "en": "Maintain a 500-day study streak.",
-        "pt": "Mantenha uma sequência de estudos de 500 dias."
+        "en": "Maintain a 500-day reading streak.",
+        "pt": "Mantenha uma sequência de leitura de 500 dias.",
+        "es": "Mantén una racha de lectura de 500 días.",
+        "fr": "Maintenez une série de lecture de 500 jours."
       },
       "event": "streak.updated",
       "target": 500,
@@ -195,11 +235,15 @@
       "order": 11,
       "title": {
         "en": "Immortal Flame",
-        "pt": "Chama Imortal"
+        "pt": "Chama Imortal",
+        "es": "Llama Inmortal",
+        "fr": "Flamme Immortelle"
       },
       "description": {
-        "en": "Maintain a 1,000-day study streak.",
-        "pt": "Mantenha uma sequência de estudos de 1.000 dias."
+        "en": "Maintain a 1,000-day reading streak.",
+        "pt": "Mantenha uma sequência de leitura de 1.000 dias.",
+        "es": "Mantén una racha de lectura de 1.000 días.",
+        "fr": "Maintenez une série de lecture de 1 000 jours."
       },
       "event": "streak.updated",
       "target": 1000,

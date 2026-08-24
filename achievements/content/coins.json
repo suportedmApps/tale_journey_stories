@@ -5,11 +5,15 @@
       "order": 1,
       "title": {
         "en": "First Savings",
-        "pt": "Primeiras Economias"
+        "pt": "Primeiras Economias",
+        "es": "Primeros Ahorros",
+        "fr": "Premières Économies"
       },
       "description": {
-        "en": "Accumulate 100 coins.",
-        "pt": "Acumule 100 moedas."
+        "en": "Earn 100 coins.",
+        "pt": "Ganhe 100 moedas.",
+        "es": "Gana 100 monedas.",
+        "fr": "Gagnez 100 pièces."
       },
       "event": "coins.earned",
       "target": 100,
@@ -24,11 +28,15 @@
       "order": 2,
       "title": {
         "en": "Treasure Hunter",
-        "pt": "Caçador de Tesouros"
+        "pt": "Caçador de Tesouros",
+        "es": "Cazador de Tesoros",
+        "fr": "Chasseur de Trésors"
       },
       "description": {
-        "en": "Accumulate 500 coins.",
-        "pt": "Acumule 500 moedas."
+        "en": "Earn 500 coins.",
+        "pt": "Ganhe 500 moedas.",
+        "es": "Gana 500 monedas.",
+        "fr": "Gagnez 500 pièces."
       },
       "event": "coins.earned",
       "target": 500,
@@ -43,11 +51,15 @@
       "order": 3,
       "title": {
         "en": "Wealth Builder",
-        "pt": "Construtor de Riquezas"
+        "pt": "Construtor de Riquezas",
+        "es": "Constructor de Riqueza",
+        "fr": "Bâtisseur de Richesse"
       },
       "description": {
-        "en": "Accumulate 1,000 coins.",
-        "pt": "Acumule 1.000 moedas."
+        "en": "Earn 1,000 coins.",
+        "pt": "Ganhe 1.000 moedas.",
+        "es": "Gana 1.000 monedas.",
+        "fr": "Gagnez 1 000 pièces."
       },
       "event": "coins.earned",
       "target": 1000,
@@ -62,11 +74,15 @@
       "order": 4,
       "title": {
         "en": "Golden Fortune",
-        "pt": "Fortuna Dourada"
+        "pt": "Fortuna Dourada",
+        "es": "Fortuna Dorada",
+        "fr": "Fortune Dorée"
       },
       "description": {
-        "en": "Accumulate 5,000 coins.",
-        "pt": "Acumule 5.000 moedas."
+        "en": "Earn 5,000 coins.",
+        "pt": "Ganhe 5.000 moedas.",
+        "es": "Gana 5.000 monedas.",
+        "fr": "Gagnez 5 000 pièces."
       },
       "event": "coins.earned",
       "target": 5000,
@@ -81,11 +97,15 @@
       "order": 5,
       "title": {
         "en": "Coin Master",
-        "pt": "Mestre das Moedas"
+        "pt": "Mestre das Moedas",
+        "es": "Maestro de las Monedas",
+        "fr": "Maître des Pièces"
       },
       "description": {
-        "en": "Accumulate 10,000 coins.",
-        "pt": "Acumule 10.000 moedas."
+        "en": "Earn 10,000 coins.",
+        "pt": "Ganhe 10.000 moedas.",
+        "es": "Gana 10.000 monedas.",
+        "fr": "Gagnez 10 000 pièces."
       },
       "event": "coins.earned",
       "target": 10000,
@@ -100,11 +120,15 @@
       "order": 6,
       "title": {
         "en": "Millionaire Mindset",
-        "pt": "Mentalidade Milionária"
+        "pt": "Mentalidade Milionária",
+        "es": "Mentalidad de Millonario",
+        "fr": "Mentalité de Millionnaire"
       },
       "description": {
-        "en": "Accumulate 50,000 coins.",
-        "pt": "Acumule 50.000 moedas."
+        "en": "Earn 50,000 coins.",
+        "pt": "Ganhe 50.000 moedas.",
+        "es": "Gana 50.000 monedas.",
+        "fr": "Gagnez 50 000 pièces."
       },
       "event": "coins.earned",
       "target": 50000,

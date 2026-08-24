@@ -5,11 +5,15 @@
       "order": 1,
       "title": {
         "en": "Weekly Challenger",
-        "pt": "Desafiante Semanal"
+        "pt": "Desafiante Semanal",
+        "es": "Desafiante Semanal",
+        "fr": "Challenger Hebdomadaire"
       },
       "description": {
         "en": "Complete your first weekly mission.",
-        "pt": "Complete sua primeira missão semanal."
+        "pt": "Complete sua primeira missão semanal.",
+        "es": "Completa tu primera misión semanal.",
+        "fr": "Terminez votre première mission hebdomadaire."
       },
       "event": "weekly_mission.completed",
       "target": 1,
@@ -24,11 +28,15 @@
       "order": 2,
       "title": {
         "en": "Consistent Challenger",
-        "pt": "Desafiante Consistente"
+        "pt": "Desafiante Consistente",
+        "es": "Desafiante Constante",
+        "fr": "Challenger Régulier"
       },
       "description": {
         "en": "Complete 5 weekly missions.",
-        "pt": "Complete 5 missões semanais."
+        "pt": "Complete 5 missões semanais.",
+        "es": "Completa 5 misiones semanales.",
+        "fr": "Terminez 5 missions hebdomadaires."
       },
       "event": "weekly_mission.completed",
       "target": 5,
@@ -43,11 +51,15 @@
       "order": 3,
       "title": {
         "en": "Mission Specialist",
-        "pt": "Especialista em Missões"
+        "pt": "Especialista em Missões",
+        "es": "Especialista en Misiones",
+        "fr": "Spécialiste des Missions"
       },
       "description": {
         "en": "Complete 10 weekly missions.",
-        "pt": "Complete 10 missões semanais."
+        "pt": "Complete 10 missões semanais.",
+        "es": "Completa 10 misiones semanales.",
+        "fr": "Terminez 10 missions hebdomadaires."
       },
       "event": "weekly_mission.completed",
       "target": 10,
@@ -62,11 +74,15 @@
       "order": 4,
       "title": {
         "en": "Weekly Hero",
-        "pt": "Herói Semanal"
+        "pt": "Herói Semanal",
+        "es": "Héroe Semanal",
+        "fr": "Héros Hebdomadaire"
       },
       "description": {
         "en": "Complete 25 weekly missions.",
-        "pt": "Complete 25 missões semanais."
+        "pt": "Complete 25 missões semanais.",
+        "es": "Completa 25 misiones semanales.",
+        "fr": "Terminez 25 missions hebdomadaires."
       },
       "event": "weekly_mission.completed",
       "target": 25,
@@ -81,11 +97,15 @@
       "order": 5,
       "title": {
         "en": "Mission Veteran",
-        "pt": "Veterano das Missões"
+        "pt": "Veterano das Missões",
+        "es": "Veterano de las Misiones",
+        "fr": "Vétéran des Missions"
       },
       "description": {
         "en": "Complete 50 weekly missions.",
-        "pt": "Complete 50 missões semanais."
+        "pt": "Complete 50 missões semanais.",
+        "es": "Completa 50 misiones semanales.",
+        "fr": "Terminez 50 missions hebdomadaires."
       },
       "event": "weekly_mission.completed",
       "target": 50,
@@ -100,11 +120,15 @@
       "order": 6,
       "title": {
         "en": "Weekly Legend",
-        "pt": "Lenda Semanal"
+        "pt": "Lenda Semanal",
+        "es": "Leyenda Semanal",
+        "fr": "Légende Hebdomadaire"
       },
       "description": {
         "en": "Complete 100 weekly missions.",
-        "pt": "Complete 100 missões semanais."
+        "pt": "Complete 100 missões semanais.",
+        "es": "Completa 100 misiones semanales.",
+        "fr": "Terminez 100 missions hebdomadaires."
       },
       "event": "weekly_mission.completed",
       "target": 100,

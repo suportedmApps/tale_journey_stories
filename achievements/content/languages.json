@@ -5,11 +5,15 @@
       "order": 1,
       "title": {
         "en": "A New Beginning",
-        "pt": "Um Novo Começo"
+        "pt": "Um Novo Começo",
+        "es": "Un Nuevo Comienzo",
+        "fr": "Un Nouveau Départ"
       },
       "description": {
-        "en": "Start learning your first language.",
-        "pt": "Comece a aprender seu primeiro idioma."
+        "en": "Start reading in your first language.",
+        "pt": "Comece a ler em seu primeiro idioma.",
+        "es": "Empieza a leer en tu primer idioma.",
+        "fr": "Commencez à lire dans votre première langue."
       },
       "event": "language.started",
       "target": 1,
@@ -24,11 +28,15 @@
       "order": 2,
       "title": {
         "en": "Polyglot Apprentice",
-        "pt": "Aprendiz Poliglota"
+        "pt": "Aprendiz Poliglota",
+        "es": "Aprendiz de Políglota",
+        "fr": "Apprenti Polyglotte"
       },
       "description": {
-        "en": "Start learning 2 different languages.",
-        "pt": "Comece a aprender 2 idiomas diferentes."
+        "en": "Start reading in 2 different languages.",
+        "pt": "Comece a ler em 2 idiomas diferentes.",
+        "es": "Empieza a leer en 2 idiomas diferentes.",
+        "fr": "Commencez à lire dans 2 langues différentes."
       },
       "event": "language.started",
       "target": 2,
@@ -43,11 +51,15 @@
       "order": 3,
       "title": {
         "en": "World Explorer",
-        "pt": "Explorador do Mundo"
+        "pt": "Explorador do Mundo",
+        "es": "Explorador del Mundo",
+        "fr": "Explorateur du Monde"
       },
       "description": {
-        "en": "Start learning 3 different languages.",
-        "pt": "Comece a aprender 3 idiomas diferentes."
+        "en": "Start reading in 3 different languages.",
+        "pt": "Comece a ler em 3 idiomas diferentes.",
+        "es": "Empieza a leer en 3 idiomas diferentes.",
+        "fr": "Commencez à lire dans 3 langues différentes."
       },
       "event": "language.started",
       "target": 3,
@@ -62,11 +74,15 @@
       "order": 4,
       "title": {
         "en": "Master Linguist",
-        "pt": "Mestre dos Idiomas"
+        "pt": "Mestre dos Idiomas",
+        "es": "Maestro de los Idiomas",
+        "fr": "Maître des Langues"
       },
       "description": {
-        "en": "Start learning 5 different languages.",
-        "pt": "Comece a aprender 5 idiomas diferentes."
+        "en": "Start reading in 5 different languages.",
+        "pt": "Comece a ler em 5 idiomas diferentes.",
+        "es": "Empieza a leer en 5 idiomas diferentes.",
+        "fr": "Commencez à lire dans 5 langues différentes."
       },
       "event": "language.started",
       "target": 5,

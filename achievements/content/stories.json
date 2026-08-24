@@ -5,11 +5,15 @@
       "order": 1,
       "title": {
         "en": "First Story",
-        "pt": "Primeira História"
+        "pt": "Primeira História",
+        "es": "Primera Historia",
+        "fr": "Première Histoire"
       },
       "description": {
         "en": "Complete your first story.",
-        "pt": "Conclua sua primeira história."
+        "pt": "Conclua sua primeira história.",
+        "es": "Completa tu primera historia.",
+        "fr": "Terminez votre première histoire."
       },
       "event": "story.completed",
       "target": 1,
@@ -24,11 +28,15 @@
       "order": 2,
       "title": {
         "en": "Storyteller",
-        "pt": "Contador de Histórias"
+        "pt": "Contador de Histórias",
+        "es": "Narrador de Historias",
+        "fr": "Conteur d'Histoires"
       },
       "description": {
         "en": "Complete 5 stories.",
-        "pt": "Conclua 5 histórias."
+        "pt": "Conclua 5 histórias.",
+        "es": "Completa 5 historias.",
+        "fr": "Terminez 5 histoires."
       },
       "event": "story.completed",
       "target": 5,
@@ -43,11 +51,15 @@
       "order": 3,
       "title": {
         "en": "Explorer",
-        "pt": "Explorador"
+        "pt": "Explorador",
+        "es": "Explorador",
+        "fr": "Explorateur"
       },
       "description": {
         "en": "Complete 10 stories.",
-        "pt": "Conclua 10 histórias."
+        "pt": "Conclua 10 histórias.",
+        "es": "Completa 10 historias.",
+        "fr": "Terminez 10 histoires."
       },
       "event": "story.completed",
       "target": 10,
@@ -62,11 +74,15 @@
       "order": 4,
       "title": {
         "en": "Adventurer",
-        "pt": "Aventureiro"
+        "pt": "Aventureiro",
+        "es": "Aventurero",
+        "fr": "Aventurier"
       },
       "description": {
         "en": "Complete 25 stories.",
-        "pt": "Conclua 25 histórias."
+        "pt": "Conclua 25 histórias.",
+        "es": "Completa 25 historias.",
+        "fr": "Terminez 25 histoires."
       },
       "event": "story.completed",
       "target": 25,
@@ -81,11 +97,15 @@
       "order": 5,
       "title": {
         "en": "Chronicler",
-        "pt": "Cronista"
+        "pt": "Cronista",
+        "es": "Cronista",
+        "fr": "Chroniqueur"
       },
       "description": {
         "en": "Complete 50 stories.",
-        "pt": "Conclua 50 histórias."
+        "pt": "Conclua 50 histórias.",
+        "es": "Completa 50 historias.",
+        "fr": "Terminez 50 histoires."
       },
       "event": "story.completed",
       "target": 50,
@@ -100,11 +120,15 @@
       "order": 6,
       "title": {
         "en": "Master Storyteller",
-        "pt": "Mestre das Histórias"
+        "pt": "Mestre das Histórias",
+        "es": "Maestro de las Historias",
+        "fr": "Maître des Histoires"
       },
       "description": {
         "en": "Complete 100 stories.",
-        "pt": "Conclua 100 histórias."
+        "pt": "Conclua 100 histórias.",
+        "es": "Completa 100 historias.",
+        "fr": "Terminez 100 histoires."
       },
       "event": "story.completed",
       "target": 100,

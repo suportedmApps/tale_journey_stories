@@ -5,11 +5,15 @@
       "order": 1,
       "title": {
         "en": "Premium Explorer",
-        "pt": "Explorador Premium"
+        "pt": "Explorador Premium",
+        "es": "Explorador Premium",
+        "fr": "Explorateur Premium"
       },
       "description": {
         "en": "Complete your first premium story.",
-        "pt": "Conclua sua primeira história premium."
+        "pt": "Conclua sua primeira história premium.",
+        "es": "Completa tu primera historia premium.",
+        "fr": "Terminez votre première histoire premium."
       },
       "event": "premium.content.completed",
       "target": 1,
@@ -24,11 +28,15 @@
       "order": 2,
       "title": {
         "en": "Premium Reader",
-        "pt": "Leitor Premium"
+        "pt": "Leitor Premium",
+        "es": "Lector Premium",
+        "fr": "Lecteur Premium"
       },
       "description": {
         "en": "Complete your first premium quick read.",
-        "pt": "Conclua sua primeira leitura rápida premium."
+        "pt": "Conclua sua primeira leitura rápida premium.",
+        "es": "Completa tu primera lectura rápida premium.",
+        "fr": "Terminez votre première lecture rapide premium."
       },
       "event": "premium.content.completed",
       "target": 2,
@@ -43,11 +51,15 @@
       "order": 3,
       "title": {
         "en": "Premium Bookworm",
-        "pt": "Bibliófilo Premium"
+        "pt": "Bibliófilo Premium",
+        "es": "Amante de los Libros Premium",
+        "fr": "Bibliophile Premium"
       },
       "description": {
         "en": "Complete your first premium book.",
-        "pt": "Conclua seu primeiro livro premium."
+        "pt": "Conclua seu primeiro livro premium.",
+        "es": "Completa tu primer libro premium.",
+        "fr": "Terminez votre premier livre premium."
       },
       "event": "premium.content.completed",
       "target": 3,
@@ -62,11 +74,15 @@
       "order": 4,
       "title": {
         "en": "Offline Ready",
-        "pt": "Pronto para Offline"
+        "pt": "Pronto para Offline",
+        "es": "Listo para Leer sin Conexión",
+        "fr": "Prêt pour le Hors Ligne"
       },
       "description": {
         "en": "Download your first content for offline reading.",
-        "pt": "Baixe seu primeiro conteúdo para leitura offline."
+        "pt": "Baixe seu primeiro conteúdo para leitura offline.",
+        "es": "Descarga tu primer contenido para leer sin conexión.",
+        "fr": "Téléchargez votre premier contenu pour le lire hors ligne."
       },
       "event": "offline.download",
       "target": 1,
@@ -81,11 +97,15 @@
       "order": 5,
       "title": {
         "en": "Offline Library",
-        "pt": "Biblioteca Offline"
+        "pt": "Biblioteca Offline",
+        "es": "Biblioteca sin Conexión",
+        "fr": "Bibliothèque Hors Ligne"
       },
       "description": {
         "en": "Download 10 contents for offline reading.",
-        "pt": "Baixe 10 conteúdos para leitura offline."
+        "pt": "Baixe 10 conteúdos para leitura offline.",
+        "es": "Descarga 10 contenidos para leer sin conexión.",
+        "fr": "Téléchargez 10 contenus pour les lire hors ligne."
       },
       "event": "offline.download",
       "target": 10,
@@ -100,11 +120,15 @@
       "order": 6,
       "title": {
         "en": "Category Explorer",
-        "pt": "Explorador de Categorias"
+        "pt": "Explorador de Categorias",
+        "es": "Explorador de Categorías",
+        "fr": "Explorateur de Catégories"
       },
       "description": {
         "en": "Complete at least one content from every available category.",
-        "pt": "Conclua pelo menos um conteúdo de todas as categorias disponíveis."
+        "pt": "Conclua pelo menos um conteúdo de todas as categorias disponíveis.",
+        "es": "Completa al menos un contenido de cada categoría disponible.",
+        "fr": "Terminez au moins un contenu de chaque catégorie disponible."
       },
       "event": "category.completed",
       "target": 1,

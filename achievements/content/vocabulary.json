@@ -5,11 +5,15 @@
       "order": 1,
       "title": {
         "en": "First Word",
-        "pt": "Primeira Palavra"
+        "pt": "Primeira Palavra",
+        "es": "Primera Palabra",
+        "fr": "Premier Mot"
       },
       "description": {
         "en": "Save your first word.",
-        "pt": "Salve sua primeira palavra."
+        "pt": "Salve sua primeira palavra.",
+        "es": "Guarda tu primera palabra.",
+        "fr": "Enregistrez votre premier mot."
       },
       "event": "word.saved",
       "target": 1,
@@ -24,11 +28,15 @@
       "order": 2,
       "title": {
         "en": "Second Word",
-        "pt": "Segunda Palavra"
+        "pt": "Segunda Palavra",
+        "es": "Segunda Palabra",
+        "fr": "Deuxième Mot"
       },
       "description": {
         "en": "Save 2 words.",
-        "pt": "Salve 2 palavras."
+        "pt": "Salve 2 palavras.",
+        "es": "Guarda 2 palabras.",
+        "fr": "Enregistrez 2 mots."
       },
       "event": "word.saved",
       "target": 2,
@@ -43,11 +51,15 @@
       "order": 3,
       "title": {
         "en": "Collector I",
-        "pt": "Colecionador I"
+        "pt": "Colecionador I",
+        "es": "Coleccionista I",
+        "fr": "Collectionneur I"
       },
       "description": {
         "en": "Save 5 words.",
-        "pt": "Salve 5 palavras."
+        "pt": "Salve 5 palavras.",
+        "es": "Guarda 5 palabras.",
+        "fr": "Enregistrez 5 mots."
       },
       "event": "word.saved",
       "target": 5,
@@ -62,11 +74,15 @@
       "order": 4,
       "title": {
         "en": "Collector II",
-        "pt": "Colecionador II"
+        "pt": "Colecionador II",
+        "es": "Coleccionista II",
+        "fr": "Collectionneur II"
       },
       "description": {
         "en": "Save 10 words.",
-        "pt": "Salve 10 palavras."
+        "pt": "Salve 10 palavras.",
+        "es": "Guarda 10 palabras.",
+        "fr": "Enregistrez 10 mots."
       },
       "event": "word.saved",
       "target": 10,
@@ -81,11 +97,15 @@
       "order": 5,
       "title": {
         "en": "Collector III",
-        "pt": "Colecionador III"
+        "pt": "Colecionador III",
+        "es": "Coleccionista III",
+        "fr": "Collectionneur III"
       },
       "description": {
         "en": "Save 25 words.",
-        "pt": "Salve 25 palavras."
+        "pt": "Salve 25 palavras.",
+        "es": "Guarda 25 palabras.",
+        "fr": "Enregistrez 25 mots."
       },
       "event": "word.saved",
       "target": 25,
@@ -100,11 +120,15 @@
       "order": 6,
       "title": {
         "en": "Collector IV",
-        "pt": "Colecionador IV"
+        "pt": "Colecionador IV",
+        "es": "Coleccionista IV",
+        "fr": "Collectionneur IV"
       },
       "description": {
         "en": "Save 50 words.",
-        "pt": "Salve 50 palavras."
+        "pt": "Salve 50 palavras.",
+        "es": "Guarda 50 palabras.",
+        "fr": "Enregistrez 50 mots."
       },
       "event": "word.saved",
       "target": 50,
@@ -119,11 +143,15 @@
       "order": 7,
       "title": {
         "en": "Collector V",
-        "pt": "Colecionador V"
+        "pt": "Colecionador V",
+        "es": "Coleccionista V",
+        "fr": "Collectionneur V"
       },
       "description": {
         "en": "Save 100 words.",
-        "pt": "Salve 100 palavras."
+        "pt": "Salve 100 palavras.",
+        "es": "Guarda 100 palabras.",
+        "fr": "Enregistrez 100 mots."
       },
       "event": "word.saved",
       "target": 100,
@@ -138,11 +166,15 @@
       "order": 8,
       "title": {
         "en": "Collector VI",
-        "pt": "Colecionador VI"
+        "pt": "Colecionador VI",
+        "es": "Coleccionista VI",
+        "fr": "Collectionneur VI"
       },
       "description": {
         "en": "Save 250 words.",
-        "pt": "Salve 250 palavras."
+        "pt": "Salve 250 palavras.",
+        "es": "Guarda 250 palabras.",
+        "fr": "Enregistrez 250 mots."
       },
       "event": "word.saved",
       "target": 250,
@@ -157,11 +189,15 @@
       "order": 9,
       "title": {
         "en": "Collector VII",
-        "pt": "Colecionador VII"
+        "pt": "Colecionador VII",
+        "es": "Coleccionista VII",
+        "fr": "Collectionneur VII"
       },
       "description": {
         "en": "Save 500 words.",
-        "pt": "Salve 500 palavras."
+        "pt": "Salve 500 palavras.",
+        "es": "Guarda 500 palabras.",
+        "fr": "Enregistrez 500 mots."
       },
       "event": "word.saved",
       "target": 500,
@@ -176,11 +212,15 @@
       "order": 10,
       "title": {
         "en": "Collector VIII",
-        "pt": "Colecionador VIII"
+        "pt": "Colecionador VIII",
+        "es": "Coleccionista VIII",
+        "fr": "Collectionneur VIII"
       },
       "description": {
         "en": "Save 1,000 words.",
-        "pt": "Salve 1.000 palavras."
+        "pt": "Salve 1.000 palavras.",
+        "es": "Guarda 1.000 palabras.",
+        "fr": "Enregistrez 1 000 mots."
       },
       "event": "word.saved",
       "target": 1000,
@@ -195,11 +235,15 @@
       "order": 11,
       "title": {
         "en": "Collector IX",
-        "pt": "Colecionador IX"
+        "pt": "Colecionador IX",
+        "es": "Coleccionista IX",
+        "fr": "Collectionneur IX"
       },
       "description": {
         "en": "Save 2,500 words.",
-        "pt": "Salve 2.500 palavras."
+        "pt": "Salve 2.500 palavras.",
+        "es": "Guarda 2.500 palabras.",
+        "fr": "Enregistrez 2 500 mots."
       },
       "event": "word.saved",
       "target": 2500,
@@ -214,11 +258,15 @@
       "order": 12,
       "title": {
         "en": "Collector X",
-        "pt": "Colecionador X"
+        "pt": "Colecionador X",
+        "es": "Coleccionista X",
+        "fr": "Collectionneur X"
       },
       "description": {
         "en": "Save 5,000 words.",
-        "pt": "Salve 5.000 palavras."
+        "pt": "Salve 5.000 palavras.",
+        "es": "Guarda 5.000 palabras.",
+        "fr": "Enregistrez 5 000 mots."
       },
       "event": "word.saved",
       "target": 5000,

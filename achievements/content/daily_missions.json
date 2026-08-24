@@ -5,11 +5,15 @@
       "order": 1,
       "title": {
         "en": "First Mission",
-        "pt": "Primeira Missão"
+        "pt": "Primeira Missão",
+        "es": "Primera Misión",
+        "fr": "Première Mission"
       },
       "description": {
         "en": "Complete your first daily mission.",
-        "pt": "Complete sua primeira missão diária."
+        "pt": "Complete sua primeira missão diária.",
+        "es": "Completa tu primera misión diaria.",
+        "fr": "Terminez votre première mission quotidienne."
       },
       "event": "daily_mission.completed",
       "target": 1,
@@ -24,11 +28,15 @@
       "order": 2,
       "title": {
         "en": "Mission Rookie",
-        "pt": "Recruta das Missões"
+        "pt": "Recruta das Missões",
+        "es": "Recluta de las Misiones",
+        "fr": "Recrue des Missions"
       },
       "description": {
         "en": "Complete 10 daily missions.",
-        "pt": "Complete 10 missões diárias."
+        "pt": "Complete 10 missões diárias.",
+        "es": "Completa 10 misiones diarias.",
+        "fr": "Terminez 10 missions quotidiennes."
       },
       "event": "daily_mission.completed",
       "target": 10,
@@ -43,11 +51,15 @@
       "order": 3,
       "title": {
         "en": "Mission Specialist",
-        "pt": "Especialista em Missões"
+        "pt": "Especialista em Missões",
+        "es": "Especialista en Misiones",
+        "fr": "Spécialiste des Missions"
       },
       "description": {
         "en": "Complete 50 daily missions.",
-        "pt": "Complete 50 missões diárias."
+        "pt": "Complete 50 missões diárias.",
+        "es": "Completa 50 misiones diarias.",
+        "fr": "Terminez 50 missions quotidiennes."
       },
       "event": "daily_mission.completed",
       "target": 50,
@@ -62,11 +74,15 @@
       "order": 4,
       "title": {
         "en": "Mission Veteran",
-        "pt": "Veterano das Missões"
+        "pt": "Veterano das Missões",
+        "es": "Veterano de las Misiones",
+        "fr": "Vétéran des Missions"
       },
       "description": {
         "en": "Complete 100 daily missions.",
-        "pt": "Complete 100 missões diárias."
+        "pt": "Complete 100 missões diárias.",
+        "es": "Completa 100 misiones diarias.",
+        "fr": "Terminez 100 missions quotidiennes."
       },
       "event": "daily_mission.completed",
       "target": 100,
@@ -81,11 +97,15 @@
       "order": 5,
       "title": {
         "en": "Mission Master",
-        "pt": "Mestre das Missões"
+        "pt": "Mestre das Missões",
+        "es": "Maestro de las Misiones",
+        "fr": "Maître des Missions"
       },
       "description": {
         "en": "Complete 250 daily missions.",
-        "pt": "Complete 250 missões diárias."
+        "pt": "Complete 250 missões diárias.",
+        "es": "Completa 250 misiones diarias.",
+        "fr": "Terminez 250 missions quotidiennes."
       },
       "event": "daily_mission.completed",
       "target": 250,
@@ -100,11 +120,15 @@
       "order": 6,
       "title": {
         "en": "Legend of Daily Missions",
-        "pt": "Lenda das Missões Diárias"
+        "pt": "Lenda das Missões Diárias",
+        "es": "Leyenda de las Misiones Diarias",
+        "fr": "Légende des Missions Quotidiennes"
       },
       "description": {
         "en": "Complete 500 daily missions.",
-        "pt": "Complete 500 missões diárias."
+        "pt": "Complete 500 missões diárias.",
+        "es": "Completa 500 misiones diarias.",
+        "fr": "Terminez 500 missions quotidiennes."
       },
       "event": "daily_mission.completed",
       "target": 500,

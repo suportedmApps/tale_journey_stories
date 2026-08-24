@@ -5,11 +5,15 @@
       "order": 1,
       "title": {
         "en": "Welcome to Premium",
-        "pt": "Bem-vindo ao Premium"
+        "pt": "Bem-vindo ao Premium",
+        "es": "Bienvenido a Premium",
+        "fr": "Bienvenue dans Premium"
       },
       "description": {
         "en": "Become a Premium member.",
-        "pt": "Torne-se um membro Premium."
+        "pt": "Torne-se um membro Premium.",
+        "es": "Conviértete en miembro Premium.",
+        "fr": "Devenez membre Premium."
       },
       "event": "premium.subscribed",
       "target": 1,
@@ -24,11 +28,15 @@
       "order": 2,
       "title": {
         "en": "Premium Supporter",
-        "pt": "Apoiador Premium"
+        "pt": "Apoiador Premium",
+        "es": "Colaborador Premium",
+        "fr": "Soutien Premium"
       },
       "description": {
         "en": "Stay Premium for 30 days.",
-        "pt": "Permaneça Premium por 30 dias."
+        "pt": "Permaneça Premium por 30 dias.",
+        "es": "Mantén tu suscripción Premium durante 30 días.",
+        "fr": "Restez Premium pendant 30 jours."
       },
       "event": "premium.days",
       "target": 30,
@@ -43,11 +51,15 @@
       "order": 3,
       "title": {
         "en": "Loyal Supporter",
-        "pt": "Apoiador Fiel"
+        "pt": "Apoiador Fiel",
+        "es": "Colaborador Fiel",
+        "fr": "Soutien Fidèle"
       },
       "description": {
         "en": "Stay Premium for 180 days.",
-        "pt": "Permaneça Premium por 180 dias."
+        "pt": "Permaneça Premium por 180 dias.",
+        "es": "Mantén tu suscripción Premium durante 180 días.",
+        "fr": "Restez Premium pendant 180 jours."
       },
       "event": "premium.days",
       "target": 180,
@@ -62,11 +74,15 @@
       "order": 4,
       "title": {
         "en": "Diamond Member",
-        "pt": "Membro Diamante"
+        "pt": "Membro Diamante",
+        "es": "Miembro Diamante",
+        "fr": "Membre Diamant"
       },
       "description": {
         "en": "Stay Premium for 365 days.",
-        "pt": "Permaneça Premium por 365 dias."
+        "pt": "Permaneça Premium por 365 dias.",
+        "es": "Mantén tu suscripción Premium durante 365 días.",
+        "fr": "Restez Premium pendant 365 jours."
       },
       "event": "premium.days",
       "target": 365,

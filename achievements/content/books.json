@@ -5,11 +5,15 @@
       "order": 1,
       "title": {
         "en": "First Book",
-        "pt": "Primeiro Livro"
+        "pt": "Primeiro Livro",
+        "es": "Primer Libro",
+        "fr": "Premier Livre"
       },
       "description": {
         "en": "Complete your first book.",
-        "pt": "Conclua seu primeiro livro."
+        "pt": "Conclua seu primeiro livro.",
+        "es": "Completa tu primer libro.",
+        "fr": "Terminez votre premier livre."
       },
       "event": "book.completed",
       "target": 1,
@@ -24,11 +28,15 @@
       "order": 2,
       "title": {
         "en": "Dedicated Reader",
-        "pt": "Leitor Dedicado"
+        "pt": "Leitor Dedicado",
+        "es": "Lector Dedicado",
+        "fr": "Lecteur Dévoué"
       },
       "description": {
         "en": "Complete 3 books.",
-        "pt": "Conclua 3 livros."
+        "pt": "Conclua 3 livros.",
+        "es": "Completa 3 libros.",
+        "fr": "Terminez 3 livres."
       },
       "event": "book.completed",
       "target": 3,
@@ -43,11 +51,15 @@
       "order": 3,
       "title": {
         "en": "Book Lover",
-        "pt": "Bibliófilo"
+        "pt": "Bibliófilo",
+        "es": "Amante de los Libros",
+        "fr": "Amoureux des Livres"
       },
       "description": {
         "en": "Complete 5 books.",
-        "pt": "Conclua 5 livros."
+        "pt": "Conclua 5 livros.",
+        "es": "Completa 5 libros.",
+        "fr": "Terminez 5 livres."
       },
       "event": "book.completed",
       "target": 5,
@@ -62,11 +74,15 @@
       "order": 4,
       "title": {
         "en": "Book Devourer",
-        "pt": "Devorador de Livros"
+        "pt": "Devorador de Livros",
+        "es": "Devorador de Libros",
+        "fr": "Dévoreur de Livres"
       },
       "description": {
         "en": "Complete 10 books.",
-        "pt": "Conclua 10 livros."
+        "pt": "Conclua 10 livros.",
+        "es": "Completa 10 libros.",
+        "fr": "Terminez 10 livres."
       },
       "event": "book.completed",
       "target": 10,
@@ -81,11 +97,15 @@
       "order": 5,
       "title": {
         "en": "Library Keeper",
-        "pt": "Bibliotecário"
+        "pt": "Bibliotecário",
+        "es": "Guardián de la Biblioteca",
+        "fr": "Gardien de la Bibliothèque"
       },
       "description": {
         "en": "Complete 20 books.",
-        "pt": "Conclua 20 livros."
+        "pt": "Conclua 20 livros.",
+        "es": "Completa 20 libros.",
+        "fr": "Terminez 20 livres."
       },
       "event": "book.completed",
       "target": 20,
@@ -100,11 +120,15 @@
       "order": 6,
       "title": {
         "en": "Master of Books",
-        "pt": "Mestre dos Livros"
+        "pt": "Mestre dos Livros",
+        "es": "Maestro de los Libros",
+        "fr": "Maître des Livres"
       },
       "description": {
         "en": "Complete 50 books.",
-        "pt": "Conclua 50 livros."
+        "pt": "Conclua 50 livros.",
+        "es": "Completa 50 libros.",
+        "fr": "Terminez 50 livres."
       },
       "event": "book.completed",
       "target": 50,

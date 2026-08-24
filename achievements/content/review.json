@@ -5,11 +5,15 @@
       "order": 1,
       "title": {
         "en": "First Review",
-        "pt": "Primeira Revisão"
+        "pt": "Primeira Revisão",
+        "es": "Primera Revisión",
+        "fr": "Première Révision"
       },
       "description": {
         "en": "Review your first saved word.",
-        "pt": "Revise sua primeira palavra salva."
+        "pt": "Revise sua primeira palavra salva.",
+        "es": "Repasa tu primera palabra guardada.",
+        "fr": "Révisez votre premier mot enregistré."
       },
       "event": "word.reviewed",
       "target": 1,
@@ -24,11 +28,15 @@
       "order": 2,
       "title": {
         "en": "Memory Builder",
-        "pt": "Construtor da Memória"
+        "pt": "Construtor da Memória",
+        "es": "Constructor de Memoria",
+        "fr": "Constructeur de Mémoire"
       },
       "description": {
         "en": "Review 10 saved words.",
-        "pt": "Revise 10 palavras salvas."
+        "pt": "Revise 10 palavras salvas.",
+        "es": "Repasa 10 palabras guardadas.",
+        "fr": "Révisez 10 mots enregistrés."
       },
       "event": "word.reviewed",
       "target": 10,
@@ -43,11 +51,15 @@
       "order": 3,
       "title": {
         "en": "Dedicated Reviewer",
-        "pt": "Revisor Dedicado"
+        "pt": "Revisor Dedicado",
+        "es": "Revisor Dedicado",
+        "fr": "Réviseur Dévoué"
       },
       "description": {
         "en": "Review 50 saved words.",
-        "pt": "Revise 50 palavras salvas."
+        "pt": "Revise 50 palavras salvas.",
+        "es": "Repasa 50 palabras guardadas.",
+        "fr": "Révisez 50 mots enregistrés."
       },
       "event": "word.reviewed",
       "target": 50,
@@ -62,11 +74,15 @@
       "order": 4,
       "title": {
         "en": "Knowledge Keeper",
-        "pt": "Guardião do Conhecimento"
+        "pt": "Guardião do Conhecimento",
+        "es": "Guardián del Conocimiento",
+        "fr": "Gardien du Savoir"
       },
       "description": {
         "en": "Review 100 saved words.",
-        "pt": "Revise 100 palavras salvas."
+        "pt": "Revise 100 palavras salvas.",
+        "es": "Repasa 100 palabras guardadas.",
+        "fr": "Révisez 100 mots enregistrés."
       },
       "event": "word.reviewed",
       "target": 100,
@@ -81,11 +97,15 @@
       "order": 5,
       "title": {
         "en": "Review Expert",
-        "pt": "Especialista em Revisão"
+        "pt": "Especialista em Revisão",
+        "es": "Experto en Repaso",
+        "fr": "Expert en Révision"
       },
       "description": {
         "en": "Review 250 saved words.",
-        "pt": "Revise 250 palavras salvas."
+        "pt": "Revise 250 palavras salvas.",
+        "es": "Repasa 250 palabras guardadas.",
+        "fr": "Révisez 250 mots enregistrés."
       },
       "event": "word.reviewed",
       "target": 250,
@@ -100,11 +120,15 @@
       "order": 6,
       "title": {
         "en": "Review Master",
-        "pt": "Mestre da Revisão"
+        "pt": "Mestre da Revisão",
+        "es": "Maestro del Repaso",
+        "fr": "Maître de la Révision"
       },
       "description": {
         "en": "Review 500 saved words.",
-        "pt": "Revise 500 palavras salvas."
+        "pt": "Revise 500 palavras salvas.",
+        "es": "Repasa 500 palabras guardadas.",
+        "fr": "Révisez 500 mots enregistrés."
       },
       "event": "word.reviewed",
       "target": 500,
@@ -119,11 +143,15 @@
       "order": 7,
       "title": {
         "en": "Memory Master",
-        "pt": "Mestre da Memória"
+        "pt": "Mestre da Memória",
+        "es": "Maestro de la Memoria",
+        "fr": "Maître de la Mémoire"
       },
       "description": {
         "en": "Review 1,000 saved words.",
-        "pt": "Revise 1.000 palavras salvas."
+        "pt": "Revise 1.000 palavras salvas.",
+        "es": "Repasa 1.000 palabras guardadas.",
+        "fr": "Révisez 1 000 mots enregistrés."
       },
       "event": "word.reviewed",
       "target": 1000,
