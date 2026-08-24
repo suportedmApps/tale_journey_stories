@@ -11,11 +11,6 @@
         "coins": 1,
         "study_time": 1,
         "daily_missions": 1,
-        "weekly_missions": 1,
-        "challenges": 1,
-        "languages": 1,
-        "exploration": 1,
-        "premium": 1,
-        "secret": 1
+        "weekly_missions": 1
     }
 }
