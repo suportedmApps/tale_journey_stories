@@ -115,22 +115,22 @@
     "version": 1
   },
   {
-    "id": "weekly_study_days_5",
+    "id": "weekly_reading_days_5",
     "order": 6,
     "title": {
-      "en": "Consistent Learner",
-      "pt": "Aprendiz Consistente",
-      "es": "Estudiante Constante",
-      "fr": "Apprenant Régulier"
+      "en": "Consistent Reader",
+      "pt": "Leitor Consistente",
+      "es": "Lector Constante",
+      "fr": "Lecteur Régulier"
     },
     "description": {
-      "en": "Study on 5 different days this week.",
-      "pt": "Estude em 5 dias diferentes nesta semana.",
-      "es": "Estudia en 5 días diferentes esta semana.",
-      "fr": "Étudiez pendant 5 jours différents cette semaine."
+      "en": "Read something on 5 different days this week.",
+      "pt": "Leia algo em 5 dias diferentes nesta semana.",
+      "es": "Lee algo en 5 días diferentes esta semana.",
+      "fr": "Lisez quelque chose pendant 5 jours différents cette semaine."
     },
     "icon": "🔥",
-    "event": "study.day_completed",
+    "event": "reading.day_completed",
     "target": 5,
     "rewardXP": 300,
     "rewardCoins": 220,

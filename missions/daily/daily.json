@@ -170,13 +170,13 @@
       "fr": "Maintenez la Série"
     },
     "description": {
-      "en": "Study today and keep your streak alive.",
-      "pt": "Estude hoje e mantenha sua sequência.",
-      "es": "Estudia hoy y mantén tu racha.",
-      "fr": "Étudiez aujourd'hui et maintenez votre série."
+      "en": "Read something today and keep your streak alive.",
+      "pt": "Leia algo hoje e mantenha sua sequência.",
+      "es": "Lee algo hoy y mantén tu racha.",
+      "fr": "Lisez quelque chose aujourd'hui et maintenez votre série."
     },
     "icon": "🔥",
-    "event": "study.day_completed",
+    "event": "reading.day_completed",
     "target": 1,
     "rewardXP": 35,
     "rewardCoins": 30,
