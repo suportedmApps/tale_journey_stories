@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "announcements": [
+    {
+      "id": "welcome_v1",
+      "title": {
+        "en": "Welcome to Tale Journey!",
+        "pt": "Bem-vindo ao Tale Journey!",
+        "es": "¡Bienvenido a Tale Journey!",
+        "fr": "Bienvenue dans Tale Journey !"
+      },
+      "message": {
+        "en": "Thank you for joining us at the beginning of this adventure!\n\nTale Journey is currently in its initial version, and we're constantly working to improve your experience.\n\nIf you find any issues or have suggestions, we'd love to hear from you through our social media channels.",
+        "pt": "Obrigado por fazer parte do início desta aventura!\n\nO Tale Journey está atualmente em sua versão inicial, e estamos trabalhando constantemente para melhorar sua experiência.\n\nSe encontrar algum problema ou tiver sugestões, adoraríamos ouvir você através das nossas redes sociais.",
+        "es": "¡Gracias por acompañarnos al comienzo de esta aventura!\n\nTale Journey se encuentra actualmente en su versión inicial y estamos trabajando constantemente para mejorar tu experiencia.\n\nSi encuentras algún problema o tienes sugerencias, nos encantaría saber de ti a través de nuestras redes sociales.",
+        "fr": "Merci de nous rejoindre au début de cette aventure !\n\nTale Journey est actuellement dans sa version initiale, et nous travaillons constamment pour améliorer votre expérience.\n\nSi vous rencontrez un problème ou avez des suggestions, nous serions ravis de vous entendre sur nos réseaux sociaux."
+      },
+      "icon": "auto_awesome",
+      "enabled": true
+    },
+    {
+      "id": "reading_event",
+      "title": {
+        "en": "A new event has started!",
+        "pt": "Um novo evento começou!",
+        "es": "¡Ha comenzado un nuevo evento!",
+        "fr": "Un nouvel événement a commencé !"
+      },
+      "message": {
+        "en": "The Reading Challenge is now available! Complete your reading goals and earn special rewards during the event.",
+        "pt": "O Desafio de Leitura já está disponível! Complete suas metas de leitura e ganhe recompensas especiais durante o evento.",
+        "es": "¡El Desafío de Lectura ya está disponible! Completa tus metas de lectura y consigue recompensas especiales durante el evento.",
+        "fr": "Le Défi de Lecture est maintenant disponible ! Atteignez vos objectifs de lecture et gagnez des récompenses spéciales pendant l'événement."
+      },
+      "icon": "celebration",
+      "action_text": {
+        "en": "View event",
+        "pt": "Ver evento",
+        "es": "Ver evento",
+        "fr": "Voir l'événement"
+      },
+      "enabled": false
+    }
+  ]
+}
