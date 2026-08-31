@@ -1,0 +1,14 @@
+[
+  {
+    "id": "b_1342_en",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "category": "Classic Literature",
+    "level": "Intermediate",
+    "coverImage": "https://...",
+    "availableChapters": 3,
+    "publishedAt": "2026-08-31",
+    "isPremium": false,
+    "version": 1
+  }
+]
