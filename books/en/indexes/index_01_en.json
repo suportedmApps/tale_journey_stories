@@ -6,7 +6,7 @@
     "category": "Classic Literature",
     "level": "Intermediate",
     "coverImage": "https://...",
-    "availableChapters": 61,
+    "availableChapters": 3,
     "publishedAt": "2026-08-31",
     "isPremium": false,
     "version": 1
@@ -18,7 +18,7 @@
     "category": "Fantasy",
     "level": "Beginner",
     "coverImage": "https://...",
-    "availableChapters": 12,
+    "availableChapters": 2,
     "publishedAt": "2026-08-31",
     "isPremium": false,
     "version": 1
