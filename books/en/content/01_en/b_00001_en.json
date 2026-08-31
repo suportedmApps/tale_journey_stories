@@ -3,13 +3,16 @@
   "description": "Lucas has always dreamed of exploring the world. After buying a one-way ticket to Japan, he begins an unforgettable journey filled with new friendships, cultural discoveries and personal growth.",
   "chapters": [
     {
-      "id": "b_00001_001_en"
+      "id": "b_00001_001_en",
+      "title": "Chapter 1"
     },
     {
-      "id": "b_00001_002_en"
+      "id": "b_00001_002_en",
+      "title": "Chapter 2"
     },
     {
-      "id": "b_00001_003_en"
+      "id": "b_00001_003_en",
+      "title": "Chapter 3"
     }
   ]
 }
