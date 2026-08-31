@@ -6,7 +6,19 @@
     "category": "Classic Literature",
     "level": "Intermediate",
     "coverImage": "https://...",
-    "availableChapters": 3,
+    "availableChapters": 61,
+    "publishedAt": "2026-08-31",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "b_11_en",
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "category": "Fantasy",
+    "level": "Beginner",
+    "coverImage": "b_11_en.jpg",
+    "availableChapters": 12,
     "publishedAt": "2026-08-31",
     "isPremium": false,
     "version": 1
