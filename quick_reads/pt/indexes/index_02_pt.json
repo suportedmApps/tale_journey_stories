@@ -1,5 +1,13 @@
 [
   {
+    "id": "qr_00101_pt",
+    "title": "A Aventura de Sete Dias",
+    "category": "Travel",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
+  },
+  {
     "id": "qr_00106_pt",
     "title": "Assento na janela",
     "category": "Travel",

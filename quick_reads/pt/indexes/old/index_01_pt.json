@@ -1,0 +1,82 @@
+[
+  {
+    "id": "qr_00001_pt",
+    "title": "Café da manhã",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00002_pt",
+    "title": "Atrasada para o trabalho",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00003_pt",
+    "title": "Uma Segunda-feira Chuvosa",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00004_pt",
+    "title": "Café da Manhã com Emma",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00005_pt",
+    "title": "A Carteira Perdida",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00006_pt",
+    "title": "Compras no supermercado",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00007_pt",
+    "title": "Limpando o Apartamento",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00008_pt",
+    "title": "Minha Manhã Corrida",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00009_pt",
+    "title": "Esperando o Ônibus",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00010_pt",
+    "title": "Um Novo Vizinho",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
+  }
+]

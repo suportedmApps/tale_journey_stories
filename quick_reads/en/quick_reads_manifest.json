@@ -14,20 +14,32 @@
       "last_updated": "2026-05-22T10:30:00Z"
     },
     {
-      "id": "03",
+      "id": "03_en",
       "name": "Technology",
       "version": 1,
       "last_updated": "2026-05-26T10:30:00Z"
     },
     {
-      "id": "04",
+      "id": "04_en",
       "name": "Mystery",
       "version": 1,
       "last_updated": "2026-07-13T10:30:00Z"
     },
     {
-      "id": "05",
+      "id": "05_en",
       "name": "Romance",
+      "version": 1,
+      "last_updated": "2026-07-13T10:30:00Z"
+    },
+    {
+      "id": "06_en",
+      "name": "Food & Cooking",
+      "version": 1,
+      "last_updated": "2026-07-13T10:30:00Z"
+    },
+    {
+      "id": "07_en",
+      "name": "Adventure",
       "version": 1,
       "last_updated": "2026-07-13T10:30:00Z"
     }

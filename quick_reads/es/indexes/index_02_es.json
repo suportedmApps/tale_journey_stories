@@ -1,5 +1,13 @@
 [
   {
+    "id": "qr_00101_es",
+    "title": "La Aventura de Siete Días",
+    "category": "Travel",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
+  },
+  {
     "id": "qr_00106_es",
     "title": "Asiento junto a la ventana",
     "category": "Travel",

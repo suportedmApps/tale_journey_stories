@@ -12,6 +12,30 @@
       "name": "Travel",
       "version": 1,
       "last_updated": "2026-05-22T10:30:00Z"
+    },
+    {
+      "id": "04_fr",
+      "name": "Mystery",
+      "version": 1,
+      "last_updated": "2026-05-22T10:30:00Z"
+    },
+    {
+      "id": "05_fr",
+      "name": "Romance",
+      "version": 1,
+      "last_updated": "2026-05-22T10:30:00Z"
+    },
+    {
+      "id": "06_fr",
+      "name": "Food & Cooking",
+      "version": 1,
+      "last_updated": "2026-07-13T10:30:00Z"
+    },
+    {
+      "id": "07_fr",
+      "name": "Adventure",
+      "version": 1,
+      "last_updated": "2026-07-13T10:30:00Z"
     }
   ]
 }
