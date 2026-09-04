@@ -42,6 +42,78 @@
       "name": "Adventure",
       "version": 1,
       "last_updated": "2026-07-13T10:30:00Z"
+    },
+    {
+      "id": "08_en",
+      "name": "Social Media & Modern Life",
+      "version": 1,
+      "last_updated": "2026-07-13T10:30:00Z"
+    },
+    {
+      "id": "09_en",
+      "name": "Business",
+      "version": 1,
+      "last_updated": "2026-07-13T10:30:00Z"
+    },
+    {
+      "id": "10_en",
+      "name": "Dialogues",
+      "version": 1,
+      "last_updated": "2026-07-13T10:30:00Z"
+    },
+    {
+      "id": "11_en",
+      "name": "Health & Wellness",
+      "version": 1,
+      "last_updated": "2026-07-13T10:30:00Z"
+    },
+    {
+      "id": "12_en",
+      "name": "Philosophy & Reflection",
+      "version": 1,
+      "last_updated": "2026-07-13T10:30:00Z"
+    },
+    {
+      "id": "13_en",
+      "name": "Nature",
+      "version": 1,
+      "last_updated": "2026-07-13T10:30:00Z"
+    },
+    {
+      "id": "14_en",
+      "name": "Crime & Detective",
+      "version": 1,
+      "last_updated": "2026-07-13T10:30:00Z"
+    },
+    {
+      "id": "15_en",
+      "name": "Horror",
+      "version": 1,
+      "last_updated": "2026-07-13T10:30:00Z"
+    },
+    {
+      "id": "16_en",
+      "name": "Fantasy",
+      "version": 1,
+      "last_updated": "2026-07-13T10:30:00Z"
+    },
+    {
+      "id": "17_en",
+      "name": "Education",
+      "version": 1,
+      "last_updated": "2026-07-13T10:30:00Z"
+    },
+    {
+      "id": "18_en",
+      "name": "Science Fiction",
+      "version": 1,
+      "last_updated": "2026-07-13T10:30:00Z"
+    },
+    {
+      "id": "19_en",
+      "name": "History",
+      "version": 1,
+      "last_updated": "2026-07-13T10:30:00Z"
     }
   ]
 }

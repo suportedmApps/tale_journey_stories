@@ -1,0 +1,18 @@
+[
+  {
+    "id": "qr_01101_es",
+    "title": "El Sonido de un Día Mejor",
+    "category": "Health & Wellness",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_01102_es",
+    "title": "Una Nueva Rutina",
+    "category": "Health & Wellness",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
+  }
+]

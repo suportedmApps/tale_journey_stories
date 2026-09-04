@@ -1,0 +1,18 @@
+[
+  {
+    "id": "qr_00901_pt",
+    "title": "Um Dia de Trabalho",
+    "category": "Business",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00902_pt",
+    "title": "A Grande Reunião",
+    "category": "Business",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
+  }
+]

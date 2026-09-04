@@ -1,0 +1,18 @@
+[
+  {
+    "id": "qr_00901_fr",
+    "title": "Une Journée au Travail",
+    "category": "Business",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00902_fr",
+    "title": "La Grande Réunion",
+    "category": "Business",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
+  }
+]

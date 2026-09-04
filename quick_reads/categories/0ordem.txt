@@ -1,26 +1,22 @@
-Daily Life
-Travel
-Technology
-Mystery
-Romance
-Food & Cooking
-Adventure
+1-Daily Life
+2-Travel
+3-Technology
+4-Mystery
+5-Romance
+6-Food & Cooking
+7-Adventure
+8-Social Media & Modern Life
+9-Business
+10-Dialogues
+11-Health & Wellness
+12-Philosophy & Reflection
+13-Nature
+14-Crime & Detective
+15-Horror
+16-Fantasy
+17-Education
+18-Science Fiction
+19-History
 
-Business
-Education
-Slice of Life
-Science Fiction
-Health & Wellness
-Fantasy
-Nature
-Horror
-Dialogues
-Workplace
-Social Media & Modern Life
-Crime & Detective
+
 Sports
-Philosophy & Reflection
-History
-Travel Essentials
-Emotional Stories
-Urban Stories

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "qr_01101_fr",
+    "title": "Le Son d'une Meilleure Journée",
+    "category": "Health & Wellness",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_01102_fr",
+    "title": "Une Nouvelle Routine",
+    "category": "Health & Wellness",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
+  }
+]

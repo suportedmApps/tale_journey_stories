@@ -1,0 +1,18 @@
+[
+  {
+    "id": "qr_00901_en",
+    "title": "A Day at Work",
+    "category": "Business",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00902_en",
+    "title": "The Big Meeting",
+    "category": "Business",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
+  }
+]

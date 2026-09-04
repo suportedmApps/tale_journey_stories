@@ -1,0 +1,18 @@
+[
+  {
+    "id": "qr_01101_en",
+    "title": "The Sound of a Better Day",
+    "category": "Health & Wellness",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_01102_en",
+    "title": "A New Routine",
+    "category": "Health & Wellness",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
+  }
+]
