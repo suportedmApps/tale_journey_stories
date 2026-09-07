@@ -6,19 +6,19 @@
       "id": "chapter_01",
       "title": "A Estação",
       "order": 1,
-      "content": "Sophie estava na Estação de Tóquio com sua passagem em mãos. O trem-bala para Kyoto partiria em dez minutos."
+      "content": "\n\nSophie estava na Estação de Tóquio com sua passagem em mãos. O trem-bala para Kyoto partiria em dez minutos."
     },
     {
       "id": "chapter_02",
       "title": "Assento na Janela",
       "order": 2,
-      "content": "Ela se sentou perto da janela e observou a cidade desaparecer. Logo, campos verdes e montanhas substituíram os prédios altos."
+      "content": "\n\nEla se sentou perto da janela e observou a cidade desaparecer. Logo, campos verdes e montanhas substituíram os prédios altos."
     },
     {
       "id": "chapter_03",
       "title": "A Primeira Visão",
       "order": 3,
-      "content": "Quando chegou a Kyoto, as ruas tranquilas e os templos tradicionais fizeram com que ela sentisse como se tivesse viajado de volta no tempo."
+      "content": "\n\nQuando chegou a Kyoto, as ruas tranquilas e os templos tradicionais fizeram com que ela sentisse como se tivesse viajado de volta no tempo."
     }
   ]
 }

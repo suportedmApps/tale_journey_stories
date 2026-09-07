@@ -6,19 +6,19 @@
       "id": "chapter_01",
       "title": "La Estación",
       "order": 1,
-      "content": "Sophie estaba en la estación de Tokio con su billete en la mano. El tren bala hacia Kioto saldría en diez minutos."
+      "content": "\n\nSophie estaba en la estación de Tokio con su billete en la mano. El tren bala hacia Kioto saldría en diez minutos."
     },
     {
       "id": "chapter_02",
       "title": "Asiento junto a la Ventana",
       "order": 2,
-      "content": "Se sentó junto a la ventana y observó cómo la ciudad desaparecía. Pronto, los campos verdes y las montañas reemplazaron los altos edificios."
+      "content": "\n\nSe sentó junto a la ventana y observó cómo la ciudad desaparecía. Pronto, los campos verdes y las montañas reemplazaron los altos edificios."
     },
     {
       "id": "chapter_03",
       "title": "La Primera Vista",
       "order": 3,
-      "content": "Cuando llegó a Kioto, las tranquilas calles y los templos tradicionales la hicieron sentir como si hubiera viajado al pasado."
+      "content": "\n\nCuando llegó a Kioto, las tranquilas calles y los templos tradicionales la hicieron sentir como si hubiera viajado al pasado."
     }
   ]
 }

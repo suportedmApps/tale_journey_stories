@@ -6,19 +6,19 @@
       "id": "chapter_01",
       "title": "Viernes por la Noche",
       "order": 1,
-      "content": "Mia llegó a Barcelona el viernes por la noche. Las calles estaban llenas de música, la gente reía afuera de los restaurantes y el aire cálido era perfecto."
+      "content": "\n\nMia llegó a Barcelona el viernes por la noche. Las calles estaban llenas de música, la gente reía afuera de los restaurantes y el aire cálido era perfecto."
     },
     {
       "id": "chapter_02",
       "title": "Recorriendo la Ciudad",
       "order": 2,
-      "content": "El sábado por la mañana, caminó por Las Ramblas, visitó mercados coloridos y observó a artistas callejeros bailando bajo el sol."
+      "content": "\n\nEl sábado por la mañana, caminó por Las Ramblas, visitó mercados coloridos y observó a artistas callejeros bailando bajo el sol."
     },
     {
       "id": "chapter_03",
       "title": "Atardecer en la Playa",
       "order": 3,
-      "content": "Por la tarde, Mia se sentó junto a la playa y contempló el atardecer sobre el mar. Sabía que ese fin de semana permanecería para siempre en su memoria."
+      "content": "\n\nPor la tarde, Mia se sentó junto a la playa y contempló el atardecer sobre el mar. Sabía que ese fin de semana permanecería para siempre en su memoria."
     }
   ]
 }

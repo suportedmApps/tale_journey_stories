@@ -6,19 +6,19 @@
       "id": "chapter_01",
       "title": "A Chegada",
       "order": 1,
-      "content": "Emma chegou a Roma em uma quente tarde de verão. Ela tinha uma pequena mala, um mapa da cidade e o sonho de explorar cada canto da cidade antiga."
+      "content": "\n\nEmma chegou a Roma em uma quente tarde de verão. Ela tinha uma pequena mala, um mapa da cidade e o sonho de explorar cada canto da cidade antiga."
     },
     {
       "id": "chapter_02",
       "title": "O Caminho Errado",
       "order": 2,
-      "content": "Enquanto caminhava perto do Coliseu, Emma pegou a rua errada e se perdeu. Todos os prédios pareciam bonitos, mas nenhum deles lhe era familiar."
+      "content": "\n\nEnquanto caminhava perto do Coliseu, Emma pegou a rua errada e se perdeu. Todos os prédios pareciam bonitos, mas nenhum deles lhe era familiar."
     },
     {
       "id": "chapter_03",
       "title": "Um Desconhecido Prestativo",
       "order": 3,
-      "content": "Um homem idoso percebeu sua confusão e sorriu. Em um inglês simples, ele a ajudou a encontrar seu hotel e recomendou a melhor sorveteria do bairro."
+      "content": "\n\nUm homem idoso percebeu sua confusão e sorriu. Em um inglês simples, ele a ajudou a encontrar seu hotel e recomendou a melhor sorveteria do bairro."
     }
   ]
 }
