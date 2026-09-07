@@ -17,8 +17,8 @@
       },
       "event": "quick_read.completed",
       "target": 1,
-      "rewardXP": 20,
-      "rewardCoins": 50,
+      "rewardXP": 25,
+      "rewardCoins": 10,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -40,8 +40,8 @@
       },
       "event": "quick_read.completed",
       "target": 5,
-      "rewardXP": 50,
-      "rewardCoins": 100,
+      "rewardXP": 75,
+      "rewardCoins": 25,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -63,8 +63,8 @@
       },
       "event": "quick_read.completed",
       "target": 10,
-      "rewardXP": 100,
-      "rewardCoins": 200,
+      "rewardXP": 125,
+      "rewardCoins": 40,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -86,8 +86,8 @@
       },
       "event": "quick_read.completed",
       "target": 25,
-      "rewardXP": 200,
-      "rewardCoins": 400,
+      "rewardXP": 250,
+      "rewardCoins": 75,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -110,7 +110,7 @@
       "event": "quick_read.completed",
       "target": 50,
       "rewardXP": 400,
-      "rewardCoins": 800,
+      "rewardCoins": 125,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -132,8 +132,8 @@
       },
       "event": "quick_read.completed",
       "target": 100,
-      "rewardXP": 800,
-      "rewardCoins": 1600,
+      "rewardXP": 750,
+      "rewardCoins": 200,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -156,7 +156,7 @@
       "event": "quick_read.completed",
       "target": 250,
       "rewardXP": 1500,
-      "rewardCoins": 3000,
+      "rewardCoins": 400,
       "hidden": false,
       "enabled": true,
       "version": 1

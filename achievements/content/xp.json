@@ -4,10 +4,10 @@
       "id": "xp_100",
       "order": 1,
       "title": {
-        "en": "First Experience",
-        "pt": "Primeira Experiência",
-        "es": "Primera Experiencia",
-        "fr": "Première Expérience"
+        "en": "First Steps",
+        "pt": "Primeiros Passos",
+        "es": "Primeros Pasos",
+        "fr": "Premiers Pas"
       },
       "description": {
         "en": "Earn 100 XP.",
@@ -17,8 +17,8 @@
       },
       "event": "xp.earned",
       "target": 100,
-      "rewardXP": 25,
-      "rewardCoins": 50,
+      "rewardXP": 10,
+      "rewardCoins": 10,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -40,8 +40,8 @@
       },
       "event": "xp.earned",
       "target": 500,
-      "rewardXP": 50,
-      "rewardCoins": 100,
+      "rewardXP": 25,
+      "rewardCoins": 20,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -50,10 +50,10 @@
       "id": "xp_1000",
       "order": 3,
       "title": {
-        "en": "Knowledge Apprentice",
-        "pt": "Aprendiz do Conhecimento",
-        "es": "Aprendiz del Conocimiento",
-        "fr": "Apprenti du Savoir"
+        "en": "Dedicated Learner",
+        "pt": "Aprendiz Dedicado",
+        "es": "Aprendiz Dedicado",
+        "fr": "Apprenant Dévoué"
       },
       "description": {
         "en": "Earn 1,000 XP.",
@@ -63,8 +63,8 @@
       },
       "event": "xp.earned",
       "target": 1000,
-      "rewardXP": 100,
-      "rewardCoins": 200,
+      "rewardXP": 50,
+      "rewardCoins": 30,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -73,10 +73,10 @@
       "id": "xp_2500",
       "order": 4,
       "title": {
-        "en": "Experienced Learner",
-        "pt": "Aprendiz Experiente",
-        "es": "Aprendiz Experimentado",
-        "fr": "Apprenant Expérimenté"
+        "en": "Knowledge Explorer",
+        "pt": "Explorador do Conhecimento",
+        "es": "Explorador del Conocimiento",
+        "fr": "Explorateur du Savoir"
       },
       "description": {
         "en": "Earn 2,500 XP.",
@@ -86,8 +86,8 @@
       },
       "event": "xp.earned",
       "target": 2500,
-      "rewardXP": 200,
-      "rewardCoins": 400,
+      "rewardXP": 100,
+      "rewardCoins": 50,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -96,10 +96,10 @@
       "id": "xp_5000",
       "order": 5,
       "title": {
-        "en": "Knowledge Explorer",
-        "pt": "Explorador do Conhecimento",
-        "es": "Explorador del Conocimiento",
-        "fr": "Explorateur du Savoir"
+        "en": "Knowledge Seeker",
+        "pt": "Buscador do Conhecimento",
+        "es": "Buscador del Conocimiento",
+        "fr": "Chercheur de Savoir"
       },
       "description": {
         "en": "Earn 5,000 XP.",
@@ -109,8 +109,8 @@
       },
       "event": "xp.earned",
       "target": 5000,
-      "rewardXP": 400,
-      "rewardCoins": 800,
+      "rewardXP": 175,
+      "rewardCoins": 75,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -119,10 +119,10 @@
       "id": "xp_10000",
       "order": 6,
       "title": {
-        "en": "Knowledge Master",
-        "pt": "Mestre do Conhecimento",
-        "es": "Maestro del Conocimiento",
-        "fr": "Maître du Savoir"
+        "en": "Skilled Scholar",
+        "pt": "Estudioso Experiente",
+        "es": "Estudioso Experimentado",
+        "fr": "Érudit Expérimenté"
       },
       "description": {
         "en": "Earn 10,000 XP.",
@@ -132,8 +132,8 @@
       },
       "event": "xp.earned",
       "target": 10000,
-      "rewardXP": 800,
-      "rewardCoins": 1600,
+      "rewardXP": 300,
+      "rewardCoins": 100,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -155,8 +155,8 @@
       },
       "event": "xp.earned",
       "target": 25000,
-      "rewardXP": 1500,
-      "rewardCoins": 3000,
+      "rewardXP": 500,
+      "rewardCoins": 175,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -178,8 +178,8 @@
       },
       "event": "xp.earned",
       "target": 50000,
-      "rewardXP": 2500,
-      "rewardCoins": 5000,
+      "rewardXP": 750,
+      "rewardCoins": 250,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -201,8 +201,8 @@
       },
       "event": "xp.earned",
       "target": 100000,
-      "rewardXP": 5000,
-      "rewardCoins": 10000,
+      "rewardXP": 1250,
+      "rewardCoins": 400,
       "hidden": false,
       "enabled": true,
       "version": 1

@@ -18,7 +18,7 @@
       "event": "study.time",
       "target": 10,
       "rewardXP": 10,
-      "rewardCoins": 25,
+      "rewardCoins": 5,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -40,8 +40,8 @@
       },
       "event": "study.time",
       "target": 30,
-      "rewardXP": 20,
-      "rewardCoins": 50,
+      "rewardXP": 25,
+      "rewardCoins": 10,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -64,7 +64,7 @@
       "event": "study.time",
       "target": 60,
       "rewardXP": 50,
-      "rewardCoins": 100,
+      "rewardCoins": 20,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -87,7 +87,7 @@
       "event": "study.time",
       "target": 300,
       "rewardXP": 150,
-      "rewardCoins": 300,
+      "rewardCoins": 40,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -110,7 +110,7 @@
       "event": "study.time",
       "target": 600,
       "rewardXP": 300,
-      "rewardCoins": 600,
+      "rewardCoins": 60,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -133,7 +133,7 @@
       "event": "study.time",
       "target": 1500,
       "rewardXP": 600,
-      "rewardCoins": 1200,
+      "rewardCoins": 100,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -156,7 +156,7 @@
       "event": "study.time",
       "target": 3000,
       "rewardXP": 1000,
-      "rewardCoins": 2000,
+      "rewardCoins": 150,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -179,7 +179,7 @@
       "event": "study.time",
       "target": 6000,
       "rewardXP": 1500,
-      "rewardCoins": 3000,
+      "rewardCoins": 200,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -202,7 +202,7 @@
       "event": "study.time",
       "target": 15000,
       "rewardXP": 2500,
-      "rewardCoins": 5000,
+      "rewardCoins": 300,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -225,7 +225,7 @@
       "event": "study.time",
       "target": 30000,
       "rewardXP": 4000,
-      "rewardCoins": 8000,
+      "rewardCoins": 400,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -248,7 +248,7 @@
       "event": "study.time",
       "target": 60000,
       "rewardXP": 6000,
-      "rewardCoins": 12000,
+      "rewardCoins": 500,
       "hidden": false,
       "enabled": true,
       "version": 1

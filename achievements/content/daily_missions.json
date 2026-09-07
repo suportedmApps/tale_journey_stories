@@ -17,8 +17,8 @@
       },
       "event": "daily_mission.completed",
       "target": 1,
-      "rewardXP": 20,
-      "rewardCoins": 50,
+      "rewardXP": 25,
+      "rewardCoins": 10,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -41,7 +41,7 @@
       "event": "daily_mission.completed",
       "target": 10,
       "rewardXP": 75,
-      "rewardCoins": 150,
+      "rewardCoins": 25,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -64,7 +64,7 @@
       "event": "daily_mission.completed",
       "target": 50,
       "rewardXP": 200,
-      "rewardCoins": 500,
+      "rewardCoins": 50,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -87,7 +87,7 @@
       "event": "daily_mission.completed",
       "target": 100,
       "rewardXP": 400,
-      "rewardCoins": 1000,
+      "rewardCoins": 100,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -109,8 +109,8 @@
       },
       "event": "daily_mission.completed",
       "target": 250,
-      "rewardXP": 800,
-      "rewardCoins": 2000,
+      "rewardXP": 750,
+      "rewardCoins": 200,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -133,7 +133,7 @@
       "event": "daily_mission.completed",
       "target": 500,
       "rewardXP": 1500,
-      "rewardCoins": 4000,
+      "rewardCoins": 400,
       "hidden": false,
       "enabled": true,
       "version": 1

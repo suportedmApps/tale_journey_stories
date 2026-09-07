@@ -17,8 +17,8 @@
       },
       "event": "streak.updated",
       "target": 1,
-      "rewardXP": 20,
-      "rewardCoins": 50,
+      "rewardXP": 25,
+      "rewardCoins": 5,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -41,7 +41,7 @@
       "event": "streak.updated",
       "target": 3,
       "rewardXP": 50,
-      "rewardCoins": 100,
+      "rewardCoins": 10,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -64,7 +64,7 @@
       "event": "streak.updated",
       "target": 7,
       "rewardXP": 100,
-      "rewardCoins": 200,
+      "rewardCoins": 20,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -87,7 +87,7 @@
       "event": "streak.updated",
       "target": 14,
       "rewardXP": 200,
-      "rewardCoins": 400,
+      "rewardCoins": 35,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -110,7 +110,7 @@
       "event": "streak.updated",
       "target": 30,
       "rewardXP": 400,
-      "rewardCoins": 800,
+      "rewardCoins": 60,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -133,7 +133,7 @@
       "event": "streak.updated",
       "target": 50,
       "rewardXP": 600,
-      "rewardCoins": 1200,
+      "rewardCoins": 80,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -156,7 +156,7 @@
       "event": "streak.updated",
       "target": 100,
       "rewardXP": 1000,
-      "rewardCoins": 2000,
+      "rewardCoins": 120,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -179,7 +179,7 @@
       "event": "streak.updated",
       "target": 180,
       "rewardXP": 1500,
-      "rewardCoins": 3000,
+      "rewardCoins": 180,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -202,7 +202,7 @@
       "event": "streak.updated",
       "target": 365,
       "rewardXP": 2500,
-      "rewardCoins": 5000,
+      "rewardCoins": 250,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -225,7 +225,7 @@
       "event": "streak.updated",
       "target": 500,
       "rewardXP": 3500,
-      "rewardCoins": 7000,
+      "rewardCoins": 300,
       "hidden": false,
       "enabled": true,
       "version": 1
@@ -248,7 +248,7 @@
       "event": "streak.updated",
       "target": 1000,
       "rewardXP": 5000,
-      "rewardCoins": 10000,
+      "rewardCoins": 500,
       "hidden": false,
       "enabled": true,
       "version": 1
