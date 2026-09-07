@@ -1,6 +1,6 @@
 [
   {
-    "id": "halloween_2026",
+    "id": "halloween",
     "title": {
       "en": "Halloween Reading Night",
       "pt": "Noite de Leitura de Halloween",
@@ -16,7 +16,28 @@
     "icon": "🎃",
     "startDate": "2026-08-15T00:00:00",
     "endDate": "2026-11-01T23:59:59",
-    "missionFile": "halloween_2026.json",
+    "missionFile": "halloween.json",
+    "enabled": true,
+    "version": 1
+  },
+  {
+    "id": "christmas",
+    "title": {
+      "en": "Christmas Reading Journey",
+      "pt": "Jornada de Leitura de Natal",
+      "es": "Viaje de Lectura Navideña",
+      "fr": "Voyage de Lecture de Noël"
+    },
+    "description": {
+      "en": "Complete special Christmas missions and earn festive rewards.",
+      "pt": "Conclua missões especiais de Natal e ganhe recompensas festivas.",
+      "es": "Completa misiones especiales de Navidad y gana recompensas festivas.",
+      "fr": "Terminez des missions spéciales de Noël et gagnez des récompenses festives."
+    },
+    "icon": "🎄",
+    "startDate": "2026-12-01T00:00:00",
+    "endDate": "2026-12-31T23:59:59",
+    "missionFile": "christmas.json",
     "enabled": true,
     "version": 1
   }

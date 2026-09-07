@@ -17,8 +17,8 @@
     "icon": "📖",
     "event": "study.time",
     "target": 10,
-    "rewardXP": 30,
-    "rewardCoins": 20,
+    "rewardXP": 15,
+    "rewardCoins": 5,
     "enabled": true,
     "version": 1
   },
@@ -40,8 +40,8 @@
     "icon": "📚",
     "event": "study.time",
     "target": 20,
-    "rewardXP": 50,
-    "rewardCoins": 35,
+    "rewardXP": 25,
+    "rewardCoins": 10,
     "enabled": true,
     "version": 1
   },
@@ -63,8 +63,8 @@
     "icon": "⚡",
     "event": "quick_read.completed",
     "target": 1,
-    "rewardXP": 40,
-    "rewardCoins": 25,
+    "rewardXP": 20,
+    "rewardCoins": 5,
     "enabled": true,
     "version": 1
   },
@@ -86,8 +86,8 @@
     "icon": "📚",
     "event": "word.saved",
     "target": 5,
-    "rewardXP": 35,
-    "rewardCoins": 25,
+    "rewardXP": 20,
+    "rewardCoins": 5,
     "enabled": true,
     "version": 1
   },
@@ -109,8 +109,8 @@
     "icon": "🔄",
     "event": "review.completed",
     "target": 1,
-    "rewardXP": 40,
-    "rewardCoins": 30,
+    "rewardXP": 20,
+    "rewardCoins": 5,
     "enabled": true,
     "version": 1
   },
@@ -132,8 +132,8 @@
     "icon": "📜",
     "event": "story.chapter.completed",
     "target": 1,
-    "rewardXP": 45,
-    "rewardCoins": 30,
+    "rewardXP": 25,
+    "rewardCoins": 8,
     "enabled": true,
     "version": 1
   },
@@ -155,8 +155,8 @@
     "icon": "⭐",
     "event": "xp.earned",
     "target": 100,
-    "rewardXP": 30,
-    "rewardCoins": 25,
+    "rewardXP": 15,
+    "rewardCoins": 7,
     "enabled": true,
     "version": 1
   },
@@ -178,8 +178,8 @@
     "icon": "🔥",
     "event": "reading.day_completed",
     "target": 1,
-    "rewardXP": 35,
-    "rewardCoins": 30,
+    "rewardXP": 10,
+    "rewardCoins": 5,
     "enabled": true,
     "version": 1
   }

@@ -1,0 +1,186 @@
+[
+  {
+    "id": "christmas_read_15",
+    "order": 1,
+    "title": {
+      "en": "First Snowflake",
+      "pt": "Primeiro Floco de Neve",
+      "es": "Primer Copo de Nieve",
+      "fr": "Premier Flocon de Neige"
+    },
+    "description": {
+      "en": "Read for 15 minutes during the Christmas event.",
+      "pt": "Leia por 15 minutos durante o evento de Natal.",
+      "es": "Lee durante 15 minutos durante el evento de Navidad.",
+      "fr": "Lisez pendant 15 minutes durant l'événement de Noël."
+    },
+    "icon": "❄️",
+    "event": "study.time",
+    "target": 15,
+    "rewardXP": 30,
+    "rewardCoins": 10,
+    "enabled": true,
+    "version": 1
+  },
+  {
+    "id": "christmas_read_60",
+    "order": 2,
+    "title": {
+      "en": "Cozy Reader",
+      "pt": "Leitor Aconchegante",
+      "es": "Lector Acogedor",
+      "fr": "Lecteur Confortable"
+    },
+    "description": {
+      "en": "Read for 60 minutes during the Christmas event.",
+      "pt": "Leia por 60 minutos durante o evento de Natal.",
+      "es": "Lee durante 60 minutos durante el evento de Navidad.",
+      "fr": "Lisez pendant 60 minutes durant l'événement de Noël."
+    },
+    "icon": "☕",
+    "event": "study.time",
+    "target": 60,
+    "rewardXP": 75,
+    "rewardCoins": 20,
+    "enabled": true,
+    "version": 1
+  },
+  {
+    "id": "christmas_read_180",
+    "order": 3,
+    "title": {
+      "en": "Holiday Bookworm",
+      "pt": "Leitor Natalino",
+      "es": "Ratón de Biblioteca Navideño",
+      "fr": "Rat de Bibliothèque de Noël"
+    },
+    "description": {
+      "en": "Read for 180 minutes during the Christmas event.",
+      "pt": "Leia por 180 minutos durante o evento de Natal.",
+      "es": "Lee durante 180 minutos durante el evento de Navidad.",
+      "fr": "Lisez pendant 180 minutes durant l'événement de Noël."
+    },
+    "icon": "📚",
+    "event": "study.time",
+    "target": 180,
+    "rewardXP": 150,
+    "rewardCoins": 40,
+    "enabled": true,
+    "version": 1
+  },
+  {
+    "id": "christmas_story_chapters_5",
+    "order": 4,
+    "title": {
+      "en": "Christmas Tales",
+      "pt": "Contos de Natal",
+      "es": "Cuentos de Navidad",
+      "fr": "Contes de Noël"
+    },
+    "description": {
+      "en": "Complete 5 story chapters during the Christmas event.",
+      "pt": "Conclua 5 capítulos de histórias durante o evento de Natal.",
+      "es": "Completa 5 capítulos de historias durante el evento de Navidad.",
+      "fr": "Terminez 5 chapitres d'histoires durant l'événement de Noël."
+    },
+    "icon": "🎁",
+    "event": "story.chapter.completed",
+    "target": 5,
+    "rewardXP": 100,
+    "rewardCoins": 25,
+    "enabled": true,
+    "version": 1
+  },
+  {
+    "id": "christmas_quick_reads_5",
+    "order": 5,
+    "title": {
+      "en": "Holiday Sprint",
+      "pt": "Leitura Festiva",
+      "es": "Lectura Festiva",
+      "fr": "Lecture Festive"
+    },
+    "description": {
+      "en": "Complete 5 Quick Reads during the Christmas event.",
+      "pt": "Conclua 5 Quick Reads durante o evento de Natal.",
+      "es": "Completa 5 Quick Reads durante el evento de Navidad.",
+      "fr": "Terminez 5 Quick Reads durant l'événement de Noël."
+    },
+    "icon": "⚡",
+    "event": "quick_read.completed",
+    "target": 5,
+    "rewardXP": 100,
+    "rewardCoins": 25,
+    "enabled": true,
+    "version": 1
+  },
+  {
+    "id": "christmas_flashcards_10",
+    "order": 6,
+    "title": {
+      "en": "Gift of Knowledge",
+      "pt": "Presente do Conhecimento",
+      "es": "Regalo del Conocimiento",
+      "fr": "Cadeau de la Connaissance"
+    },
+    "description": {
+      "en": "Complete 10 flashcard sessions during the Christmas event.",
+      "pt": "Complete 10 sessões de flashcards durante o evento de Natal.",
+      "es": "Completa 10 sesiones de flashcards durante el evento de Navidad.",
+      "fr": "Terminez 10 sessions de flashcards durant l'événement de Noël."
+    },
+    "icon": "🧠",
+    "event": "review.completed",
+    "target": 10,
+    "rewardXP": 125,
+    "rewardCoins": 30,
+    "enabled": true,
+    "version": 1
+  },
+  {
+    "id": "christmas_reading_days_10",
+    "order": 7,
+    "title": {
+      "en": "Holiday Spirit",
+      "pt": "Espírito Natalino",
+      "es": "Espíritu Navideño",
+      "fr": "Esprit de Noël"
+    },
+    "description": {
+      "en": "Read on 10 different days during the Christmas event.",
+      "pt": "Leia em 10 dias diferentes durante o evento de Natal.",
+      "es": "Lee en 10 días diferentes durante el evento de Navidad.",
+      "fr": "Lisez pendant 10 jours différents durant l'événement de Noël."
+    },
+    "icon": "✨",
+    "event": "reading.day_completed",
+    "target": 10,
+    "rewardXP": 150,
+    "rewardCoins": 40,
+    "enabled": true,
+    "version": 1
+  },
+  {
+    "id": "christmas_reading_days_20",
+    "order": 8,
+    "title": {
+      "en": "Christmas Champion",
+      "pt": "Campeão do Natal",
+      "es": "Campeón de Navidad",
+      "fr": "Champion de Noël"
+    },
+    "description": {
+      "en": "Read on 20 different days during the Christmas event.",
+      "pt": "Leia em 20 dias diferentes durante o evento de Natal.",
+      "es": "Lee en 20 días diferentes durante el evento de Navidad.",
+      "fr": "Lisez pendant 20 jours différents durant l'événement de Noël."
+    },
+    "icon": "🏆",
+    "event": "reading.day_completed",
+    "target": 20,
+    "rewardXP": 250,
+    "rewardCoins": 60,
+    "enabled": true,
+    "version": 1
+  }
+]

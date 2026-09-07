@@ -1,0 +1,186 @@
+[
+  {
+    "id": "halloween_read_15",
+    "order": 1,
+    "title": {
+      "en": "First Pumpkin",
+      "pt": "Primeira Abóbora",
+      "es": "Primera Calabaza",
+      "fr": "Première Citrouille"
+    },
+    "description": {
+      "en": "Read for 15 minutes during the Halloween event.",
+      "pt": "Leia por 15 minutos durante o evento de Halloween.",
+      "es": "Lee durante 15 minutos durante el evento de Halloween.",
+      "fr": "Lisez pendant 15 minutes durant l'événement d'Halloween."
+    },
+    "icon": "🎃",
+    "event": "study.time",
+    "target": 15,
+    "rewardXP": 30,
+    "rewardCoins": 10,
+    "enabled": true,
+    "version": 1
+  },
+  {
+    "id": "halloween_read_60",
+    "order": 2,
+    "title": {
+      "en": "Spooky Reader",
+      "pt": "Leitor Assustador",
+      "es": "Lector Espeluznante",
+      "fr": "Lecteur Effrayant"
+    },
+    "description": {
+      "en": "Read for 60 minutes during the Halloween event.",
+      "pt": "Leia por 60 minutos durante o evento de Halloween.",
+      "es": "Lee durante 60 minutos durante el evento de Halloween.",
+      "fr": "Lisez pendant 60 minutes durant l'événement d'Halloween."
+    },
+    "icon": "👻",
+    "event": "study.time",
+    "target": 60,
+    "rewardXP": 75,
+    "rewardCoins": 20,
+    "enabled": true,
+    "version": 1
+  },
+  {
+    "id": "halloween_read_180",
+    "order": 3,
+    "title": {
+      "en": "Night Owl",
+      "pt": "Coruja Noturna",
+      "es": "Búho Nocturno",
+      "fr": "Hibou Nocturne"
+    },
+    "description": {
+      "en": "Read for 180 minutes during the Halloween event.",
+      "pt": "Leia por 180 minutos durante o evento de Halloween.",
+      "es": "Lee durante 180 minutos durante el evento de Halloween.",
+      "fr": "Lisez pendant 180 minutes durant l'événement d'Halloween."
+    },
+    "icon": "🦇",
+    "event": "study.time",
+    "target": 180,
+    "rewardXP": 150,
+    "rewardCoins": 40,
+    "enabled": true,
+    "version": 1
+  },
+  {
+    "id": "halloween_story_chapters_5",
+    "order": 4,
+    "title": {
+      "en": "Haunted Chapters",
+      "pt": "Capítulos Assombrados",
+      "es": "Capítulos Embrujados",
+      "fr": "Chapitres Hantés"
+    },
+    "description": {
+      "en": "Complete 5 story chapters during the Halloween event.",
+      "pt": "Conclua 5 capítulos de histórias durante o evento de Halloween.",
+      "es": "Completa 5 capítulos de historias durante el evento de Halloween.",
+      "fr": "Terminez 5 chapitres d'histoires durant l'événement d'Halloween."
+    },
+    "icon": "📖",
+    "event": "story.chapter.completed",
+    "target": 5,
+    "rewardXP": 100,
+    "rewardCoins": 25,
+    "enabled": true,
+    "version": 1
+  },
+  {
+    "id": "halloween_quick_reads_5",
+    "order": 5,
+    "title": {
+      "en": "Trick or Read",
+      "pt": "Travessura ou Leitura",
+      "es": "Truco o Lectura",
+      "fr": "Des Bonbons ou des Livres"
+    },
+    "description": {
+      "en": "Complete 5 Quick Reads during the Halloween event.",
+      "pt": "Conclua 5 Quick Reads durante o evento de Halloween.",
+      "es": "Completa 5 Quick Reads durante el evento de Halloween.",
+      "fr": "Terminez 5 Quick Reads durant l'événement d'Halloween."
+    },
+    "icon": "⚡",
+    "event": "quick_read.completed",
+    "target": 5,
+    "rewardXP": 100,
+    "rewardCoins": 25,
+    "enabled": true,
+    "version": 1
+  },
+  {
+    "id": "halloween_flashcards_10",
+    "order": 6,
+    "title": {
+      "en": "Monster Memory",
+      "pt": "Memória Monstruosa",
+      "es": "Memoria Monstruosa",
+      "fr": "Mémoire Monstrueuse"
+    },
+    "description": {
+      "en": "Complete 10 flashcard sessions during the Halloween event.",
+      "pt": "Complete 10 sessões de flashcards durante o evento de Halloween.",
+      "es": "Completa 10 sesiones de flashcards durante el evento de Halloween.",
+      "fr": "Terminez 10 sessions de flashcards durant l'événement d'Halloween."
+    },
+    "icon": "🧠",
+    "event": "review.completed",
+    "target": 10,
+    "rewardXP": 125,
+    "rewardCoins": 30,
+    "enabled": true,
+    "version": 1
+  },
+  {
+    "id": "halloween_reading_days_10",
+    "order": 7,
+    "title": {
+      "en": "Halloween Streak",
+      "pt": "Sequência de Halloween",
+      "es": "Racha de Halloween",
+      "fr": "Série d'Halloween"
+    },
+    "description": {
+      "en": "Read on 10 different days during the Halloween event.",
+      "pt": "Leia em 10 dias diferentes durante o evento de Halloween.",
+      "es": "Lee en 10 días diferentes durante el evento de Halloween.",
+      "fr": "Lisez pendant 10 jours différents durant l'événement d'Halloween."
+    },
+    "icon": "🔥",
+    "event": "reading.day_completed",
+    "target": 10,
+    "rewardXP": 150,
+    "rewardCoins": 40,
+    "enabled": true,
+    "version": 1
+  },
+  {
+    "id": "halloween_reading_days_20",
+    "order": 8,
+    "title": {
+      "en": "Halloween Master",
+      "pt": "Mestre do Halloween",
+      "es": "Maestro de Halloween",
+      "fr": "Maître d'Halloween"
+    },
+    "description": {
+      "en": "Read on 20 different days during the Halloween event.",
+      "pt": "Leia em 20 dias diferentes durante o evento de Halloween.",
+      "es": "Lee en 20 días diferentes durante el evento de Halloween.",
+      "fr": "Lisez pendant 20 jours différents durant l'événement d'Halloween."
+    },
+    "icon": "🏆",
+    "event": "reading.day_completed",
+    "target": 20,
+    "rewardXP": 250,
+    "rewardCoins": 60,
+    "enabled": true,
+    "version": 1
+  }
+]
