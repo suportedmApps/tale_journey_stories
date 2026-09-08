@@ -1,0 +1,26 @@
+[
+  {
+    "id": "qr_02101_en",
+    "title": "The Halloween Party",
+    "category": "Halloween",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_02102_en",
+    "title": "The Halloween Mystery at Willow House",
+    "category": "Halloween",
+    "level": "Intermediate",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_02103_en",
+    "title": "The House That Never Slept",
+    "category": "Halloween",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  }
+]

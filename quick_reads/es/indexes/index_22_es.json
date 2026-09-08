@@ -1,0 +1,26 @@
+[
+  {
+    "id": "qr_02201_es",
+    "title": "Una Mañana de Navidad Especial",
+    "category": "Christmas",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_02202_es",
+    "title": "Recuerdos de Navidad",
+    "category": "Christmas",
+    "level": "Intermediate",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_02203_es",
+    "title": "La Promesa de Navidad",
+    "category": "Christmas",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  }
+]

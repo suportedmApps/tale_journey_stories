@@ -120,6 +120,18 @@
       "name": "Sports",
       "version": 1,
       "last_updated": "2026-07-13T10:30:00Z"
+    },
+    {
+      "id": "21_en",
+      "name": "Halloween",
+      "version": 1,
+      "last_updated": "2026-07-13T10:30:00Z"
+    },
+    {
+      "id": "22_en",
+      "name": "Christmas",
+      "version": 1,
+      "last_updated": "2026-07-13T10:30:00Z"
     }
   ]
 }

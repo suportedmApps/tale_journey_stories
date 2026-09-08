@@ -1,0 +1,26 @@
+[
+  {
+    "id": "qr_02101_pt",
+    "title": "A Festa de Halloween",
+    "category": "Halloween",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_02102_pt",
+    "title": "O Mistério de Halloween na Casa Willow",
+    "category": "Halloween",
+    "level": "Intermediate",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_02103_pt",
+    "title": "A Casa Que Nunca Dormia",
+    "category": "Halloween",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  }
+]

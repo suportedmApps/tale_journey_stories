@@ -1,0 +1,26 @@
+[
+  {
+    "id": "qr_02201_fr",
+    "title": "Un Matin de Noël Spécial",
+    "category": "Christmas",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_02202_fr",
+    "title": "Souvenirs de Noël",
+    "category": "Christmas",
+    "level": "Intermediate",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_02203_fr",
+    "title": "La Promesse de Noël",
+    "category": "Christmas",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  }
+]

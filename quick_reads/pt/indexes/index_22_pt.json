@@ -1,0 +1,26 @@
+[
+  {
+    "id": "qr_02201_pt",
+    "title": "Uma Manhã de Natal Especial",
+    "category": "Christmas",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_02202_pt",
+    "title": "Memórias de Natal",
+    "category": "Christmas",
+    "level": "Intermediate",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_02203_pt",
+    "title": "A Promessa de Natal",
+    "category": "Christmas",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  }
+]

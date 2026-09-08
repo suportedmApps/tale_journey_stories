@@ -1,0 +1,26 @@
+[
+  {
+    "id": "qr_02101_fr",
+    "title": "La Fête d'Halloween",
+    "category": "Halloween",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_02102_fr",
+    "title": "Le Mystère d'Halloween de la Maison Willow",
+    "category": "Halloween",
+    "level": "Intermediate",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_02103_fr",
+    "title": "La Maison Qui Ne Dormait Jamais",
+    "category": "Halloween",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  }
+]
