@@ -14,5 +14,13 @@
     "level": "Beginner",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00503_fr",
+    "title": "Le Bon Moment",
+    "category": "Romance",
+    "level": "Intermediate",
+    "isPremium": false,
+    "version": 1
   }
 ]

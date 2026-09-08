@@ -2,7 +2,7 @@
   {
     "id": "qr_00501_en",
     "title": "A Love for Every Season",
-    "category": "Love",
+    "category": "Romance",
     "level": "Beginner",
     "isPremium": false,
     "version": 1
@@ -12,6 +12,14 @@
     "title": "The Day We Became Family",
     "category": "Romance",
     "level": "Beginner",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00503_en",
+    "title": "The Right Time",
+    "category": "Romance",
+    "level": "Intermediate",
     "isPremium": false,
     "version": 1
   }

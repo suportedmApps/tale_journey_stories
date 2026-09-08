@@ -14,5 +14,13 @@
     "level": "Beginner",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_01103_es",
+    "title": "Un Día de Bienestar",
+    "category": "Health & Wellness",
+    "level": "Intermediate",
+    "isPremium": false,
+    "version": 1
   }
 ]

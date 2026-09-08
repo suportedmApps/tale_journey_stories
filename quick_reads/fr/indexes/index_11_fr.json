@@ -14,5 +14,13 @@
     "level": "Beginner",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_01103_fr",
+    "title": "Une Journée de Bien-Être",
+    "category": "Health & Wellness",
+    "level": "Intermediate",
+    "isPremium": false,
+    "version": 1
   }
 ]

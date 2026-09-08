@@ -6,5 +6,13 @@
     "level": "Beginner",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_01502_fr",
+    "title": "La Maison Qui Attendait",
+    "category": "Horror",
+    "level": "Intermediate",
+    "isPremium": false,
+    "version": 1
   }
 ]

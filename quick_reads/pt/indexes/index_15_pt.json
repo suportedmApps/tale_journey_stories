@@ -6,5 +6,13 @@
     "level": "Beginner",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_01502_pt",
+    "title": "A Casa Que Esperava",
+    "category": "Horror",
+    "level": "Intermediate",
+    "isPremium": false,
+    "version": 1
   }
 ]

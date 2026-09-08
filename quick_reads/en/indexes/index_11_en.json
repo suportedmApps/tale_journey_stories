@@ -14,5 +14,13 @@
     "level": "Beginner",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_01103_en",
+    "title": "A Day of Wellness",
+    "category": "Health & Wellness",
+    "level": "Intermediate",
+    "isPremium": false,
+    "version": 1
   }
 ]

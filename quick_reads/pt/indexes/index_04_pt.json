@@ -6,5 +6,13 @@
     "level": "Beginner",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00402_pt",
+    "title": "O Mistério do Quarto Trancado",
+    "category": "Mystery",
+    "level": "Intermediate",
+    "isPremium": false,
+    "version": 1
   }
 ]

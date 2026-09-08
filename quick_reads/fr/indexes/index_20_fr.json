@@ -6,5 +6,13 @@
     "level": "Beginner",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_02002_fr",
+    "title": "L'Héritage d'Ayrton Senna",
+    "category": "Sports",
+    "level": "Intermediate",
+    "isPremium": false,
+    "version": 1
   }
 ]

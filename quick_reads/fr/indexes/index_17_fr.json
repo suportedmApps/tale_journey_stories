@@ -6,5 +6,13 @@
     "level": "Beginner",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_01702_fr",
+    "title": "Apprendre Ensemble",
+    "category": "Education",
+    "level": "Intermediate",
+    "isPremium": false,
+    "version": 1
   }
 ]

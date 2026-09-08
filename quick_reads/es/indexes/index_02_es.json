@@ -14,5 +14,13 @@
     "level": "Beginner",
     "isPremium": true,
     "version": 1
+  },
+  {
+    "id": "qr_00107_es",
+    "title": "El Viaje Inesperado",
+    "category": "Travel",
+    "level": "Intermediate",
+    "isPremium": false,
+    "version": 1
   }
 ]

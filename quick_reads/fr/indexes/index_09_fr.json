@@ -14,5 +14,13 @@
     "level": "Beginner",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00903_fr",
+    "title": "La Préparation de la Grande Conférence",
+    "category": "Business",
+    "level": "Intermediate",
+    "isPremium": false,
+    "version": 1
   }
 ]

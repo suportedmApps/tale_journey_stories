@@ -14,5 +14,13 @@
     "level": "Beginner",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00503_pt",
+    "title": "O Momento Certo",
+    "category": "Romance",
+    "level": "Intermediate",
+    "isPremium": false,
+    "version": 1
   }
 ]

@@ -46,5 +46,13 @@
     "level": "Beginner",
     "isPremium": true,
     "version": 1
+  },
+  {
+    "id": "qr_00107_en",
+    "title": "The Unexpected Journey",
+    "category": "Travel",
+    "level": "Intermediate",
+    "isPremium": false,
+    "version": 1
   }
 ]
