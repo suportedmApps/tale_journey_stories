@@ -1,0 +1,14 @@
+[
+  {
+    "id": "s_00201_en",
+    "title": "The House Beyond the Fog",
+    "category": "Halloween",
+    "level": "Beginner",
+    "status": "ongoing",
+    "coverImage": "stories/s_00201_cover.webp",
+    "availableChapters": 5,
+    "publishedAt": "2026-09-09",
+    "isPremium": false,
+    "version": 1
+  }
+]

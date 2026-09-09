@@ -1,11 +1,17 @@
 {
-  "version": 5,
+  "version": 1,
   "indexes": [
     {
       "id": "01_pt",
       "name": "S001",
       "version": 5,
       "last_updated": "2026-08-12T12:30:00Z"
+    },
+    {
+      "id": "21_pt",
+      "name": "Halloween",
+      "version": 1,
+      "last_updated": "2026-09-09T10:30:00Z"
     }
   ]
 }
