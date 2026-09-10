@@ -1,0 +1,26 @@
+[
+  {
+    "id": "b_1342_en",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "category": "Classic Literature",
+    "level": "Intermediate",
+    "coverImage": "https://...",
+    "availableChapters": 61,
+    "publishedAt": "2026-08-31",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "b_11_fr",
+    "title": "Les aventures d'Alice au pays des merveilles",
+    "author": "Lewis Carroll",
+    "category": "Fantasy",
+    "level": "Beginner",
+    "coverImage": "b_11_fr.webp",
+    "availableChapters": 12,
+    "publishedAt": "2026-08-31",
+    "isPremium": false,
+    "version": 1
+  }
+]

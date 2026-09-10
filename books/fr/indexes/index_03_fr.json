@@ -1,0 +1,14 @@
+[
+  {
+    "id": "b_2701_en",
+    "title": "Moby Dick; Or, The Whale",
+    "author": "Herman Melville",
+    "category": "Adventure",
+    "level": "Advanced",
+    "coverImage": "https://www.gutenberg.org/cache/epub/2701/pg2701.cover.medium.jpg",
+    "availableChapters": 135,
+    "publishedAt": "2026-08-31",
+    "isPremium": false,
+    "version": 1
+  }
+]
