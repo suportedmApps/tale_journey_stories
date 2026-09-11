@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_01403_fr",
+    "title": "L'affaire qui aurait dû être classée",
+    "category": "Crime & Detective",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_01404_fr",
+    "title": "Le réveil disparu",
+    "category": "Crime & Detective",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

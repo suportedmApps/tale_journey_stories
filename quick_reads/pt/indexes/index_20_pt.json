@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_02003_pt",
+    "title": "O último rally",
+    "category": "Sports",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_02004_pt",
+    "title": "Uma Breve História do Atletismo",
+    "category": "Sports",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

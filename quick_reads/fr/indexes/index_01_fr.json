@@ -86,5 +86,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00012_fr",
+    "title": "Les Choses Que Nous Ferions Différemment",
+    "category": "Daily Life",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00013_fr",
+    "title": "Un matin à la maison",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

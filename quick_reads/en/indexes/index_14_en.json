@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_01403_en",
+    "title": "The Case That Should Have Been Closed",
+    "category": "Crime & Detective",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_01404_en",
+    "title": "The Missing Alarm Clock",
+    "category": "Crime & Detective",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

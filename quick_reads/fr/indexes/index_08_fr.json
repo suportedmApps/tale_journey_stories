@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00803_fr",
+    "title": "La Publication Qui A Tout Changé",
+    "category": "Social Media & Modern Life",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00804_fr",
+    "title": "Le nouveau sac",
+    "category": "Social Media & Modern Life",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

@@ -22,5 +22,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00904_es",
+    "title": "El costo de la expansión",
+    "category": "Business",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00905_es",
+    "title": "Una idea muy buena",
+    "category": "Business",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00603_en",
+    "title": "The Recipe That Crossed an Ocean",
+    "category": "Food & Cooking",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00604_en",
+    "title": "Dinner for Two",
+    "category": "Food & Cooking",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

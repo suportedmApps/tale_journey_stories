@@ -22,5 +22,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_01104_pt",
+    "title": "Um Dia para Mim",
+    "category": "Health & Wellness",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_01105_pt",
+    "title": "A Disciplina Silenciosa",
+    "category": "Health & Wellness",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
   }
 ]

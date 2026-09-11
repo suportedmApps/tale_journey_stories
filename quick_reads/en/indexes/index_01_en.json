@@ -86,5 +86,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00012_en",
+    "title": "The Things We Would Do Differently",
+    "category": "Daily Life",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00013_en",
+    "title": "A Morning at Home",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

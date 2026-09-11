@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00703_es",
+    "title": "El Valle Que Debimos Haber Dejado",
+    "category": "Adventure",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00704_es",
+    "title": "El camino del arquero",
+    "category": "Adventure",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

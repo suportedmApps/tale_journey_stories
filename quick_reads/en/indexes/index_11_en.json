@@ -22,5 +22,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_01104_en",
+    "title": "A Day for Myself",
+    "category": "Health & Wellness",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_01105_en",
+    "title": "The Quiet Discipline",
+    "category": "Health & Wellness",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
   }
 ]

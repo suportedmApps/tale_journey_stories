@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_01003_fr",
+    "title": "La vérité inconfortable",
+    "category": "Dialogues",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_01004_fr",
+    "title": "Achats pour l'école",
+    "category": "Dialogues",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

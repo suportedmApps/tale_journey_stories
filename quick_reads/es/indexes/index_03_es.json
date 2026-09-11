@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00303_es",
+    "title": "El Sistema Que Debería Haber Funcionado",
+    "category": "Technology",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00304_es",
+    "title": "El robot servicial",
+    "category": "Technology",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

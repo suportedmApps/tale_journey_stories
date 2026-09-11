@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00703_fr",
+    "title": "La Vall Que Nous Aurions Dû Quitter",
+    "category": "Adventure",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00704_fr",
+    "title": "Le chemin de l'archer",
+    "category": "Adventure",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

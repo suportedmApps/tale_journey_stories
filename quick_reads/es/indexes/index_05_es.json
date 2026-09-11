@@ -22,5 +22,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00504_es",
+    "title": "Para Cuando Nos Volvamos a Encontrar",
+    "category": "Romance",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00505_es",
+    "title": "Un amor en el aeropuerto",
+    "category": "Romance",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

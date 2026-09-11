@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_01503_fr",
+    "title": "La vie derrière l'écran",
+    "category": "Horror",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_01504_fr",
+    "title": "Le miroir dans le noir",
+    "category": "Horror",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

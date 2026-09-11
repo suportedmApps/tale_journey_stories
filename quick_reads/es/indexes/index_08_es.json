@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00803_es",
+    "title": "La Publicación Que Lo Cambió Todo",
+    "category": "Social Media & Modern Life",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00804_es",
+    "title": "El bolso nuevo",
+    "category": "Social Media & Modern Life",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

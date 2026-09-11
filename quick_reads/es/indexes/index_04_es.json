@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00403_es",
+    "title": "La Habitación al Final del Pasillo",
+    "category": "Mystery",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00404_es",
+    "title": "El anillo perdido",
+    "category": "Mystery",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

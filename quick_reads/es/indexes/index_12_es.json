@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_01203_es",
+    "title": "René Descartes y la certeza del pensamiento",
+    "category": "Philosophy & Reflection",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_01204_es",
+    "title": "Aristóteles: Una vida de conocimiento",
+    "category": "Philosophy & Reflection",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00303_en",
+    "title": "The System That Should Have Worked",
+    "category": "Technology",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00304_en",
+    "title": "The Helpful Robot",
+    "category": "Technology",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

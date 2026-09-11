@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_01403_es",
+    "title": "El caso que debería haber sido cerrado",
+    "category": "Crime & Detective",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_01404_es",
+    "title": "El despertador desaparecido",
+    "category": "Crime & Detective",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

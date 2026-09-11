@@ -22,5 +22,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00504_fr",
+    "title": "Lorsque Nous Nous Retrouverons",
+    "category": "Romance",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00505_fr",
+    "title": "Un amour à l'aéroport",
+    "category": "Romance",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

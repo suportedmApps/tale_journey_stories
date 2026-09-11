@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_01503_en",
+    "title": "The Life Behind the Screen",
+    "category": "Horror",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_01504_en",
+    "title": "The Mirror in the Dark",
+    "category": "Horror",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

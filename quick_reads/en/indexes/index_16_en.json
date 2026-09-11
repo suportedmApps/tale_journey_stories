@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_01603_en",
+    "title": "The Kingdom Beyond the Mist",
+    "category": "Fantasy",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_01604_en",
+    "title": "The True Love's Kiss",
+    "category": "Fantasy",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

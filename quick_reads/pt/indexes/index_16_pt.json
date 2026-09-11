@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_01603_pt",
+    "title": "O reino além da névoa",
+    "category": "Fantasy",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_01604_pt",
+    "title": "O Beijo do Verdadeiro Amor",
+    "category": "Fantasy",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

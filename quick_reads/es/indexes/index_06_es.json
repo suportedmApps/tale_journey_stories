@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00603_es",
+    "title": "La Receta Que Cruzó un Océano",
+    "category": "Food & Cooking",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00604_es",
+    "title": "Cena para dos",
+    "category": "Food & Cooking",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

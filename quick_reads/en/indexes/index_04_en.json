@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00403_en",
+    "title": "The Room at the End of the Hall",
+    "category": "Mystery",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00404_en",
+    "title": "The Missing Ring",
+    "category": "Mystery",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00303_fr",
+    "title": "Le Système Qui Aurait Dû Fonctionner",
+    "category": "Technology",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00304_fr",
+    "title": "Le robot serviable",
+    "category": "Technology",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

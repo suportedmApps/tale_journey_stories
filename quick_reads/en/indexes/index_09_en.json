@@ -22,5 +22,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00904_en",
+    "title": "The Cost of Expansion",
+    "category": "Business",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00905_en",
+    "title": "A Very Good Idea",
+    "category": "Business",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_01903_pt",
+    "title": "Leonardo da Vinci: A mente que se recusava a ter uma única disciplina",
+    "category": "History",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_01904_pt",
+    "title": "Beethoven: Um Grande Compositor",
+    "category": "History",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00703_pt",
+    "title": "O Vale Que Deveríamos Ter Deixado",
+    "category": "Adventure",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00704_pt",
+    "title": "O Caminho do Arqueiro",
+    "category": "Adventure",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

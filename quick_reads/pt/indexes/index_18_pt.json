@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_01803_pt",
+    "title": "A última transmissão",
+    "category": "Science Fiction",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_01804_pt",
+    "title": "Os Fones de Ouvido de Marte",
+    "category": "Science Fiction",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

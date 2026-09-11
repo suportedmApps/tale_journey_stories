@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00403_fr",
+    "title": "La Pièce au Bout du Couloir",
+    "category": "Mystery",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00404_fr",
+    "title": "La bague disparue",
+    "category": "Mystery",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

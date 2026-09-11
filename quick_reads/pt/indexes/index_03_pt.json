@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00303_pt",
+    "title": "O Sistema Que Deveria Ter Funcionado",
+    "category": "Technology",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00304_pt",
+    "title": "O Robô Prestativo",
+    "category": "Technology",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

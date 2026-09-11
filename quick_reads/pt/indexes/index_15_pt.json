@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_01503_pt",
+    "title": "A vida por trás da tela",
+    "category": "Horror",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_01504_pt",
+    "title": "O Espelho no Escuro",
+    "category": "Horror",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

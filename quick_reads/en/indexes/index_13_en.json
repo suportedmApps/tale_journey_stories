@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_01303_en",
+    "title": "The Ocean Beneath the Surface",
+    "category": "Nature",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_01304_en",
+    "title": "The Parts of a Tree",
+    "category": "Nature",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

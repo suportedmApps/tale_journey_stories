@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00403_pt",
+    "title": "A Sala no Final do Corredor",
+    "category": "Mystery",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00404_pt",
+    "title": "O Anel Desaparecido",
+    "category": "Mystery",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

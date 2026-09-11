@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_01803_es",
+    "title": "La última transmisión",
+    "category": "Science Fiction",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_01804_es",
+    "title": "Los auriculares de Marte",
+    "category": "Science Fiction",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

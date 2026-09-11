@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_01803_en",
+    "title": "The Last Transmission",
+    "category": "Science Fiction",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_01804_en",
+    "title": "The Headphones from Mars",
+    "category": "Science Fiction",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

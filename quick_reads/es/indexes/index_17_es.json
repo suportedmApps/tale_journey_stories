@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_01703_es",
+    "title": "La lección más allá del aula",
+    "category": "Education",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_01704_es",
+    "title": "El examen difícil",
+    "category": "Education",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

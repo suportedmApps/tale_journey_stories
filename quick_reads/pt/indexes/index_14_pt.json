@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_01403_pt",
+    "title": "O caso que deveria ter sido encerrado",
+    "category": "Crime & Detective",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_01404_pt",
+    "title": "O Despertador Desaparecido",
+    "category": "Crime & Detective",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

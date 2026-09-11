@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00803_pt",
+    "title": "A Publicação Que Mudou Tudo",
+    "category": "Social Media & Modern Life",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00804_pt",
+    "title": "A Bolsa Nova",
+    "category": "Social Media & Modern Life",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

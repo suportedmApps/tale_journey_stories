@@ -22,5 +22,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00108_pt",
+    "title": "Uma Forma Diferente de Conhecer Veneza",
+    "category": "Travel",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00109_pt",
+    "title": "Um dia na Austrália",
+    "category": "Travel",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

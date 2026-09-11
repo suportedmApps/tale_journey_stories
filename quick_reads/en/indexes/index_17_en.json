@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_01703_en",
+    "title": "The Lesson Beyond the Classroom",
+    "category": "Education",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_01704_en",
+    "title": "The Difficult Test",
+    "category": "Education",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

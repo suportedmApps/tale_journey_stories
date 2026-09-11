@@ -22,5 +22,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00108_fr",
+    "title": "Une Autre Façon de Découvrir Venise",
+    "category": "Travel",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00109_fr",
+    "title": "Une journée en Australie",
+    "category": "Travel",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

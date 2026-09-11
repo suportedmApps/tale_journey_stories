@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_01703_fr",
+    "title": "La leçon au-delà de la salle de classe",
+    "category": "Education",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_01704_fr",
+    "title": "Le contrôle difficile",
+    "category": "Education",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

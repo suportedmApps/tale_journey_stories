@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_01003_es",
+    "title": "La verdad incómoda",
+    "category": "Dialogues",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_01004_es",
+    "title": "Compras para la escuela",
+    "category": "Dialogues",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

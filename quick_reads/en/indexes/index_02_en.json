@@ -54,5 +54,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00108_en",
+    "title": "A Different Way Through Venice",
+    "category": "Travel",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00109_en",
+    "title": "A Day in Australia",
+    "category": "Travel",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

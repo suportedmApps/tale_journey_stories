@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_01903_en",
+    "title": "Leonardo da Vinci: The Mind That Refused to Have a Single Discipline",
+    "category": "History",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_01904_en",
+    "title": "Beethoven: A Great Composer",
+    "category": "History",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

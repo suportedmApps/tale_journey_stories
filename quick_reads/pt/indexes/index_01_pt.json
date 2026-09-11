@@ -86,5 +86,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00012_pt",
+    "title": "As Coisas Que Faríamos de Forma Diferente",
+    "category": "Daily Life",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00013_pt",
+    "title": "Uma manhã em casa",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

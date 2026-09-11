@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_01603_es",
+    "title": "El reino más allá de la niebla",
+    "category": "Fantasy",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_01604_es",
+    "title": "El beso del verdadero amor",
+    "category": "Fantasy",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

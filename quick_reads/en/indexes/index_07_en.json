@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00703_en",
+    "title": "The Valley We Should Have Left",
+    "category": "Adventure",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00704_en",
+    "title": "The Archer's Path",
+    "category": "Adventure",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

@@ -22,5 +22,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00108_es",
+    "title": "Una Forma Diferente de Recorrer Venecia",
+    "category": "Travel",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_00109_es",
+    "title": "Un día en Australia",
+    "category": "Travel",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]

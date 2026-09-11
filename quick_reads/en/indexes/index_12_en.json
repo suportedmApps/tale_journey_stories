@@ -14,5 +14,21 @@
     "level": "Intermediate",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_01203_en",
+    "title": "René Descartes and the Certainty of Thought",
+    "category": "Philosophy & Reflection",
+    "level": "Advanced",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "qr_01204_en",
+    "title": "Aristotle: A Life of Knowledge",
+    "category": "Philosophy & Reflection",
+    "level": "Beginner",
+    "isPremium": false,
+    "version": 1
   }
 ]
