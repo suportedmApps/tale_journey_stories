@@ -102,9 +102,9 @@
     },
     "description": {
       "en": "Complete 5 Quick Reads during the Christmas event.",
-      "pt": "Conclua 5 Quick Reads durante o evento de Natal.",
-      "es": "Completa 5 Quick Reads durante el evento de Navidad.",
-      "fr": "Terminez 5 Quick Reads durant l'événement de Noël."
+      "pt": "Conclua 5 Leituras Rápidas durante o evento de Natal.",
+      "es": "Completa 5 Lecturas Rápidas durante el evento de Navidad.",
+      "fr": "Complétez 5 Lectures Rapides pendant l’événement de Noël."
     },
     "icon": "⚡",
     "event": "quick_read.completed",

@@ -15,12 +15,24 @@
     "id": "b_1342_en",
     "title": "Pride and Prejudice",
     "author": "Jane Austen",
-    "category": "Classic Literature",
-    "level": "Intermediate",
+    "category": "Romance",
+    "level": "Advanced",
     "coverImage": "https://...",
     "availableChapters": 61,
     "publishedAt": "2026-08-31",
     "isPremium": false,
     "version": 1
-  }  
+  },
+  {
+    "id": "b_1661_en",
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "category": "Mystery",
+    "level": "Intermediate",
+    "coverImage": "b_1661_en.webp",
+    "availableChapters": 12,
+    "publishedAt": "2026-09-10",
+    "isPremium": false,
+    "version": 1
+  }
 ]

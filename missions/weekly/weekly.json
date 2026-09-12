@@ -33,9 +33,9 @@
     },
     "description": {
       "en": "Complete 3 Quick Reads this week.",
-      "pt": "Conclua 3 Quick Reads nesta semana.",
-      "es": "Completa 3 Quick Reads esta semana.",
-      "fr": "Terminez 3 Quick Reads cette semaine."
+      "pt": "Conclua 3 Leituras Rápidas esta semana.",
+      "es": "Completa 3 Lecturas Rápidas esta semana.",
+      "fr": "Complétez 3 Lectures Rapides cette semaine."
     },
     "icon": "⚡",
     "event": "quick_read.completed",

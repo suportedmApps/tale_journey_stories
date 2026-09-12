@@ -102,9 +102,9 @@
     },
     "description": {
       "en": "Complete 5 Quick Reads during the Halloween event.",
-      "pt": "Conclua 5 Quick Reads durante o evento de Halloween.",
-      "es": "Completa 5 Quick Reads durante el evento de Halloween.",
-      "fr": "Terminez 5 Quick Reads durant l'événement d'Halloween."
+      "pt": "Conclua 5 Leituras Rápidas durante o evento de Halloween.",
+      "es": "Completa 5 Lecturas Rápidas durante el evento de Halloween.",
+      "fr": "Complétez 5 Lectures Rapides pendant l’événement d’Halloween."
     },
     "icon": "⚡",
     "event": "quick_read.completed",

@@ -15,11 +15,23 @@
     "id": "b_1342_es",
     "title": "Orgullo y prejuicio",
     "author": "Jane Austen",
-    "category": "Classic Literature",
-    "level": "Intermediate",
+    "category": "Romance",
+    "level": "Advanced",
     "coverImage": "https://...",
     "availableChapters": 61,
     "publishedAt": "2026-08-31",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "b_1661_es",
+    "title": "Las aventuras de Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "category": "Mystery",
+    "level": "Intermediate",
+    "coverImage": "b_1661_es.webp",
+    "availableChapters": 12,
+    "publishedAt": "2026-09-10",
     "isPremium": false,
     "version": 1
   }

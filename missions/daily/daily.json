@@ -56,9 +56,9 @@
     },
     "description": {
       "en": "Complete one Quick Read today.",
-      "pt": "Conclua um Quick Read hoje.",
-      "es": "Completa un Quick Read hoy.",
-      "fr": "Terminez un Quick Read aujourd'hui."
+      "pt": "Conclua uma Leitura Rápida hoje.",
+      "es": "Completa una Lectura Rápida hoy.",
+      "fr": "Complétez une Lecture Rapide aujourd’hui."
     },
     "icon": "⚡",
     "event": "quick_read.completed",
