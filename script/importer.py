@@ -10,9 +10,9 @@ from bs4 import BeautifulSoup, Tag
 # CONFIGURAÇÕES
 # ============================================================
 
-BOOK_ID = "55752"
+BOOK_ID = "1661"
 
-LANGUAGE = "pt"
+LANGUAGE = "en"
 
 BOOK_PREFIX = f"b_{BOOK_ID}_{LANGUAGE}"
 
