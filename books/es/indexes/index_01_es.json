@@ -1,0 +1,50 @@
+[
+  {
+    "id": "b_11_es",
+    "title": "Las aventuras de Alicia en el país de las maravillas",
+    "author": "Lewis Carroll",
+    "category": "Fantasy",
+    "level": "Beginner",
+    "coverImage": "b_11_es.webp",
+    "availableChapters": 12,
+    "publishedAt": "2026-08-31",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "b_1342_es",
+    "title": "Orgullo y prejuicio",
+    "author": "Jane Austen",
+    "category": "Romance",
+    "level": "Advanced",
+    "coverImage": "https://...",
+    "availableChapters": 61,
+    "publishedAt": "2026-08-31",
+    "isPremium": true,
+    "version": 1
+  },
+  {
+    "id": "b_1661_es",
+    "title": "Las aventuras de Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "category": "Mystery",
+    "level": "Intermediate",
+    "coverImage": "b_1661_es.webp",
+    "availableChapters": 12,
+    "publishedAt": "2026-09-10",
+    "isPremium": false,
+    "version": 1
+  },
+  {
+    "id": "b_2701_es",
+    "title": "Moby Dick; o, La ballena",
+    "author": "Herman Melville",
+    "category": "Adventure",
+    "level": "Advanced",
+    "coverImage": "b_2701_es.webp",
+    "availableChapters": 135,
+    "publishedAt": "2026-09-14",
+    "isPremium": true,
+    "version": 1
+  }
+]

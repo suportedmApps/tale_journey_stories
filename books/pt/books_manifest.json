@@ -2,14 +2,8 @@
   "version": 1,
   "indexes": [
     {
-      "id": "02_pt",
-      "name": "S002",
-      "version": 1,
-      "last_updated": "2026-05-22T10:30:00Z"
-    },
-    {
-      "id": "03_pt",
-      "name": "S003",
+      "id": "01_pt",
+      "name": "S001",
       "version": 1,
       "last_updated": "2026-05-22T10:30:00Z"
     }
