@@ -8,7 +8,7 @@
     "coverImage": "https://www.gutenberg.org/cache/epub/2701/pg2701.cover.medium.jpg",
     "availableChapters": 135,
     "publishedAt": "2026-08-31",
-    "isPremium": false,
+    "isPremium": true,
     "version": 1
   }
 ]

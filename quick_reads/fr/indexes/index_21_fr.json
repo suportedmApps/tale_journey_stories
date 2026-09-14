@@ -20,7 +20,7 @@
     "title": "La Maison Qui Ne Dormait Jamais",
     "category": "Halloween",
     "level": "Advanced",
-    "isPremium": false,
+    "isPremium": true,
     "version": 1
   }
 ]

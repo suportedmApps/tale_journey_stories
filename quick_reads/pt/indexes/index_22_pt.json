@@ -20,7 +20,7 @@
     "title": "A Promessa de Natal",
     "category": "Christmas",
     "level": "Advanced",
-    "isPremium": false,
+    "isPremium": true,
     "version": 1
   }
 ]

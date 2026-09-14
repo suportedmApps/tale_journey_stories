@@ -20,7 +20,7 @@
     "title": "The Recipe That Crossed an Ocean",
     "category": "Food & Cooking",
     "level": "Advanced",
-    "isPremium": false,
+    "isPremium": true,
     "version": 1
   },
   {

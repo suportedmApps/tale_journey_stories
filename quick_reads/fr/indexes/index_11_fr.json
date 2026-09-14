@@ -36,7 +36,7 @@
     "title": "La discipline silencieuse",
     "category": "Health & Wellness",
     "level": "Advanced",
-    "isPremium": false,
+    "isPremium": true,
     "version": 1
   }
 ]

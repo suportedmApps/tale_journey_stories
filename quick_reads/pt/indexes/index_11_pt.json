@@ -36,7 +36,7 @@
     "title": "A Disciplina Silenciosa",
     "category": "Health & Wellness",
     "level": "Advanced",
-    "isPremium": false,
+    "isPremium": true,
     "version": 1
   }
 ]

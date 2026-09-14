@@ -684,7 +684,7 @@
     "title": "The Silence of Foreign Streets",
     "category": "Travel",
     "level": "Advanced",
-    "isPremium": false,
+    "isPremium": true,
     "version": 1
   },
   {
@@ -692,7 +692,7 @@
     "title": "A Letter from Another Country",
     "category": "Travel",
     "level": "Advanced",
-    "isPremium": false,
+    "isPremium": true,
     "version": 1
   },
   {
@@ -700,7 +700,7 @@
     "title": "Wandering Without a Destination",
     "category": "Travel",
     "level": "Advanced",
-    "isPremium": false,
+    "isPremium": true,
     "version": 1
   },
   {
@@ -708,7 +708,7 @@
     "title": "The Loneliness of Solo Travel",
     "category": "Travel",
     "level": "Advanced",
-    "isPremium": false,
+    "isPremium": true,
     "version": 1
   },
   {
@@ -716,7 +716,7 @@
     "title": "Midnight at the Airport",
     "category": "Travel",
     "level": "Advanced",
-    "isPremium": false,
+    "isPremium": true,
     "version": 1
   },
   {
@@ -724,7 +724,7 @@
     "title": "Memories from a Train Window",
     "category": "Travel",
     "level": "Advanced",
-    "isPremium": false,
+    "isPremium": true,
     "version": 1
   },
   {
@@ -732,7 +732,7 @@
     "title": "The City Hidden in the Fog",
     "category": "Travel",
     "level": "Advanced",
-    "isPremium": false,
+    "isPremium": true,
     "version": 1
   },
   {
@@ -740,7 +740,7 @@
     "title": "Conversations with Strangers",
     "category": "Travel",
     "level": "Advanced",
-    "isPremium": false,
+    "isPremium": true,
     "version": 1
   },
   {
@@ -748,7 +748,7 @@
     "title": "The Last Night Abroad",
     "category": "Travel",
     "level": "Advanced",
-    "isPremium": false,
+    "isPremium": true,
     "version": 1
   },
   {
@@ -756,7 +756,7 @@
     "title": "A Forgotten Village in the Mountains",
     "category": "Travel",
     "level": "Advanced",
-    "isPremium": false,
+    "isPremium": true,
     "version": 1
   },
   {
@@ -764,7 +764,7 @@
     "title": "The Feeling of Leaving Home",
     "category": "Travel",
     "level": "Advanced",
-    "isPremium": false,
+    "isPremium": true,
     "version": 1
   },
   {
@@ -772,7 +772,7 @@
     "title": "Rain in an Unknown City",
     "category": "Travel",
     "level": "Advanced",
-    "isPremium": false,
+    "isPremium": true,
     "version": 1
   },
   {
@@ -780,7 +780,7 @@
     "title": "Between Airports and Hotels",
     "category": "Travel",
     "level": "Advanced",
-    "isPremium": false,
+    "isPremium": true,
     "version": 1
   },
   {
@@ -788,7 +788,7 @@
     "title": "The Journey That Changed Me",
     "category": "Travel",
     "level": "Advanced",
-    "isPremium": false,
+    "isPremium": true,
     "version": 1
   },
   {
@@ -796,7 +796,7 @@
     "title": "Watching the World Pass By",
     "category": "Travel",
     "level": "Advanced",
-    "isPremium": false,
+    "isPremium": true,
     "version": 1
   }
 ]

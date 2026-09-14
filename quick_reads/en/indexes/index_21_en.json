@@ -20,7 +20,7 @@
     "title": "The House That Never Slept",
     "category": "Halloween",
     "level": "Advanced",
-    "isPremium": false,
+    "isPremium": true,
     "version": 1
   }
 ]

@@ -20,7 +20,7 @@
     "title": "La Promesse de Noël",
     "category": "Christmas",
     "level": "Advanced",
-    "isPremium": false,
+    "isPremium": true,
     "version": 1
   }
 ]

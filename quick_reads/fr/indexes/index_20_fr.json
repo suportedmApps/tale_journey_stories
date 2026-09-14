@@ -20,7 +20,7 @@
     "title": "Le dernier rallye",
     "category": "Sports",
     "level": "Advanced",
-    "isPremium": false,
+    "isPremium": true,
     "version": 1
   },
   {
