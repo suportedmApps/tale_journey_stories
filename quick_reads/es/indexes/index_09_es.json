@@ -38,5 +38,13 @@
     "level": "Beginner",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00906_es",
+    "title": "La Nueva Oportunidad",
+    "category": "Business",
+    "level": "Intermediate",
+    "isPremium": false,
+    "version": 1
   }
 ]

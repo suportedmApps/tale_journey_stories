@@ -38,5 +38,13 @@
     "level": "Advanced",
     "isPremium": true,
     "version": 1
+  },
+  {
+    "id": "qr_01106_en",
+    "title": "A Better Balance",
+    "category": "Health & Wellness",
+    "level": "Intermediate",
+    "isPremium": false,
+    "version": 1
   }
 ]

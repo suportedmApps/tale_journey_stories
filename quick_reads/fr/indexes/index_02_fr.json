@@ -38,5 +38,13 @@
     "level": "Beginner",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00110_fr",
+    "title": "Un week-end à Rio de Janeiro",
+    "category": "Travel",
+    "level": "Intermediate",
+    "isPremium": false,
+    "version": 1
   }
 ]

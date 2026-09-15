@@ -30,5 +30,13 @@
     "level": "Beginner",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_02005_pt",
+    "title": "O Arremesso Final",
+    "category": "Sports",
+    "level": "Intermediate",
+    "isPremium": false,
+    "version": 1
   }
 ]

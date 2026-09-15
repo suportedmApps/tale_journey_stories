@@ -38,5 +38,13 @@
     "level": "Beginner",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00506_en",
+    "title": "Love on the Open Sea",
+    "category": "Romance",
+    "level": "Intermediate",
+    "isPremium": false,
+    "version": 1
   }
 ]

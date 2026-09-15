@@ -30,5 +30,13 @@
     "level": "Beginner",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_01205_en",
+    "title": "Auguste Comte: The Father of Positivism",
+    "category": "Philosophy & Reflection",
+    "level": "Intermediate",
+    "isPremium": false,
+    "version": 1
   }
 ]

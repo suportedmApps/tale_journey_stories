@@ -30,5 +30,13 @@
     "level": "Beginner",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00805_en",
+    "title": "Life in the Spotlight",
+    "category": "Social Media & Modern Life",
+    "level": "Intermediate",
+    "isPremium": false,
+    "version": 1
   }
 ]

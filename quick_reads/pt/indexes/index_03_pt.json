@@ -30,5 +30,13 @@
     "level": "Beginner",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00305_pt",
+    "title": "Entendendo o Bitcoin",
+    "category": "Technology",
+    "level": "Intermediate",
+    "isPremium": false,
+    "version": 1
   }
 ]

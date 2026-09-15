@@ -102,5 +102,13 @@
     "level": "Beginner",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00014_pt",
+    "title": "Uma Nova Rotina",
+    "category": "Daily Life",
+    "level": "Intermediate",
+    "isPremium": false,
+    "version": 1
   }
 ]

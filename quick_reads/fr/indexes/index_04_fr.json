@@ -30,5 +30,13 @@
     "level": "Beginner",
     "isPremium": false,
     "version": 1
+  },
+  {
+    "id": "qr_00405_fr",
+    "title": "La Fourchette sur la Table",
+    "category": "Mystery",
+    "level": "Intermediate",
+    "isPremium": false,
+    "version": 1
   }
 ]
