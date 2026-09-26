@@ -4,7 +4,13 @@
     {
       "id": "01_pt",
       "name": "S001",
-      "version": 5,
+      "version": 1,
+      "last_updated": "2026-08-12T12:30:00Z"
+    },
+    {
+      "id": "02_pt",
+      "name": "S002",
+      "version": 1,
       "last_updated": "2026-08-12T12:30:00Z"
     },
     {

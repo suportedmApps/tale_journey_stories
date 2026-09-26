@@ -37,14 +37,14 @@
   },
   {
     "id": "s_00104_en",
-    "title": "The Train to Kyoto 2",
-    "category": "Travel",
-    "level": "Beginner",
-    "status": "completed",
+    "title": "The Old Desk",
+    "category": "Mystery",
+    "level": "Intermediate",
+    "status": "ongoing",
     "coverImage": "stories/s_00104_cover.webp",
-    "availableChapters": 3,
+    "availableChapters": 14,
     "publishedAt": "2026-08-05",
-    "isPremium": false,
+    "isPremium": true,
     "version": 1
   },
   {

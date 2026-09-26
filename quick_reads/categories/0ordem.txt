@@ -6,6 +6,7 @@
 6-Food & Cooking
 7-Adventure
 8-Social Media & Modern Life
+
 9-Business
 10-Dialogues
 11-Health & Wellness
@@ -21,3 +22,67 @@
 
 21-Halloween
 22-Christmas
+
+
+Agora vamos escrever outra história, seguindo os padrões que falei vamos escrever uma na categoria Social Media & Modern Life, 
+faça como se fosse em um livro, focando em parágrafos grandes do começo ao fim do capítulo. 
+A princípio defina o titulo da história, dos capítulos e uma descrição somente para a história, para os capítulos de somente o título de cada um
+
+
+
+Vamos começar outra história, categoria Romance, 
+título: O Segredo dos Blackwood , 
+descrição: 
+Helena nunca imaginou que aceitar um projeto de revitalização urbana a colocaria tão perto de Alexander Blackwood, um homem tão controlado quanto irresistível, com quem sua relação começa marcada por conflitos, desconfiança e uma atração impossível de ignorar. Enquanto os dois tentam trabalhar juntos, documentos antigos, mensagens anônimas, fotografias e segredos envolvendo as famílias Blackwood e Morgan revelam uma história de manipulações, lealdades quebradas e um acidente que permaneceu sem respostas por quinze anos.
+À medida que a verdade vem à tona, Helena e Alexander precisam decidir se conseguem deixar o orgulho de lado e confiar um no outro. Entre descobertas dolorosas, ameaças e sentimentos que já não podem ser escondidos, os dois finalmente enfrentam o passado e encontram a liberdade para escolher o futuro que desejam construir juntos.
+
+Me de o json dessa história para os 4 idiomas, seguindo o padrão: {
+    "id": "s_00001_en",
+    "title": "The Days We Almost Miss",
+    "category": "Daily Life",
+    "level": "Beginner",
+    "status": "completed",
+    "coverImage": "stories/s_00001_cover.webp",
+    "availableChapters": 12,
+    "publishedAt": "2026-09-22",
+    "isPremium": false,
+    "version": 1
+  },
+e de também a "description": "" para os 4
+
+o id vai ser: s_00005_en
+somente é traduzido o campo title, id e description, o resto permanece igual independente do idioma
+
+
+
+
+Para os capítulos do Tale Journey, definimos este padrão:
+
+{
+  "id": "c_0001",
+  "title": "Chapter Title",
+  "order": 1,
+  "content": "\n\nFull chapter content..."
+}
+
+E as regras principais são:
+
+4 versões separadas: EN → ES → FR → PT.
+Mesmo id do capítulo nas quatro versões.
+order correspondente ao número do capítulo.
+Apenas os 4 campos: id, title, order, content.
+Sem campo language e sem objeto externo envolvendo o capítulo.
+O conteúdo completo deve estar em content.
+Parágrafos separados por \n\n.
+Tradução natural, mantendo o estilo literário.
+Parágrafos predominantemente médios e longos, com variação natural.
+Não transformar o final em uma sequência de vários parágrafos de 1–2 frases.
+Diálogos seguem a convenção literária de cada idioma:
+EN: "...".
+ES: —...
+FR: « ... »
+PT: — ...
+Não usar **, * ou outras marcações Markdown dentro do conteúdo.
+Manter nomes próprios exatamente como definidos na história.
+
+E, para esta nova história, seguiremos a numeração começando em c_0001 e avançando até c_0010.
